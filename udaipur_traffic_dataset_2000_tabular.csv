@@ -1,0 +1,2001 @@
+Record_ID,City,Location,Date,Time,Vehicle_Count,Traffic_Density,Accident_Reported,Weather,Road_Type
+1,Udaipur,Chetak Circle,01-01-2024,01:00:00,435,High,Yes,Clear,NH
+2,Udaipur,Hiran Magri,01-01-2024,02:00:00,207,Low,Yes,Rainy,City Road
+3,Udaipur,Goverdhan Vilas,01-01-2024,03:00:00,435,Low,No,Foggy,Residential
+4,Udaipur,Udiapole,01-01-2024,04:00:00,416,High,No,Foggy,NH
+5,Udaipur,Hiran Magri,01-01-2024,05:00:00,443,Medium,Yes,Foggy,Residential
+6,Udaipur,Surajpole,01-01-2024,06:00:00,358,High,Yes,Rainy,NH
+7,Udaipur,Fatehpura,01-01-2024,07:00:00,319,High,No,Rainy,Residential
+8,Udaipur,Chetak Circle,01-01-2024,08:00:00,483,High,No,Foggy,City Road
+9,Udaipur,Chetak Circle,01-01-2024,09:00:00,317,High,Yes,Foggy,NH
+10,Udaipur,Fatehpura,01-01-2024,10:00:00,286,Medium,Yes,Clear,NH
+11,Udaipur,Goverdhan Vilas,01-01-2024,11:00:00,99,High,Yes,Foggy,City Road
+12,Udaipur,Surajpole,01-01-2024,12:00:00,471,Low,No,Rainy,NH
+13,Udaipur,Fatehpura,01-01-2024,13:00:00,148,Medium,No,Foggy,Residential
+14,Udaipur,Goverdhan Vilas,01-01-2024,14:00:00,103,High,Yes,Rainy,Residential
+15,Udaipur,Hiran Magri,01-01-2024,15:00:00,60,High,No,Clear,NH
+16,Udaipur,Hiran Magri,01-01-2024,16:00:00,123,High,No,Foggy,City Road
+17,Udaipur,Goverdhan Vilas,01-01-2024,17:00:00,222,Low,Yes,Clear,Residential
+18,Udaipur,Goverdhan Vilas,01-01-2024,18:00:00,484,Low,No,Rainy,City Road
+19,Udaipur,Surajpole,01-01-2024,19:00:00,254,Low,No,Foggy,City Road
+20,Udaipur,Surajpole,01-01-2024,20:00:00,469,Medium,No,Clear,City Road
+21,Udaipur,Udiapole,01-01-2024,21:00:00,175,Medium,Yes,Rainy,NH
+22,Udaipur,Chetak Circle,01-01-2024,22:00:00,128,Medium,Yes,Rainy,City Road
+23,Udaipur,Goverdhan Vilas,01-01-2024,23:00:00,364,High,Yes,Foggy,NH
+24,Udaipur,Fatehpura,02-01-2024,00:00:00,214,Medium,Yes,Foggy,Residential
+25,Udaipur,Fatehpura,02-01-2024,01:00:00,292,High,Yes,Clear,NH
+26,Udaipur,Surajpole,02-01-2024,02:00:00,180,Low,No,Rainy,City Road
+27,Udaipur,Surajpole,02-01-2024,03:00:00,126,Low,Yes,Rainy,Residential
+28,Udaipur,Surajpole,02-01-2024,04:00:00,123,High,Yes,Foggy,NH
+29,Udaipur,Udiapole,02-01-2024,05:00:00,464,High,Yes,Foggy,Residential
+30,Udaipur,Udiapole,02-01-2024,06:00:00,137,High,Yes,Clear,Residential
+31,Udaipur,Udiapole,02-01-2024,07:00:00,394,Medium,Yes,Rainy,NH
+32,Udaipur,Surajpole,02-01-2024,08:00:00,190,Medium,Yes,Clear,NH
+33,Udaipur,Fatehpura,02-01-2024,09:00:00,90,Medium,Yes,Foggy,NH
+34,Udaipur,Surajpole,02-01-2024,10:00:00,287,High,Yes,Rainy,Residential
+35,Udaipur,Goverdhan Vilas,02-01-2024,11:00:00,231,Low,No,Foggy,City Road
+36,Udaipur,Surajpole,02-01-2024,12:00:00,159,Medium,No,Rainy,Residential
+37,Udaipur,Goverdhan Vilas,02-01-2024,13:00:00,167,Medium,Yes,Clear,City Road
+38,Udaipur,Goverdhan Vilas,02-01-2024,14:00:00,241,High,No,Foggy,Residential
+39,Udaipur,Hiran Magri,02-01-2024,15:00:00,179,High,No,Foggy,Residential
+40,Udaipur,Chetak Circle,02-01-2024,16:00:00,149,Low,No,Rainy,NH
+41,Udaipur,Fatehpura,02-01-2024,17:00:00,352,Medium,No,Clear,NH
+42,Udaipur,Udiapole,02-01-2024,18:00:00,357,High,Yes,Foggy,NH
+43,Udaipur,Goverdhan Vilas,02-01-2024,19:00:00,189,Medium,Yes,Rainy,NH
+44,Udaipur,Fatehpura,02-01-2024,20:00:00,51,High,Yes,Foggy,NH
+45,Udaipur,Hiran Magri,02-01-2024,21:00:00,256,Low,No,Foggy,NH
+46,Udaipur,Udiapole,02-01-2024,22:00:00,461,Low,No,Rainy,Residential
+47,Udaipur,Udiapole,02-01-2024,23:00:00,469,Low,Yes,Clear,NH
+48,Udaipur,Fatehpura,03-01-2024,00:00:00,181,Low,Yes,Rainy,NH
+49,Udaipur,Fatehpura,03-01-2024,01:00:00,392,Medium,Yes,Clear,City Road
+50,Udaipur,Udiapole,03-01-2024,02:00:00,255,High,No,Clear,Residential
+51,Udaipur,Surajpole,03-01-2024,03:00:00,131,Medium,No,Clear,NH
+52,Udaipur,Goverdhan Vilas,03-01-2024,04:00:00,177,High,No,Rainy,City Road
+53,Udaipur,Goverdhan Vilas,03-01-2024,05:00:00,185,High,Yes,Foggy,NH
+54,Udaipur,Goverdhan Vilas,03-01-2024,06:00:00,293,High,No,Clear,Residential
+55,Udaipur,Surajpole,03-01-2024,07:00:00,105,High,Yes,Rainy,City Road
+56,Udaipur,Chetak Circle,03-01-2024,08:00:00,431,Medium,Yes,Clear,City Road
+57,Udaipur,Goverdhan Vilas,03-01-2024,09:00:00,104,Medium,No,Rainy,NH
+58,Udaipur,Chetak Circle,03-01-2024,10:00:00,376,Low,Yes,Foggy,Residential
+59,Udaipur,Surajpole,03-01-2024,11:00:00,147,Low,No,Foggy,NH
+60,Udaipur,Surajpole,03-01-2024,12:00:00,64,High,No,Foggy,Residential
+61,Udaipur,Chetak Circle,03-01-2024,13:00:00,392,Medium,Yes,Foggy,Residential
+62,Udaipur,Goverdhan Vilas,03-01-2024,14:00:00,172,Low,Yes,Clear,NH
+63,Udaipur,Fatehpura,03-01-2024,15:00:00,439,Low,Yes,Foggy,NH
+64,Udaipur,Chetak Circle,03-01-2024,16:00:00,84,Medium,No,Foggy,NH
+65,Udaipur,Udiapole,03-01-2024,17:00:00,140,Low,No,Clear,NH
+66,Udaipur,Fatehpura,03-01-2024,18:00:00,482,High,No,Rainy,Residential
+67,Udaipur,Surajpole,03-01-2024,19:00:00,106,Low,No,Rainy,Residential
+68,Udaipur,Fatehpura,03-01-2024,20:00:00,75,High,No,Rainy,Residential
+69,Udaipur,Fatehpura,03-01-2024,21:00:00,164,High,No,Foggy,Residential
+70,Udaipur,Goverdhan Vilas,03-01-2024,22:00:00,428,Medium,Yes,Foggy,Residential
+71,Udaipur,Surajpole,03-01-2024,23:00:00,154,High,No,Foggy,City Road
+72,Udaipur,Chetak Circle,04-01-2024,00:00:00,60,High,No,Clear,Residential
+73,Udaipur,Hiran Magri,04-01-2024,01:00:00,242,Low,Yes,Clear,City Road
+74,Udaipur,Fatehpura,04-01-2024,02:00:00,407,Low,Yes,Clear,City Road
+75,Udaipur,Fatehpura,04-01-2024,03:00:00,85,Medium,No,Rainy,Residential
+76,Udaipur,Udiapole,04-01-2024,04:00:00,174,Low,No,Foggy,City Road
+77,Udaipur,Goverdhan Vilas,04-01-2024,05:00:00,468,Low,Yes,Rainy,NH
+78,Udaipur,Udiapole,04-01-2024,06:00:00,185,Medium,Yes,Clear,Residential
+79,Udaipur,Surajpole,04-01-2024,07:00:00,270,Low,No,Foggy,Residential
+80,Udaipur,Hiran Magri,04-01-2024,08:00:00,382,Low,No,Foggy,Residential
+81,Udaipur,Chetak Circle,04-01-2024,09:00:00,479,Low,No,Foggy,Residential
+82,Udaipur,Goverdhan Vilas,04-01-2024,10:00:00,58,Low,No,Foggy,Residential
+83,Udaipur,Udiapole,04-01-2024,11:00:00,163,High,Yes,Foggy,NH
+84,Udaipur,Udiapole,04-01-2024,12:00:00,364,Low,Yes,Clear,City Road
+85,Udaipur,Surajpole,04-01-2024,13:00:00,186,High,Yes,Rainy,NH
+86,Udaipur,Fatehpura,04-01-2024,14:00:00,336,Medium,No,Rainy,Residential
+87,Udaipur,Hiran Magri,04-01-2024,15:00:00,110,Low,No,Rainy,City Road
+88,Udaipur,Goverdhan Vilas,04-01-2024,16:00:00,304,Medium,Yes,Rainy,Residential
+89,Udaipur,Chetak Circle,04-01-2024,17:00:00,131,Low,No,Clear,City Road
+90,Udaipur,Hiran Magri,04-01-2024,18:00:00,73,Medium,No,Rainy,City Road
+91,Udaipur,Goverdhan Vilas,04-01-2024,19:00:00,394,High,Yes,Clear,Residential
+92,Udaipur,Hiran Magri,04-01-2024,20:00:00,461,High,Yes,Clear,NH
+93,Udaipur,Hiran Magri,04-01-2024,21:00:00,385,High,Yes,Clear,Residential
+94,Udaipur,Udiapole,04-01-2024,22:00:00,112,Medium,No,Foggy,NH
+95,Udaipur,Fatehpura,04-01-2024,23:00:00,213,High,No,Clear,City Road
+96,Udaipur,Udiapole,05-01-2024,00:00:00,390,Medium,Yes,Foggy,Residential
+97,Udaipur,Hiran Magri,05-01-2024,01:00:00,271,Medium,Yes,Rainy,NH
+98,Udaipur,Chetak Circle,05-01-2024,02:00:00,239,Medium,No,Foggy,City Road
+99,Udaipur,Fatehpura,05-01-2024,03:00:00,308,Medium,No,Foggy,City Road
+100,Udaipur,Chetak Circle,05-01-2024,04:00:00,230,High,Yes,Foggy,Residential
+101,Udaipur,Hiran Magri,05-01-2024,05:00:00,250,Medium,Yes,Rainy,Residential
+102,Udaipur,Fatehpura,05-01-2024,06:00:00,113,Medium,Yes,Clear,Residential
+103,Udaipur,Chetak Circle,05-01-2024,07:00:00,353,Medium,Yes,Foggy,NH
+104,Udaipur,Goverdhan Vilas,05-01-2024,08:00:00,372,Low,Yes,Rainy,City Road
+105,Udaipur,Chetak Circle,05-01-2024,09:00:00,270,High,Yes,Foggy,NH
+106,Udaipur,Hiran Magri,05-01-2024,10:00:00,412,Medium,Yes,Foggy,Residential
+107,Udaipur,Surajpole,05-01-2024,11:00:00,100,High,No,Foggy,City Road
+108,Udaipur,Udiapole,05-01-2024,12:00:00,165,Low,Yes,Foggy,Residential
+109,Udaipur,Chetak Circle,05-01-2024,13:00:00,115,Medium,No,Foggy,NH
+110,Udaipur,Surajpole,05-01-2024,14:00:00,219,Low,Yes,Foggy,City Road
+111,Udaipur,Udiapole,05-01-2024,15:00:00,454,Low,No,Clear,City Road
+112,Udaipur,Goverdhan Vilas,05-01-2024,16:00:00,172,Medium,No,Foggy,NH
+113,Udaipur,Hiran Magri,05-01-2024,17:00:00,221,High,Yes,Clear,Residential
+114,Udaipur,Surajpole,05-01-2024,18:00:00,120,Medium,No,Clear,City Road
+115,Udaipur,Fatehpura,05-01-2024,19:00:00,80,High,Yes,Foggy,City Road
+116,Udaipur,Hiran Magri,05-01-2024,20:00:00,427,Medium,Yes,Foggy,Residential
+117,Udaipur,Goverdhan Vilas,05-01-2024,21:00:00,264,High,Yes,Rainy,City Road
+118,Udaipur,Udiapole,05-01-2024,22:00:00,361,Low,No,Rainy,NH
+119,Udaipur,Hiran Magri,05-01-2024,23:00:00,318,High,No,Rainy,City Road
+120,Udaipur,Fatehpura,06-01-2024,00:00:00,438,Low,Yes,Rainy,Residential
+121,Udaipur,Fatehpura,06-01-2024,01:00:00,498,Medium,No,Clear,City Road
+122,Udaipur,Udiapole,06-01-2024,02:00:00,491,High,Yes,Clear,City Road
+123,Udaipur,Surajpole,06-01-2024,03:00:00,144,Low,Yes,Rainy,City Road
+124,Udaipur,Surajpole,06-01-2024,04:00:00,127,High,No,Clear,Residential
+125,Udaipur,Surajpole,06-01-2024,05:00:00,477,High,No,Foggy,Residential
+126,Udaipur,Fatehpura,06-01-2024,06:00:00,187,Medium,Yes,Clear,Residential
+127,Udaipur,Fatehpura,06-01-2024,07:00:00,499,High,No,Foggy,Residential
+128,Udaipur,Fatehpura,06-01-2024,08:00:00,250,Low,Yes,Clear,NH
+129,Udaipur,Udiapole,06-01-2024,09:00:00,112,High,Yes,Rainy,NH
+130,Udaipur,Goverdhan Vilas,06-01-2024,10:00:00,468,High,Yes,Foggy,City Road
+131,Udaipur,Hiran Magri,06-01-2024,11:00:00,259,Medium,No,Clear,NH
+132,Udaipur,Surajpole,06-01-2024,12:00:00,91,Medium,No,Clear,NH
+133,Udaipur,Udiapole,06-01-2024,13:00:00,90,Low,No,Foggy,City Road
+134,Udaipur,Udiapole,06-01-2024,14:00:00,335,Low,No,Rainy,City Road
+135,Udaipur,Surajpole,06-01-2024,15:00:00,217,Medium,No,Foggy,NH
+136,Udaipur,Surajpole,06-01-2024,16:00:00,289,Low,Yes,Clear,City Road
+137,Udaipur,Surajpole,06-01-2024,17:00:00,188,Medium,No,Rainy,Residential
+138,Udaipur,Hiran Magri,06-01-2024,18:00:00,187,Low,Yes,Foggy,Residential
+139,Udaipur,Udiapole,06-01-2024,19:00:00,167,Medium,No,Foggy,City Road
+140,Udaipur,Surajpole,06-01-2024,20:00:00,393,Medium,No,Foggy,Residential
+141,Udaipur,Hiran Magri,06-01-2024,21:00:00,104,High,Yes,Clear,Residential
+142,Udaipur,Surajpole,06-01-2024,22:00:00,58,Low,No,Rainy,Residential
+143,Udaipur,Udiapole,06-01-2024,23:00:00,77,Low,Yes,Foggy,NH
+144,Udaipur,Surajpole,07-01-2024,00:00:00,55,Low,Yes,Rainy,City Road
+145,Udaipur,Fatehpura,07-01-2024,01:00:00,151,Low,No,Rainy,Residential
+146,Udaipur,Hiran Magri,07-01-2024,02:00:00,118,Low,No,Foggy,Residential
+147,Udaipur,Udiapole,07-01-2024,03:00:00,415,Medium,No,Rainy,NH
+148,Udaipur,Surajpole,07-01-2024,04:00:00,239,High,Yes,Foggy,NH
+149,Udaipur,Goverdhan Vilas,07-01-2024,05:00:00,306,Medium,No,Rainy,City Road
+150,Udaipur,Hiran Magri,07-01-2024,06:00:00,272,Low,No,Clear,City Road
+151,Udaipur,Hiran Magri,07-01-2024,07:00:00,82,Low,Yes,Rainy,City Road
+152,Udaipur,Surajpole,07-01-2024,08:00:00,386,Low,No,Rainy,NH
+153,Udaipur,Goverdhan Vilas,07-01-2024,09:00:00,433,Medium,Yes,Clear,City Road
+154,Udaipur,Hiran Magri,07-01-2024,10:00:00,438,Low,Yes,Clear,NH
+155,Udaipur,Chetak Circle,07-01-2024,11:00:00,184,Medium,Yes,Clear,City Road
+156,Udaipur,Hiran Magri,07-01-2024,12:00:00,357,Medium,Yes,Foggy,Residential
+157,Udaipur,Hiran Magri,07-01-2024,13:00:00,372,High,Yes,Rainy,NH
+158,Udaipur,Hiran Magri,07-01-2024,14:00:00,435,High,No,Clear,NH
+159,Udaipur,Goverdhan Vilas,07-01-2024,15:00:00,475,Low,No,Rainy,NH
+160,Udaipur,Surajpole,07-01-2024,16:00:00,209,Medium,Yes,Clear,Residential
+161,Udaipur,Chetak Circle,07-01-2024,17:00:00,132,High,Yes,Rainy,City Road
+162,Udaipur,Goverdhan Vilas,07-01-2024,18:00:00,183,Low,Yes,Foggy,Residential
+163,Udaipur,Fatehpura,07-01-2024,19:00:00,123,Medium,No,Clear,Residential
+164,Udaipur,Fatehpura,07-01-2024,20:00:00,111,High,Yes,Foggy,Residential
+165,Udaipur,Fatehpura,07-01-2024,21:00:00,340,Medium,Yes,Rainy,NH
+166,Udaipur,Udiapole,07-01-2024,22:00:00,79,Low,Yes,Rainy,NH
+167,Udaipur,Fatehpura,07-01-2024,23:00:00,98,Low,Yes,Rainy,Residential
+168,Udaipur,Hiran Magri,08-01-2024,00:00:00,68,Low,Yes,Foggy,City Road
+169,Udaipur,Chetak Circle,08-01-2024,01:00:00,303,Low,No,Clear,Residential
+170,Udaipur,Chetak Circle,08-01-2024,02:00:00,417,Low,No,Foggy,Residential
+171,Udaipur,Chetak Circle,08-01-2024,03:00:00,369,High,Yes,Rainy,Residential
+172,Udaipur,Hiran Magri,08-01-2024,04:00:00,487,High,No,Foggy,City Road
+173,Udaipur,Udiapole,08-01-2024,05:00:00,363,Low,No,Foggy,Residential
+174,Udaipur,Chetak Circle,08-01-2024,06:00:00,282,High,Yes,Rainy,NH
+175,Udaipur,Udiapole,08-01-2024,07:00:00,301,Low,No,Rainy,NH
+176,Udaipur,Hiran Magri,08-01-2024,08:00:00,416,Medium,No,Rainy,Residential
+177,Udaipur,Goverdhan Vilas,08-01-2024,09:00:00,369,Medium,No,Foggy,Residential
+178,Udaipur,Udiapole,08-01-2024,10:00:00,193,High,No,Foggy,City Road
+179,Udaipur,Surajpole,08-01-2024,11:00:00,156,Medium,Yes,Clear,City Road
+180,Udaipur,Chetak Circle,08-01-2024,12:00:00,304,Low,Yes,Clear,City Road
+181,Udaipur,Fatehpura,08-01-2024,13:00:00,57,High,No,Clear,NH
+182,Udaipur,Udiapole,08-01-2024,14:00:00,133,Medium,Yes,Clear,City Road
+183,Udaipur,Goverdhan Vilas,08-01-2024,15:00:00,269,Low,Yes,Foggy,NH
+184,Udaipur,Goverdhan Vilas,08-01-2024,16:00:00,445,High,Yes,Foggy,Residential
+185,Udaipur,Goverdhan Vilas,08-01-2024,17:00:00,265,Low,Yes,Clear,City Road
+186,Udaipur,Goverdhan Vilas,08-01-2024,18:00:00,187,High,Yes,Rainy,City Road
+187,Udaipur,Fatehpura,08-01-2024,19:00:00,56,Low,No,Rainy,Residential
+188,Udaipur,Surajpole,08-01-2024,20:00:00,383,Low,No,Foggy,NH
+189,Udaipur,Goverdhan Vilas,08-01-2024,21:00:00,233,Low,No,Foggy,NH
+190,Udaipur,Chetak Circle,08-01-2024,22:00:00,314,Low,Yes,Rainy,NH
+191,Udaipur,Chetak Circle,08-01-2024,23:00:00,450,High,No,Foggy,NH
+192,Udaipur,Chetak Circle,09-01-2024,00:00:00,110,Low,No,Clear,City Road
+193,Udaipur,Goverdhan Vilas,09-01-2024,01:00:00,216,High,Yes,Clear,City Road
+194,Udaipur,Hiran Magri,09-01-2024,02:00:00,308,High,No,Rainy,City Road
+195,Udaipur,Udiapole,09-01-2024,03:00:00,247,Low,Yes,Foggy,Residential
+196,Udaipur,Hiran Magri,09-01-2024,04:00:00,472,Medium,Yes,Rainy,City Road
+197,Udaipur,Udiapole,09-01-2024,05:00:00,292,Medium,Yes,Rainy,NH
+198,Udaipur,Chetak Circle,09-01-2024,06:00:00,210,Low,No,Clear,NH
+199,Udaipur,Goverdhan Vilas,09-01-2024,07:00:00,495,Low,No,Clear,Residential
+200,Udaipur,Udiapole,09-01-2024,08:00:00,177,Medium,Yes,Rainy,City Road
+201,Udaipur,Hiran Magri,09-01-2024,09:00:00,260,Low,Yes,Clear,City Road
+202,Udaipur,Chetak Circle,09-01-2024,10:00:00,247,Medium,Yes,Clear,City Road
+203,Udaipur,Surajpole,09-01-2024,11:00:00,200,Medium,No,Foggy,NH
+204,Udaipur,Udiapole,09-01-2024,12:00:00,404,Medium,No,Foggy,Residential
+205,Udaipur,Surajpole,09-01-2024,13:00:00,181,High,Yes,Foggy,NH
+206,Udaipur,Fatehpura,09-01-2024,14:00:00,128,Low,Yes,Clear,NH
+207,Udaipur,Udiapole,09-01-2024,15:00:00,305,Medium,Yes,Clear,Residential
+208,Udaipur,Fatehpura,09-01-2024,16:00:00,348,Medium,No,Rainy,Residential
+209,Udaipur,Hiran Magri,09-01-2024,17:00:00,262,Low,Yes,Rainy,City Road
+210,Udaipur,Goverdhan Vilas,09-01-2024,18:00:00,289,High,Yes,Rainy,NH
+211,Udaipur,Fatehpura,09-01-2024,19:00:00,133,High,No,Foggy,Residential
+212,Udaipur,Goverdhan Vilas,09-01-2024,20:00:00,225,High,No,Clear,City Road
+213,Udaipur,Udiapole,09-01-2024,21:00:00,499,Medium,Yes,Foggy,NH
+214,Udaipur,Fatehpura,09-01-2024,22:00:00,294,High,Yes,Foggy,City Road
+215,Udaipur,Udiapole,09-01-2024,23:00:00,358,High,Yes,Foggy,NH
+216,Udaipur,Hiran Magri,10-01-2024,00:00:00,160,Medium,No,Rainy,City Road
+217,Udaipur,Chetak Circle,10-01-2024,01:00:00,328,Low,Yes,Rainy,City Road
+218,Udaipur,Fatehpura,10-01-2024,02:00:00,147,Low,Yes,Foggy,Residential
+219,Udaipur,Hiran Magri,10-01-2024,03:00:00,123,Low,No,Clear,Residential
+220,Udaipur,Goverdhan Vilas,10-01-2024,04:00:00,112,Medium,No,Rainy,NH
+221,Udaipur,Goverdhan Vilas,10-01-2024,05:00:00,448,Medium,No,Rainy,Residential
+222,Udaipur,Chetak Circle,10-01-2024,06:00:00,462,Medium,No,Foggy,Residential
+223,Udaipur,Udiapole,10-01-2024,07:00:00,373,Low,Yes,Foggy,Residential
+224,Udaipur,Chetak Circle,10-01-2024,08:00:00,272,Low,Yes,Clear,NH
+225,Udaipur,Goverdhan Vilas,10-01-2024,09:00:00,202,Low,No,Clear,City Road
+226,Udaipur,Udiapole,10-01-2024,10:00:00,61,High,No,Foggy,City Road
+227,Udaipur,Goverdhan Vilas,10-01-2024,11:00:00,323,Medium,No,Foggy,NH
+228,Udaipur,Surajpole,10-01-2024,12:00:00,60,High,Yes,Clear,Residential
+229,Udaipur,Chetak Circle,10-01-2024,13:00:00,478,Low,No,Clear,City Road
+230,Udaipur,Hiran Magri,10-01-2024,14:00:00,65,High,No,Rainy,Residential
+231,Udaipur,Hiran Magri,10-01-2024,15:00:00,291,Medium,Yes,Foggy,NH
+232,Udaipur,Fatehpura,10-01-2024,16:00:00,256,Medium,No,Foggy,NH
+233,Udaipur,Udiapole,10-01-2024,17:00:00,224,Low,No,Rainy,City Road
+234,Udaipur,Udiapole,10-01-2024,18:00:00,85,Medium,Yes,Clear,NH
+235,Udaipur,Chetak Circle,10-01-2024,19:00:00,481,Medium,Yes,Rainy,NH
+236,Udaipur,Fatehpura,10-01-2024,20:00:00,129,High,Yes,Foggy,City Road
+237,Udaipur,Fatehpura,10-01-2024,21:00:00,134,Medium,No,Clear,NH
+238,Udaipur,Chetak Circle,10-01-2024,22:00:00,395,Medium,Yes,Foggy,City Road
+239,Udaipur,Goverdhan Vilas,10-01-2024,23:00:00,497,Low,No,Clear,City Road
+240,Udaipur,Udiapole,11-01-2024,00:00:00,438,Medium,No,Clear,City Road
+241,Udaipur,Chetak Circle,11-01-2024,01:00:00,118,Medium,Yes,Clear,NH
+242,Udaipur,Udiapole,11-01-2024,02:00:00,325,Low,Yes,Foggy,City Road
+243,Udaipur,Chetak Circle,11-01-2024,03:00:00,130,High,Yes,Foggy,NH
+244,Udaipur,Udiapole,11-01-2024,04:00:00,400,High,No,Clear,City Road
+245,Udaipur,Chetak Circle,11-01-2024,05:00:00,452,High,Yes,Clear,Residential
+246,Udaipur,Fatehpura,11-01-2024,06:00:00,485,Low,Yes,Foggy,Residential
+247,Udaipur,Hiran Magri,11-01-2024,07:00:00,494,Low,No,Foggy,Residential
+248,Udaipur,Chetak Circle,11-01-2024,08:00:00,277,Medium,No,Foggy,NH
+249,Udaipur,Goverdhan Vilas,11-01-2024,09:00:00,487,Low,Yes,Rainy,City Road
+250,Udaipur,Hiran Magri,11-01-2024,10:00:00,135,Medium,Yes,Rainy,Residential
+251,Udaipur,Surajpole,11-01-2024,11:00:00,124,High,No,Rainy,Residential
+252,Udaipur,Surajpole,11-01-2024,12:00:00,377,High,No,Foggy,Residential
+253,Udaipur,Surajpole,11-01-2024,13:00:00,227,Medium,No,Foggy,NH
+254,Udaipur,Udiapole,11-01-2024,14:00:00,358,High,No,Foggy,NH
+255,Udaipur,Hiran Magri,11-01-2024,15:00:00,427,High,No,Clear,City Road
+256,Udaipur,Surajpole,11-01-2024,16:00:00,335,Medium,Yes,Foggy,Residential
+257,Udaipur,Hiran Magri,11-01-2024,17:00:00,115,High,No,Foggy,NH
+258,Udaipur,Goverdhan Vilas,11-01-2024,18:00:00,276,High,No,Rainy,NH
+259,Udaipur,Goverdhan Vilas,11-01-2024,19:00:00,448,High,No,Foggy,Residential
+260,Udaipur,Fatehpura,11-01-2024,20:00:00,274,Medium,Yes,Rainy,City Road
+261,Udaipur,Udiapole,11-01-2024,21:00:00,282,Medium,Yes,Foggy,Residential
+262,Udaipur,Fatehpura,11-01-2024,22:00:00,244,Low,Yes,Rainy,NH
+263,Udaipur,Hiran Magri,11-01-2024,23:00:00,193,High,Yes,Rainy,City Road
+264,Udaipur,Hiran Magri,12-01-2024,00:00:00,476,Medium,No,Foggy,NH
+265,Udaipur,Surajpole,12-01-2024,01:00:00,270,Low,No,Rainy,NH
+266,Udaipur,Chetak Circle,12-01-2024,02:00:00,168,High,Yes,Clear,City Road
+267,Udaipur,Chetak Circle,12-01-2024,03:00:00,152,Low,Yes,Clear,NH
+268,Udaipur,Hiran Magri,12-01-2024,04:00:00,433,High,No,Rainy,NH
+269,Udaipur,Goverdhan Vilas,12-01-2024,05:00:00,181,Low,Yes,Foggy,Residential
+270,Udaipur,Chetak Circle,12-01-2024,06:00:00,118,Medium,Yes,Clear,Residential
+271,Udaipur,Hiran Magri,12-01-2024,07:00:00,466,Low,Yes,Foggy,City Road
+272,Udaipur,Chetak Circle,12-01-2024,08:00:00,334,Low,No,Foggy,NH
+273,Udaipur,Goverdhan Vilas,12-01-2024,09:00:00,181,Low,Yes,Rainy,City Road
+274,Udaipur,Surajpole,12-01-2024,10:00:00,283,High,No,Clear,NH
+275,Udaipur,Goverdhan Vilas,12-01-2024,11:00:00,288,Low,No,Rainy,NH
+276,Udaipur,Hiran Magri,12-01-2024,12:00:00,260,Low,No,Clear,City Road
+277,Udaipur,Goverdhan Vilas,12-01-2024,13:00:00,364,Low,Yes,Rainy,Residential
+278,Udaipur,Fatehpura,12-01-2024,14:00:00,285,Low,No,Rainy,NH
+279,Udaipur,Chetak Circle,12-01-2024,15:00:00,238,Low,No,Clear,NH
+280,Udaipur,Fatehpura,12-01-2024,16:00:00,144,Medium,No,Clear,City Road
+281,Udaipur,Surajpole,12-01-2024,17:00:00,369,Low,Yes,Foggy,City Road
+282,Udaipur,Chetak Circle,12-01-2024,18:00:00,134,Medium,Yes,Clear,NH
+283,Udaipur,Surajpole,12-01-2024,19:00:00,185,High,Yes,Clear,City Road
+284,Udaipur,Udiapole,12-01-2024,20:00:00,446,Medium,Yes,Clear,City Road
+285,Udaipur,Hiran Magri,12-01-2024,21:00:00,277,Low,No,Clear,NH
+286,Udaipur,Udiapole,12-01-2024,22:00:00,261,Low,No,Clear,Residential
+287,Udaipur,Chetak Circle,12-01-2024,23:00:00,91,Low,Yes,Rainy,City Road
+288,Udaipur,Chetak Circle,13-01-2024,00:00:00,74,Medium,Yes,Foggy,City Road
+289,Udaipur,Fatehpura,13-01-2024,01:00:00,307,Low,Yes,Clear,City Road
+290,Udaipur,Surajpole,13-01-2024,02:00:00,65,Medium,Yes,Foggy,Residential
+291,Udaipur,Fatehpura,13-01-2024,03:00:00,293,Medium,No,Rainy,City Road
+292,Udaipur,Hiran Magri,13-01-2024,04:00:00,489,High,No,Rainy,NH
+293,Udaipur,Surajpole,13-01-2024,05:00:00,472,Medium,No,Clear,NH
+294,Udaipur,Fatehpura,13-01-2024,06:00:00,400,Medium,Yes,Rainy,City Road
+295,Udaipur,Udiapole,13-01-2024,07:00:00,197,Medium,No,Rainy,NH
+296,Udaipur,Udiapole,13-01-2024,08:00:00,305,Medium,Yes,Clear,NH
+297,Udaipur,Chetak Circle,13-01-2024,09:00:00,458,High,Yes,Clear,Residential
+298,Udaipur,Udiapole,13-01-2024,10:00:00,311,Low,No,Foggy,Residential
+299,Udaipur,Udiapole,13-01-2024,11:00:00,66,High,No,Rainy,Residential
+300,Udaipur,Udiapole,13-01-2024,12:00:00,466,High,Yes,Rainy,NH
+301,Udaipur,Goverdhan Vilas,13-01-2024,13:00:00,436,Low,No,Foggy,City Road
+302,Udaipur,Goverdhan Vilas,13-01-2024,14:00:00,491,Low,No,Clear,Residential
+303,Udaipur,Udiapole,13-01-2024,15:00:00,125,High,No,Clear,Residential
+304,Udaipur,Fatehpura,13-01-2024,16:00:00,72,Low,Yes,Foggy,Residential
+305,Udaipur,Goverdhan Vilas,13-01-2024,17:00:00,371,Low,Yes,Clear,City Road
+306,Udaipur,Hiran Magri,13-01-2024,18:00:00,324,Medium,Yes,Rainy,Residential
+307,Udaipur,Chetak Circle,13-01-2024,19:00:00,154,Low,Yes,Rainy,City Road
+308,Udaipur,Goverdhan Vilas,13-01-2024,20:00:00,70,Low,No,Rainy,City Road
+309,Udaipur,Fatehpura,13-01-2024,21:00:00,402,High,No,Clear,City Road
+310,Udaipur,Fatehpura,13-01-2024,22:00:00,425,Medium,Yes,Foggy,NH
+311,Udaipur,Udiapole,13-01-2024,23:00:00,425,Medium,Yes,Clear,NH
+312,Udaipur,Chetak Circle,14-01-2024,00:00:00,329,High,Yes,Foggy,Residential
+313,Udaipur,Surajpole,14-01-2024,01:00:00,345,Medium,No,Foggy,NH
+314,Udaipur,Fatehpura,14-01-2024,02:00:00,191,Medium,Yes,Clear,City Road
+315,Udaipur,Surajpole,14-01-2024,03:00:00,315,Medium,Yes,Rainy,City Road
+316,Udaipur,Hiran Magri,14-01-2024,04:00:00,339,Low,Yes,Clear,NH
+317,Udaipur,Udiapole,14-01-2024,05:00:00,330,Low,No,Foggy,Residential
+318,Udaipur,Chetak Circle,14-01-2024,06:00:00,472,High,No,Clear,Residential
+319,Udaipur,Fatehpura,14-01-2024,07:00:00,282,Medium,No,Foggy,NH
+320,Udaipur,Udiapole,14-01-2024,08:00:00,384,Medium,Yes,Rainy,NH
+321,Udaipur,Fatehpura,14-01-2024,09:00:00,210,Low,No,Clear,City Road
+322,Udaipur,Surajpole,14-01-2024,10:00:00,370,High,No,Foggy,City Road
+323,Udaipur,Fatehpura,14-01-2024,11:00:00,324,Medium,Yes,Clear,NH
+324,Udaipur,Goverdhan Vilas,14-01-2024,12:00:00,340,Low,Yes,Foggy,NH
+325,Udaipur,Fatehpura,14-01-2024,13:00:00,358,High,Yes,Clear,NH
+326,Udaipur,Hiran Magri,14-01-2024,14:00:00,159,High,No,Foggy,Residential
+327,Udaipur,Udiapole,14-01-2024,15:00:00,267,High,Yes,Rainy,NH
+328,Udaipur,Goverdhan Vilas,14-01-2024,16:00:00,487,Medium,Yes,Rainy,City Road
+329,Udaipur,Surajpole,14-01-2024,17:00:00,207,Medium,No,Clear,NH
+330,Udaipur,Fatehpura,14-01-2024,18:00:00,294,Medium,No,Rainy,Residential
+331,Udaipur,Surajpole,14-01-2024,19:00:00,248,Medium,Yes,Clear,Residential
+332,Udaipur,Goverdhan Vilas,14-01-2024,20:00:00,296,High,No,Clear,NH
+333,Udaipur,Fatehpura,14-01-2024,21:00:00,394,Medium,No,Clear,Residential
+334,Udaipur,Goverdhan Vilas,14-01-2024,22:00:00,131,Medium,Yes,Foggy,Residential
+335,Udaipur,Hiran Magri,14-01-2024,23:00:00,127,Medium,No,Foggy,City Road
+336,Udaipur,Fatehpura,15-01-2024,00:00:00,453,High,No,Clear,Residential
+337,Udaipur,Chetak Circle,15-01-2024,01:00:00,60,High,Yes,Rainy,City Road
+338,Udaipur,Chetak Circle,15-01-2024,02:00:00,206,Medium,No,Rainy,NH
+339,Udaipur,Chetak Circle,15-01-2024,03:00:00,84,High,No,Clear,NH
+340,Udaipur,Surajpole,15-01-2024,04:00:00,225,Medium,No,Rainy,Residential
+341,Udaipur,Chetak Circle,15-01-2024,05:00:00,168,Low,No,Clear,City Road
+342,Udaipur,Goverdhan Vilas,15-01-2024,06:00:00,396,High,No,Clear,Residential
+343,Udaipur,Udiapole,15-01-2024,07:00:00,131,High,Yes,Clear,NH
+344,Udaipur,Udiapole,15-01-2024,08:00:00,94,High,No,Rainy,City Road
+345,Udaipur,Fatehpura,15-01-2024,09:00:00,176,Low,Yes,Rainy,NH
+346,Udaipur,Chetak Circle,15-01-2024,10:00:00,51,High,No,Rainy,Residential
+347,Udaipur,Surajpole,15-01-2024,11:00:00,51,High,No,Rainy,NH
+348,Udaipur,Surajpole,15-01-2024,12:00:00,293,Low,Yes,Clear,Residential
+349,Udaipur,Udiapole,15-01-2024,13:00:00,343,Medium,No,Clear,Residential
+350,Udaipur,Surajpole,15-01-2024,14:00:00,353,High,Yes,Foggy,City Road
+351,Udaipur,Fatehpura,15-01-2024,15:00:00,225,Medium,No,Rainy,City Road
+352,Udaipur,Udiapole,15-01-2024,16:00:00,261,Low,Yes,Rainy,Residential
+353,Udaipur,Fatehpura,15-01-2024,17:00:00,134,Medium,Yes,Foggy,City Road
+354,Udaipur,Chetak Circle,15-01-2024,18:00:00,378,Low,No,Foggy,NH
+355,Udaipur,Chetak Circle,15-01-2024,19:00:00,244,Low,Yes,Foggy,City Road
+356,Udaipur,Chetak Circle,15-01-2024,20:00:00,83,High,No,Rainy,Residential
+357,Udaipur,Goverdhan Vilas,15-01-2024,21:00:00,357,Low,No,Clear,City Road
+358,Udaipur,Surajpole,15-01-2024,22:00:00,356,High,Yes,Foggy,NH
+359,Udaipur,Fatehpura,15-01-2024,23:00:00,442,Medium,Yes,Rainy,Residential
+360,Udaipur,Udiapole,16-01-2024,00:00:00,224,Low,No,Rainy,City Road
+361,Udaipur,Chetak Circle,16-01-2024,01:00:00,420,Medium,No,Rainy,NH
+362,Udaipur,Chetak Circle,16-01-2024,02:00:00,460,Low,Yes,Foggy,NH
+363,Udaipur,Udiapole,16-01-2024,03:00:00,388,Medium,Yes,Clear,NH
+364,Udaipur,Goverdhan Vilas,16-01-2024,04:00:00,246,Low,No,Rainy,Residential
+365,Udaipur,Udiapole,16-01-2024,05:00:00,454,Low,No,Rainy,Residential
+366,Udaipur,Surajpole,16-01-2024,06:00:00,336,High,No,Foggy,NH
+367,Udaipur,Fatehpura,16-01-2024,07:00:00,174,Low,Yes,Rainy,City Road
+368,Udaipur,Goverdhan Vilas,16-01-2024,08:00:00,80,Low,No,Clear,Residential
+369,Udaipur,Surajpole,16-01-2024,09:00:00,435,Medium,Yes,Rainy,City Road
+370,Udaipur,Surajpole,16-01-2024,10:00:00,326,High,No,Clear,City Road
+371,Udaipur,Chetak Circle,16-01-2024,11:00:00,497,Low,Yes,Rainy,Residential
+372,Udaipur,Chetak Circle,16-01-2024,12:00:00,308,Low,Yes,Clear,Residential
+373,Udaipur,Hiran Magri,16-01-2024,13:00:00,156,High,No,Rainy,City Road
+374,Udaipur,Goverdhan Vilas,16-01-2024,14:00:00,123,Low,Yes,Clear,Residential
+375,Udaipur,Udiapole,16-01-2024,15:00:00,199,High,Yes,Foggy,City Road
+376,Udaipur,Hiran Magri,16-01-2024,16:00:00,186,Medium,Yes,Foggy,Residential
+377,Udaipur,Hiran Magri,16-01-2024,17:00:00,383,Low,No,Rainy,NH
+378,Udaipur,Udiapole,16-01-2024,18:00:00,471,High,No,Clear,NH
+379,Udaipur,Udiapole,16-01-2024,19:00:00,304,High,No,Clear,NH
+380,Udaipur,Hiran Magri,16-01-2024,20:00:00,222,High,No,Rainy,Residential
+381,Udaipur,Udiapole,16-01-2024,21:00:00,297,High,Yes,Clear,NH
+382,Udaipur,Fatehpura,16-01-2024,22:00:00,111,Low,Yes,Clear,City Road
+383,Udaipur,Goverdhan Vilas,16-01-2024,23:00:00,332,High,No,Foggy,NH
+384,Udaipur,Udiapole,17-01-2024,00:00:00,345,Medium,No,Rainy,Residential
+385,Udaipur,Chetak Circle,17-01-2024,01:00:00,178,High,Yes,Foggy,NH
+386,Udaipur,Chetak Circle,17-01-2024,02:00:00,292,Low,Yes,Foggy,NH
+387,Udaipur,Udiapole,17-01-2024,03:00:00,74,Medium,No,Rainy,NH
+388,Udaipur,Hiran Magri,17-01-2024,04:00:00,153,Medium,Yes,Rainy,NH
+389,Udaipur,Goverdhan Vilas,17-01-2024,05:00:00,432,High,No,Clear,City Road
+390,Udaipur,Hiran Magri,17-01-2024,06:00:00,465,Low,Yes,Clear,NH
+391,Udaipur,Udiapole,17-01-2024,07:00:00,434,Medium,Yes,Clear,NH
+392,Udaipur,Chetak Circle,17-01-2024,08:00:00,130,Low,Yes,Rainy,NH
+393,Udaipur,Chetak Circle,17-01-2024,09:00:00,134,Low,No,Foggy,Residential
+394,Udaipur,Fatehpura,17-01-2024,10:00:00,494,High,Yes,Foggy,City Road
+395,Udaipur,Surajpole,17-01-2024,11:00:00,260,Low,No,Foggy,City Road
+396,Udaipur,Fatehpura,17-01-2024,12:00:00,433,Low,No,Clear,City Road
+397,Udaipur,Goverdhan Vilas,17-01-2024,13:00:00,401,Low,No,Clear,NH
+398,Udaipur,Udiapole,17-01-2024,14:00:00,296,Low,No,Clear,City Road
+399,Udaipur,Hiran Magri,17-01-2024,15:00:00,213,High,Yes,Rainy,Residential
+400,Udaipur,Chetak Circle,17-01-2024,16:00:00,164,Low,Yes,Clear,City Road
+401,Udaipur,Chetak Circle,17-01-2024,17:00:00,479,Medium,Yes,Rainy,NH
+402,Udaipur,Udiapole,17-01-2024,18:00:00,108,High,Yes,Rainy,NH
+403,Udaipur,Chetak Circle,17-01-2024,19:00:00,234,Low,Yes,Clear,Residential
+404,Udaipur,Surajpole,17-01-2024,20:00:00,93,Low,Yes,Foggy,NH
+405,Udaipur,Udiapole,17-01-2024,21:00:00,423,High,No,Clear,City Road
+406,Udaipur,Goverdhan Vilas,17-01-2024,22:00:00,195,Medium,No,Clear,City Road
+407,Udaipur,Fatehpura,17-01-2024,23:00:00,110,Medium,No,Rainy,Residential
+408,Udaipur,Goverdhan Vilas,18-01-2024,00:00:00,120,Medium,No,Foggy,NH
+409,Udaipur,Chetak Circle,18-01-2024,01:00:00,263,Medium,Yes,Clear,Residential
+410,Udaipur,Hiran Magri,18-01-2024,02:00:00,181,High,Yes,Rainy,City Road
+411,Udaipur,Udiapole,18-01-2024,03:00:00,103,Medium,No,Foggy,City Road
+412,Udaipur,Fatehpura,18-01-2024,04:00:00,365,Medium,No,Foggy,City Road
+413,Udaipur,Chetak Circle,18-01-2024,05:00:00,110,Medium,No,Clear,NH
+414,Udaipur,Surajpole,18-01-2024,06:00:00,319,Low,No,Clear,Residential
+415,Udaipur,Hiran Magri,18-01-2024,07:00:00,258,High,Yes,Foggy,City Road
+416,Udaipur,Fatehpura,18-01-2024,08:00:00,66,High,No,Clear,NH
+417,Udaipur,Udiapole,18-01-2024,09:00:00,218,High,Yes,Foggy,NH
+418,Udaipur,Hiran Magri,18-01-2024,10:00:00,358,Low,No,Clear,NH
+419,Udaipur,Goverdhan Vilas,18-01-2024,11:00:00,146,Medium,Yes,Clear,Residential
+420,Udaipur,Hiran Magri,18-01-2024,12:00:00,188,Low,No,Clear,City Road
+421,Udaipur,Hiran Magri,18-01-2024,13:00:00,308,Low,No,Rainy,City Road
+422,Udaipur,Fatehpura,18-01-2024,14:00:00,466,High,No,Foggy,Residential
+423,Udaipur,Hiran Magri,18-01-2024,15:00:00,119,Low,No,Rainy,NH
+424,Udaipur,Hiran Magri,18-01-2024,16:00:00,183,High,No,Rainy,NH
+425,Udaipur,Goverdhan Vilas,18-01-2024,17:00:00,253,Low,Yes,Foggy,Residential
+426,Udaipur,Udiapole,18-01-2024,18:00:00,408,High,Yes,Rainy,Residential
+427,Udaipur,Surajpole,18-01-2024,19:00:00,366,High,No,Rainy,NH
+428,Udaipur,Chetak Circle,18-01-2024,20:00:00,158,High,Yes,Foggy,NH
+429,Udaipur,Goverdhan Vilas,18-01-2024,21:00:00,277,High,No,Foggy,NH
+430,Udaipur,Udiapole,18-01-2024,22:00:00,467,Low,Yes,Rainy,NH
+431,Udaipur,Chetak Circle,18-01-2024,23:00:00,235,Low,Yes,Foggy,City Road
+432,Udaipur,Goverdhan Vilas,19-01-2024,00:00:00,192,Low,Yes,Clear,City Road
+433,Udaipur,Surajpole,19-01-2024,01:00:00,497,Low,No,Clear,Residential
+434,Udaipur,Surajpole,19-01-2024,02:00:00,76,High,No,Foggy,NH
+435,Udaipur,Hiran Magri,19-01-2024,03:00:00,279,High,Yes,Rainy,City Road
+436,Udaipur,Goverdhan Vilas,19-01-2024,04:00:00,433,Low,No,Rainy,Residential
+437,Udaipur,Udiapole,19-01-2024,05:00:00,68,High,Yes,Foggy,NH
+438,Udaipur,Goverdhan Vilas,19-01-2024,06:00:00,313,Medium,No,Rainy,NH
+439,Udaipur,Goverdhan Vilas,19-01-2024,07:00:00,106,Low,Yes,Clear,City Road
+440,Udaipur,Fatehpura,19-01-2024,08:00:00,276,Low,No,Foggy,NH
+441,Udaipur,Udiapole,19-01-2024,09:00:00,487,Medium,No,Foggy,NH
+442,Udaipur,Surajpole,19-01-2024,10:00:00,379,Low,No,Rainy,Residential
+443,Udaipur,Chetak Circle,19-01-2024,11:00:00,131,High,Yes,Clear,Residential
+444,Udaipur,Goverdhan Vilas,19-01-2024,12:00:00,494,Low,No,Clear,NH
+445,Udaipur,Surajpole,19-01-2024,13:00:00,255,Low,Yes,Clear,Residential
+446,Udaipur,Fatehpura,19-01-2024,14:00:00,158,High,Yes,Clear,Residential
+447,Udaipur,Goverdhan Vilas,19-01-2024,15:00:00,327,Medium,No,Rainy,City Road
+448,Udaipur,Udiapole,19-01-2024,16:00:00,229,Low,Yes,Clear,Residential
+449,Udaipur,Chetak Circle,19-01-2024,17:00:00,67,Medium,No,Rainy,Residential
+450,Udaipur,Hiran Magri,19-01-2024,18:00:00,150,High,Yes,Clear,City Road
+451,Udaipur,Chetak Circle,19-01-2024,19:00:00,366,High,Yes,Foggy,Residential
+452,Udaipur,Chetak Circle,19-01-2024,20:00:00,71,High,Yes,Clear,Residential
+453,Udaipur,Hiran Magri,19-01-2024,21:00:00,200,High,No,Rainy,Residential
+454,Udaipur,Chetak Circle,19-01-2024,22:00:00,410,Low,No,Foggy,City Road
+455,Udaipur,Goverdhan Vilas,19-01-2024,23:00:00,444,Low,No,Rainy,City Road
+456,Udaipur,Surajpole,20-01-2024,00:00:00,182,Low,Yes,Clear,City Road
+457,Udaipur,Surajpole,20-01-2024,01:00:00,102,Medium,No,Foggy,Residential
+458,Udaipur,Hiran Magri,20-01-2024,02:00:00,408,High,Yes,Rainy,City Road
+459,Udaipur,Fatehpura,20-01-2024,03:00:00,301,High,No,Foggy,NH
+460,Udaipur,Surajpole,20-01-2024,04:00:00,288,High,No,Clear,NH
+461,Udaipur,Goverdhan Vilas,20-01-2024,05:00:00,302,Medium,No,Rainy,NH
+462,Udaipur,Fatehpura,20-01-2024,06:00:00,411,Low,Yes,Foggy,Residential
+463,Udaipur,Hiran Magri,20-01-2024,07:00:00,57,High,No,Foggy,Residential
+464,Udaipur,Udiapole,20-01-2024,08:00:00,358,High,No,Clear,Residential
+465,Udaipur,Goverdhan Vilas,20-01-2024,09:00:00,164,Medium,Yes,Clear,Residential
+466,Udaipur,Udiapole,20-01-2024,10:00:00,270,Low,No,Foggy,City Road
+467,Udaipur,Fatehpura,20-01-2024,11:00:00,282,Low,No,Foggy,City Road
+468,Udaipur,Fatehpura,20-01-2024,12:00:00,256,Low,Yes,Rainy,NH
+469,Udaipur,Surajpole,20-01-2024,13:00:00,182,Medium,No,Rainy,City Road
+470,Udaipur,Goverdhan Vilas,20-01-2024,14:00:00,384,Medium,Yes,Foggy,Residential
+471,Udaipur,Udiapole,20-01-2024,15:00:00,353,Medium,Yes,Clear,City Road
+472,Udaipur,Hiran Magri,20-01-2024,16:00:00,446,Low,Yes,Rainy,NH
+473,Udaipur,Hiran Magri,20-01-2024,17:00:00,182,High,Yes,Foggy,Residential
+474,Udaipur,Chetak Circle,20-01-2024,18:00:00,281,Low,Yes,Rainy,Residential
+475,Udaipur,Chetak Circle,20-01-2024,19:00:00,150,Low,No,Foggy,Residential
+476,Udaipur,Udiapole,20-01-2024,20:00:00,319,High,Yes,Foggy,City Road
+477,Udaipur,Goverdhan Vilas,20-01-2024,21:00:00,357,High,Yes,Foggy,Residential
+478,Udaipur,Goverdhan Vilas,20-01-2024,22:00:00,59,High,Yes,Rainy,City Road
+479,Udaipur,Surajpole,20-01-2024,23:00:00,209,Low,Yes,Foggy,Residential
+480,Udaipur,Chetak Circle,21-01-2024,00:00:00,169,Low,No,Rainy,Residential
+481,Udaipur,Fatehpura,21-01-2024,01:00:00,92,Low,Yes,Rainy,Residential
+482,Udaipur,Chetak Circle,21-01-2024,02:00:00,68,Medium,No,Clear,NH
+483,Udaipur,Fatehpura,21-01-2024,03:00:00,66,Medium,Yes,Foggy,Residential
+484,Udaipur,Hiran Magri,21-01-2024,04:00:00,402,Low,No,Clear,NH
+485,Udaipur,Goverdhan Vilas,21-01-2024,05:00:00,337,High,Yes,Rainy,NH
+486,Udaipur,Fatehpura,21-01-2024,06:00:00,87,Low,No,Clear,NH
+487,Udaipur,Chetak Circle,21-01-2024,07:00:00,176,Medium,Yes,Clear,Residential
+488,Udaipur,Udiapole,21-01-2024,08:00:00,341,Low,No,Rainy,Residential
+489,Udaipur,Udiapole,21-01-2024,09:00:00,319,Medium,Yes,Rainy,NH
+490,Udaipur,Fatehpura,21-01-2024,10:00:00,265,High,No,Clear,NH
+491,Udaipur,Surajpole,21-01-2024,11:00:00,270,High,Yes,Clear,City Road
+492,Udaipur,Udiapole,21-01-2024,12:00:00,215,Medium,Yes,Foggy,NH
+493,Udaipur,Udiapole,21-01-2024,13:00:00,419,High,No,Foggy,NH
+494,Udaipur,Chetak Circle,21-01-2024,14:00:00,319,Medium,No,Foggy,Residential
+495,Udaipur,Goverdhan Vilas,21-01-2024,15:00:00,165,Medium,No,Foggy,Residential
+496,Udaipur,Hiran Magri,21-01-2024,16:00:00,298,Low,Yes,Clear,City Road
+497,Udaipur,Fatehpura,21-01-2024,17:00:00,121,Low,Yes,Foggy,City Road
+498,Udaipur,Goverdhan Vilas,21-01-2024,18:00:00,59,High,No,Rainy,NH
+499,Udaipur,Udiapole,21-01-2024,19:00:00,96,Medium,No,Clear,Residential
+500,Udaipur,Fatehpura,21-01-2024,20:00:00,283,High,No,Rainy,City Road
+501,Udaipur,Udiapole,21-01-2024,21:00:00,132,Medium,Yes,Foggy,City Road
+502,Udaipur,Fatehpura,21-01-2024,22:00:00,87,Medium,Yes,Foggy,Residential
+503,Udaipur,Hiran Magri,21-01-2024,23:00:00,107,High,No,Clear,NH
+504,Udaipur,Chetak Circle,22-01-2024,00:00:00,462,High,No,Clear,Residential
+505,Udaipur,Fatehpura,22-01-2024,01:00:00,56,High,Yes,Foggy,Residential
+506,Udaipur,Fatehpura,22-01-2024,02:00:00,324,Low,No,Rainy,City Road
+507,Udaipur,Hiran Magri,22-01-2024,03:00:00,284,Low,No,Rainy,NH
+508,Udaipur,Surajpole,22-01-2024,04:00:00,328,High,No,Rainy,Residential
+509,Udaipur,Chetak Circle,22-01-2024,05:00:00,487,Medium,Yes,Foggy,NH
+510,Udaipur,Chetak Circle,22-01-2024,06:00:00,397,High,Yes,Foggy,NH
+511,Udaipur,Hiran Magri,22-01-2024,07:00:00,189,Low,No,Clear,NH
+512,Udaipur,Fatehpura,22-01-2024,08:00:00,462,Medium,No,Foggy,Residential
+513,Udaipur,Fatehpura,22-01-2024,09:00:00,385,Medium,No,Rainy,NH
+514,Udaipur,Chetak Circle,22-01-2024,10:00:00,448,Low,Yes,Rainy,City Road
+515,Udaipur,Surajpole,22-01-2024,11:00:00,238,High,Yes,Foggy,City Road
+516,Udaipur,Hiran Magri,22-01-2024,12:00:00,97,Low,No,Clear,City Road
+517,Udaipur,Surajpole,22-01-2024,13:00:00,434,Medium,Yes,Clear,Residential
+518,Udaipur,Chetak Circle,22-01-2024,14:00:00,345,Medium,No,Clear,Residential
+519,Udaipur,Goverdhan Vilas,22-01-2024,15:00:00,364,Low,No,Clear,City Road
+520,Udaipur,Udiapole,22-01-2024,16:00:00,217,Low,No,Foggy,City Road
+521,Udaipur,Surajpole,22-01-2024,17:00:00,173,Low,Yes,Foggy,City Road
+522,Udaipur,Udiapole,22-01-2024,18:00:00,482,Low,Yes,Foggy,City Road
+523,Udaipur,Hiran Magri,22-01-2024,19:00:00,81,Medium,No,Clear,Residential
+524,Udaipur,Fatehpura,22-01-2024,20:00:00,397,Medium,Yes,Foggy,NH
+525,Udaipur,Goverdhan Vilas,22-01-2024,21:00:00,370,Low,No,Clear,NH
+526,Udaipur,Chetak Circle,22-01-2024,22:00:00,126,High,Yes,Foggy,City Road
+527,Udaipur,Surajpole,22-01-2024,23:00:00,90,Low,No,Foggy,Residential
+528,Udaipur,Udiapole,23-01-2024,00:00:00,206,Low,Yes,Foggy,NH
+529,Udaipur,Fatehpura,23-01-2024,01:00:00,255,Medium,No,Rainy,NH
+530,Udaipur,Udiapole,23-01-2024,02:00:00,264,Medium,No,Rainy,City Road
+531,Udaipur,Udiapole,23-01-2024,03:00:00,483,Low,Yes,Rainy,Residential
+532,Udaipur,Chetak Circle,23-01-2024,04:00:00,432,Medium,Yes,Clear,NH
+533,Udaipur,Goverdhan Vilas,23-01-2024,05:00:00,489,High,Yes,Foggy,NH
+534,Udaipur,Goverdhan Vilas,23-01-2024,06:00:00,82,Low,No,Clear,City Road
+535,Udaipur,Chetak Circle,23-01-2024,07:00:00,195,Low,Yes,Clear,Residential
+536,Udaipur,Udiapole,23-01-2024,08:00:00,120,High,No,Rainy,NH
+537,Udaipur,Surajpole,23-01-2024,09:00:00,308,Low,Yes,Clear,NH
+538,Udaipur,Fatehpura,23-01-2024,10:00:00,368,Low,No,Clear,Residential
+539,Udaipur,Hiran Magri,23-01-2024,11:00:00,419,Low,Yes,Foggy,Residential
+540,Udaipur,Surajpole,23-01-2024,12:00:00,203,Medium,Yes,Foggy,NH
+541,Udaipur,Surajpole,23-01-2024,13:00:00,365,Low,Yes,Rainy,City Road
+542,Udaipur,Chetak Circle,23-01-2024,14:00:00,73,Low,No,Rainy,City Road
+543,Udaipur,Hiran Magri,23-01-2024,15:00:00,476,High,Yes,Rainy,NH
+544,Udaipur,Fatehpura,23-01-2024,16:00:00,361,Low,Yes,Foggy,Residential
+545,Udaipur,Udiapole,23-01-2024,17:00:00,459,Low,No,Foggy,Residential
+546,Udaipur,Hiran Magri,23-01-2024,18:00:00,205,High,No,Rainy,Residential
+547,Udaipur,Chetak Circle,23-01-2024,19:00:00,366,High,Yes,Foggy,NH
+548,Udaipur,Goverdhan Vilas,23-01-2024,20:00:00,286,High,No,Clear,City Road
+549,Udaipur,Surajpole,23-01-2024,21:00:00,293,High,No,Clear,Residential
+550,Udaipur,Hiran Magri,23-01-2024,22:00:00,492,High,No,Foggy,NH
+551,Udaipur,Hiran Magri,23-01-2024,23:00:00,418,Medium,No,Clear,NH
+552,Udaipur,Chetak Circle,24-01-2024,00:00:00,435,High,No,Clear,NH
+553,Udaipur,Goverdhan Vilas,24-01-2024,01:00:00,59,High,Yes,Rainy,NH
+554,Udaipur,Udiapole,24-01-2024,02:00:00,235,Medium,Yes,Rainy,NH
+555,Udaipur,Surajpole,24-01-2024,03:00:00,497,Low,Yes,Foggy,NH
+556,Udaipur,Surajpole,24-01-2024,04:00:00,419,Low,Yes,Clear,Residential
+557,Udaipur,Fatehpura,24-01-2024,05:00:00,172,High,Yes,Foggy,City Road
+558,Udaipur,Udiapole,24-01-2024,06:00:00,271,Low,No,Rainy,Residential
+559,Udaipur,Surajpole,24-01-2024,07:00:00,154,High,No,Clear,City Road
+560,Udaipur,Udiapole,24-01-2024,08:00:00,375,High,Yes,Foggy,City Road
+561,Udaipur,Fatehpura,24-01-2024,09:00:00,162,High,No,Clear,Residential
+562,Udaipur,Surajpole,24-01-2024,10:00:00,439,Medium,No,Rainy,NH
+563,Udaipur,Fatehpura,24-01-2024,11:00:00,458,Medium,No,Clear,City Road
+564,Udaipur,Udiapole,24-01-2024,12:00:00,274,High,Yes,Rainy,NH
+565,Udaipur,Udiapole,24-01-2024,13:00:00,332,High,No,Foggy,NH
+566,Udaipur,Surajpole,24-01-2024,14:00:00,373,Low,Yes,Rainy,City Road
+567,Udaipur,Udiapole,24-01-2024,15:00:00,458,Medium,Yes,Clear,NH
+568,Udaipur,Surajpole,24-01-2024,16:00:00,224,Low,No,Rainy,City Road
+569,Udaipur,Goverdhan Vilas,24-01-2024,17:00:00,404,Low,No,Clear,Residential
+570,Udaipur,Goverdhan Vilas,24-01-2024,18:00:00,463,Medium,Yes,Rainy,Residential
+571,Udaipur,Udiapole,24-01-2024,19:00:00,278,Medium,Yes,Clear,Residential
+572,Udaipur,Hiran Magri,24-01-2024,20:00:00,182,High,No,Foggy,NH
+573,Udaipur,Hiran Magri,24-01-2024,21:00:00,462,Low,Yes,Rainy,City Road
+574,Udaipur,Udiapole,24-01-2024,22:00:00,104,Medium,No,Foggy,City Road
+575,Udaipur,Hiran Magri,24-01-2024,23:00:00,428,Low,No,Rainy,NH
+576,Udaipur,Surajpole,25-01-2024,00:00:00,121,High,No,Rainy,Residential
+577,Udaipur,Udiapole,25-01-2024,01:00:00,272,Low,Yes,Foggy,NH
+578,Udaipur,Surajpole,25-01-2024,02:00:00,435,Medium,No,Rainy,City Road
+579,Udaipur,Surajpole,25-01-2024,03:00:00,342,Medium,No,Clear,City Road
+580,Udaipur,Fatehpura,25-01-2024,04:00:00,452,Medium,No,Foggy,NH
+581,Udaipur,Hiran Magri,25-01-2024,05:00:00,236,Low,No,Clear,NH
+582,Udaipur,Goverdhan Vilas,25-01-2024,06:00:00,343,Low,No,Rainy,Residential
+583,Udaipur,Surajpole,25-01-2024,07:00:00,397,High,No,Foggy,City Road
+584,Udaipur,Hiran Magri,25-01-2024,08:00:00,438,Low,No,Clear,NH
+585,Udaipur,Surajpole,25-01-2024,09:00:00,444,High,No,Foggy,NH
+586,Udaipur,Surajpole,25-01-2024,10:00:00,498,High,Yes,Clear,Residential
+587,Udaipur,Fatehpura,25-01-2024,11:00:00,196,Medium,No,Clear,NH
+588,Udaipur,Goverdhan Vilas,25-01-2024,12:00:00,426,Low,No,Clear,NH
+589,Udaipur,Fatehpura,25-01-2024,13:00:00,63,Low,No,Foggy,Residential
+590,Udaipur,Goverdhan Vilas,25-01-2024,14:00:00,355,High,No,Clear,NH
+591,Udaipur,Surajpole,25-01-2024,15:00:00,279,High,No,Clear,NH
+592,Udaipur,Udiapole,25-01-2024,16:00:00,282,High,Yes,Clear,City Road
+593,Udaipur,Udiapole,25-01-2024,17:00:00,265,Medium,Yes,Clear,Residential
+594,Udaipur,Surajpole,25-01-2024,18:00:00,308,Low,No,Rainy,NH
+595,Udaipur,Hiran Magri,25-01-2024,19:00:00,85,Low,Yes,Clear,NH
+596,Udaipur,Udiapole,25-01-2024,20:00:00,312,Medium,No,Foggy,City Road
+597,Udaipur,Goverdhan Vilas,25-01-2024,21:00:00,331,Low,No,Clear,NH
+598,Udaipur,Goverdhan Vilas,25-01-2024,22:00:00,294,Low,No,Foggy,City Road
+599,Udaipur,Goverdhan Vilas,25-01-2024,23:00:00,102,High,No,Clear,NH
+600,Udaipur,Fatehpura,26-01-2024,00:00:00,224,High,No,Rainy,City Road
+601,Udaipur,Goverdhan Vilas,26-01-2024,01:00:00,136,High,No,Rainy,Residential
+602,Udaipur,Surajpole,26-01-2024,02:00:00,330,Medium,Yes,Rainy,NH
+603,Udaipur,Udiapole,26-01-2024,03:00:00,180,Medium,No,Foggy,NH
+604,Udaipur,Chetak Circle,26-01-2024,04:00:00,338,Low,Yes,Clear,NH
+605,Udaipur,Chetak Circle,26-01-2024,05:00:00,81,Low,No,Clear,Residential
+606,Udaipur,Surajpole,26-01-2024,06:00:00,363,High,No,Foggy,Residential
+607,Udaipur,Surajpole,26-01-2024,07:00:00,251,Low,No,Foggy,NH
+608,Udaipur,Goverdhan Vilas,26-01-2024,08:00:00,129,Medium,No,Clear,Residential
+609,Udaipur,Surajpole,26-01-2024,09:00:00,74,Medium,Yes,Clear,NH
+610,Udaipur,Fatehpura,26-01-2024,10:00:00,55,Medium,Yes,Rainy,City Road
+611,Udaipur,Hiran Magri,26-01-2024,11:00:00,303,High,Yes,Foggy,Residential
+612,Udaipur,Fatehpura,26-01-2024,12:00:00,417,High,No,Foggy,Residential
+613,Udaipur,Chetak Circle,26-01-2024,13:00:00,57,Low,Yes,Clear,NH
+614,Udaipur,Udiapole,26-01-2024,14:00:00,318,Low,Yes,Foggy,Residential
+615,Udaipur,Fatehpura,26-01-2024,15:00:00,436,High,No,Clear,City Road
+616,Udaipur,Udiapole,26-01-2024,16:00:00,155,Low,No,Clear,NH
+617,Udaipur,Chetak Circle,26-01-2024,17:00:00,184,High,No,Clear,NH
+618,Udaipur,Udiapole,26-01-2024,18:00:00,435,Medium,Yes,Clear,NH
+619,Udaipur,Surajpole,26-01-2024,19:00:00,166,Low,Yes,Clear,NH
+620,Udaipur,Udiapole,26-01-2024,20:00:00,451,Medium,No,Clear,NH
+621,Udaipur,Fatehpura,26-01-2024,21:00:00,231,Medium,No,Rainy,City Road
+622,Udaipur,Udiapole,26-01-2024,22:00:00,149,High,Yes,Foggy,NH
+623,Udaipur,Chetak Circle,26-01-2024,23:00:00,407,Medium,Yes,Clear,Residential
+624,Udaipur,Hiran Magri,27-01-2024,00:00:00,102,Low,No,Rainy,Residential
+625,Udaipur,Chetak Circle,27-01-2024,01:00:00,84,Medium,No,Clear,City Road
+626,Udaipur,Fatehpura,27-01-2024,02:00:00,93,Low,Yes,Foggy,City Road
+627,Udaipur,Fatehpura,27-01-2024,03:00:00,492,High,No,Clear,Residential
+628,Udaipur,Hiran Magri,27-01-2024,04:00:00,98,Low,No,Rainy,City Road
+629,Udaipur,Udiapole,27-01-2024,05:00:00,202,Medium,No,Clear,Residential
+630,Udaipur,Chetak Circle,27-01-2024,06:00:00,68,Low,No,Clear,Residential
+631,Udaipur,Surajpole,27-01-2024,07:00:00,391,Medium,No,Rainy,City Road
+632,Udaipur,Hiran Magri,27-01-2024,08:00:00,87,Medium,No,Foggy,City Road
+633,Udaipur,Hiran Magri,27-01-2024,09:00:00,186,High,Yes,Foggy,NH
+634,Udaipur,Udiapole,27-01-2024,10:00:00,131,Low,No,Rainy,NH
+635,Udaipur,Chetak Circle,27-01-2024,11:00:00,283,Medium,Yes,Rainy,City Road
+636,Udaipur,Chetak Circle,27-01-2024,12:00:00,212,Low,Yes,Foggy,City Road
+637,Udaipur,Udiapole,27-01-2024,13:00:00,261,High,Yes,Foggy,City Road
+638,Udaipur,Fatehpura,27-01-2024,14:00:00,289,Medium,No,Foggy,NH
+639,Udaipur,Chetak Circle,27-01-2024,15:00:00,312,High,No,Foggy,NH
+640,Udaipur,Hiran Magri,27-01-2024,16:00:00,322,Low,Yes,Rainy,NH
+641,Udaipur,Udiapole,27-01-2024,17:00:00,267,High,No,Clear,Residential
+642,Udaipur,Surajpole,27-01-2024,18:00:00,143,Medium,Yes,Rainy,NH
+643,Udaipur,Hiran Magri,27-01-2024,19:00:00,107,Low,Yes,Foggy,NH
+644,Udaipur,Goverdhan Vilas,27-01-2024,20:00:00,447,High,Yes,Clear,Residential
+645,Udaipur,Surajpole,27-01-2024,21:00:00,95,Low,No,Foggy,Residential
+646,Udaipur,Chetak Circle,27-01-2024,22:00:00,406,Low,No,Foggy,Residential
+647,Udaipur,Chetak Circle,27-01-2024,23:00:00,179,Low,Yes,Rainy,City Road
+648,Udaipur,Udiapole,28-01-2024,00:00:00,64,Medium,Yes,Clear,Residential
+649,Udaipur,Goverdhan Vilas,28-01-2024,01:00:00,455,Medium,Yes,Foggy,City Road
+650,Udaipur,Fatehpura,28-01-2024,02:00:00,312,Medium,Yes,Foggy,City Road
+651,Udaipur,Udiapole,28-01-2024,03:00:00,455,Medium,No,Clear,Residential
+652,Udaipur,Chetak Circle,28-01-2024,04:00:00,109,Low,Yes,Foggy,NH
+653,Udaipur,Udiapole,28-01-2024,05:00:00,125,High,Yes,Rainy,City Road
+654,Udaipur,Udiapole,28-01-2024,06:00:00,156,Low,No,Clear,City Road
+655,Udaipur,Fatehpura,28-01-2024,07:00:00,467,High,Yes,Rainy,NH
+656,Udaipur,Goverdhan Vilas,28-01-2024,08:00:00,123,High,No,Rainy,NH
+657,Udaipur,Udiapole,28-01-2024,09:00:00,277,High,No,Rainy,NH
+658,Udaipur,Fatehpura,28-01-2024,10:00:00,468,High,Yes,Clear,City Road
+659,Udaipur,Chetak Circle,28-01-2024,11:00:00,392,Low,No,Foggy,Residential
+660,Udaipur,Goverdhan Vilas,28-01-2024,12:00:00,428,Low,No,Rainy,Residential
+661,Udaipur,Surajpole,28-01-2024,13:00:00,188,Low,Yes,Rainy,NH
+662,Udaipur,Chetak Circle,28-01-2024,14:00:00,248,High,Yes,Foggy,City Road
+663,Udaipur,Hiran Magri,28-01-2024,15:00:00,195,Medium,Yes,Foggy,Residential
+664,Udaipur,Fatehpura,28-01-2024,16:00:00,222,Low,Yes,Rainy,NH
+665,Udaipur,Fatehpura,28-01-2024,17:00:00,241,Medium,Yes,Foggy,NH
+666,Udaipur,Hiran Magri,28-01-2024,18:00:00,477,High,No,Clear,Residential
+667,Udaipur,Udiapole,28-01-2024,19:00:00,192,High,Yes,Clear,NH
+668,Udaipur,Hiran Magri,28-01-2024,20:00:00,291,Low,No,Clear,City Road
+669,Udaipur,Chetak Circle,28-01-2024,21:00:00,439,High,No,Clear,Residential
+670,Udaipur,Hiran Magri,28-01-2024,22:00:00,472,High,Yes,Rainy,NH
+671,Udaipur,Fatehpura,28-01-2024,23:00:00,76,Low,No,Rainy,Residential
+672,Udaipur,Goverdhan Vilas,29-01-2024,00:00:00,352,Medium,No,Clear,NH
+673,Udaipur,Hiran Magri,29-01-2024,01:00:00,255,Medium,Yes,Clear,City Road
+674,Udaipur,Udiapole,29-01-2024,02:00:00,356,Low,No,Rainy,Residential
+675,Udaipur,Surajpole,29-01-2024,03:00:00,467,High,No,Foggy,NH
+676,Udaipur,Chetak Circle,29-01-2024,04:00:00,169,Medium,No,Rainy,NH
+677,Udaipur,Fatehpura,29-01-2024,05:00:00,464,High,No,Clear,City Road
+678,Udaipur,Fatehpura,29-01-2024,06:00:00,240,Low,No,Foggy,NH
+679,Udaipur,Surajpole,29-01-2024,07:00:00,417,High,Yes,Foggy,NH
+680,Udaipur,Surajpole,29-01-2024,08:00:00,395,Medium,Yes,Foggy,City Road
+681,Udaipur,Udiapole,29-01-2024,09:00:00,249,High,Yes,Rainy,Residential
+682,Udaipur,Surajpole,29-01-2024,10:00:00,478,Low,Yes,Clear,City Road
+683,Udaipur,Chetak Circle,29-01-2024,11:00:00,204,Medium,No,Clear,NH
+684,Udaipur,Fatehpura,29-01-2024,12:00:00,445,Medium,Yes,Clear,City Road
+685,Udaipur,Hiran Magri,29-01-2024,13:00:00,191,High,Yes,Foggy,NH
+686,Udaipur,Surajpole,29-01-2024,14:00:00,350,High,Yes,Rainy,NH
+687,Udaipur,Udiapole,29-01-2024,15:00:00,92,Medium,No,Rainy,NH
+688,Udaipur,Hiran Magri,29-01-2024,16:00:00,95,High,Yes,Rainy,NH
+689,Udaipur,Fatehpura,29-01-2024,17:00:00,403,Low,No,Rainy,Residential
+690,Udaipur,Udiapole,29-01-2024,18:00:00,140,High,No,Foggy,Residential
+691,Udaipur,Surajpole,29-01-2024,19:00:00,131,Medium,No,Clear,City Road
+692,Udaipur,Hiran Magri,29-01-2024,20:00:00,195,Low,Yes,Foggy,Residential
+693,Udaipur,Chetak Circle,29-01-2024,21:00:00,466,High,Yes,Foggy,City Road
+694,Udaipur,Surajpole,29-01-2024,22:00:00,285,High,Yes,Clear,Residential
+695,Udaipur,Chetak Circle,29-01-2024,23:00:00,428,Low,No,Clear,Residential
+696,Udaipur,Surajpole,30-01-2024,00:00:00,77,Low,Yes,Foggy,NH
+697,Udaipur,Udiapole,30-01-2024,01:00:00,452,Low,No,Rainy,NH
+698,Udaipur,Goverdhan Vilas,30-01-2024,02:00:00,331,Low,Yes,Foggy,Residential
+699,Udaipur,Chetak Circle,30-01-2024,03:00:00,367,High,Yes,Foggy,Residential
+700,Udaipur,Fatehpura,30-01-2024,04:00:00,395,Low,Yes,Foggy,NH
+701,Udaipur,Goverdhan Vilas,30-01-2024,05:00:00,134,High,Yes,Rainy,City Road
+702,Udaipur,Chetak Circle,30-01-2024,06:00:00,86,High,No,Rainy,NH
+703,Udaipur,Udiapole,30-01-2024,07:00:00,320,Medium,No,Foggy,Residential
+704,Udaipur,Surajpole,30-01-2024,08:00:00,436,Medium,No,Foggy,City Road
+705,Udaipur,Surajpole,30-01-2024,09:00:00,165,Low,No,Clear,Residential
+706,Udaipur,Chetak Circle,30-01-2024,10:00:00,91,Low,Yes,Rainy,City Road
+707,Udaipur,Hiran Magri,30-01-2024,11:00:00,99,Medium,No,Rainy,NH
+708,Udaipur,Goverdhan Vilas,30-01-2024,12:00:00,430,High,Yes,Rainy,City Road
+709,Udaipur,Fatehpura,30-01-2024,13:00:00,421,Medium,Yes,Clear,City Road
+710,Udaipur,Udiapole,30-01-2024,14:00:00,217,Low,Yes,Rainy,City Road
+711,Udaipur,Goverdhan Vilas,30-01-2024,15:00:00,385,High,No,Rainy,NH
+712,Udaipur,Surajpole,30-01-2024,16:00:00,109,High,Yes,Clear,City Road
+713,Udaipur,Hiran Magri,30-01-2024,17:00:00,197,Low,No,Rainy,NH
+714,Udaipur,Chetak Circle,30-01-2024,18:00:00,215,High,Yes,Clear,City Road
+715,Udaipur,Surajpole,30-01-2024,19:00:00,433,Medium,Yes,Rainy,NH
+716,Udaipur,Hiran Magri,30-01-2024,20:00:00,307,Medium,No,Rainy,NH
+717,Udaipur,Fatehpura,30-01-2024,21:00:00,150,Medium,No,Rainy,NH
+718,Udaipur,Surajpole,30-01-2024,22:00:00,356,Medium,Yes,Clear,NH
+719,Udaipur,Surajpole,30-01-2024,23:00:00,94,High,No,Foggy,City Road
+720,Udaipur,Surajpole,31-01-2024,00:00:00,418,Medium,Yes,Rainy,Residential
+721,Udaipur,Goverdhan Vilas,31-01-2024,01:00:00,200,Low,No,Clear,Residential
+722,Udaipur,Surajpole,31-01-2024,02:00:00,306,High,Yes,Foggy,NH
+723,Udaipur,Surajpole,31-01-2024,03:00:00,465,High,No,Clear,Residential
+724,Udaipur,Fatehpura,31-01-2024,04:00:00,384,Medium,Yes,Clear,NH
+725,Udaipur,Surajpole,31-01-2024,05:00:00,154,Low,No,Clear,NH
+726,Udaipur,Fatehpura,31-01-2024,06:00:00,99,High,No,Foggy,City Road
+727,Udaipur,Surajpole,31-01-2024,07:00:00,327,Medium,Yes,Foggy,NH
+728,Udaipur,Surajpole,31-01-2024,08:00:00,309,High,Yes,Rainy,City Road
+729,Udaipur,Fatehpura,31-01-2024,09:00:00,387,Low,No,Clear,Residential
+730,Udaipur,Hiran Magri,31-01-2024,10:00:00,350,High,No,Rainy,City Road
+731,Udaipur,Chetak Circle,31-01-2024,11:00:00,381,Low,Yes,Rainy,City Road
+732,Udaipur,Udiapole,31-01-2024,12:00:00,430,Medium,No,Clear,City Road
+733,Udaipur,Surajpole,31-01-2024,13:00:00,353,Low,Yes,Rainy,City Road
+734,Udaipur,Goverdhan Vilas,31-01-2024,14:00:00,151,High,No,Rainy,Residential
+735,Udaipur,Hiran Magri,31-01-2024,15:00:00,93,Low,Yes,Clear,Residential
+736,Udaipur,Fatehpura,31-01-2024,16:00:00,265,Low,No,Clear,City Road
+737,Udaipur,Surajpole,31-01-2024,17:00:00,161,High,Yes,Foggy,Residential
+738,Udaipur,Fatehpura,31-01-2024,18:00:00,102,Low,No,Rainy,NH
+739,Udaipur,Surajpole,31-01-2024,19:00:00,323,Medium,No,Foggy,City Road
+740,Udaipur,Hiran Magri,31-01-2024,20:00:00,183,Medium,No,Clear,NH
+741,Udaipur,Udiapole,31-01-2024,21:00:00,84,High,Yes,Clear,NH
+742,Udaipur,Hiran Magri,31-01-2024,22:00:00,395,Medium,Yes,Foggy,City Road
+743,Udaipur,Goverdhan Vilas,31-01-2024,23:00:00,450,High,No,Clear,NH
+744,Udaipur,Udiapole,01-02-2024,00:00:00,62,Low,No,Rainy,Residential
+745,Udaipur,Udiapole,01-02-2024,01:00:00,160,High,No,Foggy,Residential
+746,Udaipur,Hiran Magri,01-02-2024,02:00:00,442,High,Yes,Foggy,NH
+747,Udaipur,Hiran Magri,01-02-2024,03:00:00,58,Low,Yes,Foggy,Residential
+748,Udaipur,Surajpole,01-02-2024,04:00:00,485,Medium,Yes,Rainy,NH
+749,Udaipur,Udiapole,01-02-2024,05:00:00,50,Low,Yes,Clear,City Road
+750,Udaipur,Chetak Circle,01-02-2024,06:00:00,484,Low,Yes,Foggy,City Road
+751,Udaipur,Goverdhan Vilas,01-02-2024,07:00:00,236,Low,Yes,Rainy,City Road
+752,Udaipur,Goverdhan Vilas,01-02-2024,08:00:00,447,High,Yes,Foggy,Residential
+753,Udaipur,Hiran Magri,01-02-2024,09:00:00,313,Low,Yes,Clear,Residential
+754,Udaipur,Goverdhan Vilas,01-02-2024,10:00:00,377,Medium,No,Clear,NH
+755,Udaipur,Udiapole,01-02-2024,11:00:00,491,High,No,Clear,City Road
+756,Udaipur,Surajpole,01-02-2024,12:00:00,420,High,No,Rainy,City Road
+757,Udaipur,Chetak Circle,01-02-2024,13:00:00,142,Medium,No,Clear,Residential
+758,Udaipur,Goverdhan Vilas,01-02-2024,14:00:00,223,High,Yes,Clear,Residential
+759,Udaipur,Udiapole,01-02-2024,15:00:00,170,Medium,Yes,Clear,Residential
+760,Udaipur,Surajpole,01-02-2024,16:00:00,428,Low,No,Foggy,Residential
+761,Udaipur,Fatehpura,01-02-2024,17:00:00,379,Medium,Yes,Clear,City Road
+762,Udaipur,Goverdhan Vilas,01-02-2024,18:00:00,488,Low,No,Rainy,NH
+763,Udaipur,Surajpole,01-02-2024,19:00:00,286,High,No,Rainy,City Road
+764,Udaipur,Udiapole,01-02-2024,20:00:00,84,Medium,No,Foggy,City Road
+765,Udaipur,Udiapole,01-02-2024,21:00:00,418,Medium,No,Clear,Residential
+766,Udaipur,Chetak Circle,01-02-2024,22:00:00,297,High,No,Foggy,City Road
+767,Udaipur,Goverdhan Vilas,01-02-2024,23:00:00,91,Medium,No,Clear,NH
+768,Udaipur,Hiran Magri,02-02-2024,00:00:00,440,Low,Yes,Rainy,NH
+769,Udaipur,Chetak Circle,02-02-2024,01:00:00,194,High,Yes,Foggy,City Road
+770,Udaipur,Surajpole,02-02-2024,02:00:00,155,Low,No,Rainy,Residential
+771,Udaipur,Udiapole,02-02-2024,03:00:00,177,High,No,Rainy,NH
+772,Udaipur,Surajpole,02-02-2024,04:00:00,59,Medium,Yes,Foggy,City Road
+773,Udaipur,Udiapole,02-02-2024,05:00:00,297,Medium,Yes,Rainy,NH
+774,Udaipur,Hiran Magri,02-02-2024,06:00:00,149,Low,No,Rainy,Residential
+775,Udaipur,Fatehpura,02-02-2024,07:00:00,324,Medium,No,Foggy,City Road
+776,Udaipur,Hiran Magri,02-02-2024,08:00:00,388,Medium,Yes,Rainy,Residential
+777,Udaipur,Goverdhan Vilas,02-02-2024,09:00:00,316,High,No,Foggy,NH
+778,Udaipur,Fatehpura,02-02-2024,10:00:00,196,Low,Yes,Foggy,City Road
+779,Udaipur,Goverdhan Vilas,02-02-2024,11:00:00,136,High,Yes,Clear,Residential
+780,Udaipur,Surajpole,02-02-2024,12:00:00,171,Low,No,Clear,NH
+781,Udaipur,Udiapole,02-02-2024,13:00:00,64,Low,No,Foggy,Residential
+782,Udaipur,Goverdhan Vilas,02-02-2024,14:00:00,287,High,No,Foggy,NH
+783,Udaipur,Udiapole,02-02-2024,15:00:00,55,Medium,Yes,Foggy,City Road
+784,Udaipur,Surajpole,02-02-2024,16:00:00,144,High,Yes,Foggy,NH
+785,Udaipur,Surajpole,02-02-2024,17:00:00,67,High,No,Clear,City Road
+786,Udaipur,Goverdhan Vilas,02-02-2024,18:00:00,288,Low,Yes,Rainy,City Road
+787,Udaipur,Udiapole,02-02-2024,19:00:00,227,Medium,No,Clear,City Road
+788,Udaipur,Surajpole,02-02-2024,20:00:00,84,Medium,Yes,Foggy,City Road
+789,Udaipur,Chetak Circle,02-02-2024,21:00:00,362,Medium,Yes,Foggy,Residential
+790,Udaipur,Surajpole,02-02-2024,22:00:00,492,Medium,No,Foggy,Residential
+791,Udaipur,Hiran Magri,02-02-2024,23:00:00,368,Low,No,Foggy,Residential
+792,Udaipur,Fatehpura,03-02-2024,00:00:00,120,Low,Yes,Clear,Residential
+793,Udaipur,Goverdhan Vilas,03-02-2024,01:00:00,286,Low,No,Foggy,Residential
+794,Udaipur,Fatehpura,03-02-2024,02:00:00,179,High,Yes,Foggy,NH
+795,Udaipur,Goverdhan Vilas,03-02-2024,03:00:00,216,Low,Yes,Clear,Residential
+796,Udaipur,Surajpole,03-02-2024,04:00:00,488,High,No,Rainy,Residential
+797,Udaipur,Chetak Circle,03-02-2024,05:00:00,56,Low,No,Rainy,City Road
+798,Udaipur,Surajpole,03-02-2024,06:00:00,405,Low,No,Rainy,Residential
+799,Udaipur,Surajpole,03-02-2024,07:00:00,89,High,Yes,Foggy,City Road
+800,Udaipur,Goverdhan Vilas,03-02-2024,08:00:00,121,Low,No,Rainy,Residential
+801,Udaipur,Chetak Circle,03-02-2024,09:00:00,465,High,Yes,Clear,NH
+802,Udaipur,Udiapole,03-02-2024,10:00:00,242,Medium,Yes,Foggy,NH
+803,Udaipur,Chetak Circle,03-02-2024,11:00:00,477,Medium,No,Foggy,Residential
+804,Udaipur,Surajpole,03-02-2024,12:00:00,497,Low,Yes,Clear,City Road
+805,Udaipur,Goverdhan Vilas,03-02-2024,13:00:00,324,Low,No,Foggy,NH
+806,Udaipur,Chetak Circle,03-02-2024,14:00:00,400,Low,Yes,Clear,City Road
+807,Udaipur,Fatehpura,03-02-2024,15:00:00,304,Medium,No,Foggy,City Road
+808,Udaipur,Goverdhan Vilas,03-02-2024,16:00:00,158,High,No,Rainy,NH
+809,Udaipur,Chetak Circle,03-02-2024,17:00:00,368,High,Yes,Clear,NH
+810,Udaipur,Udiapole,03-02-2024,18:00:00,164,High,Yes,Rainy,Residential
+811,Udaipur,Chetak Circle,03-02-2024,19:00:00,178,Medium,Yes,Foggy,Residential
+812,Udaipur,Hiran Magri,03-02-2024,20:00:00,467,High,Yes,Clear,City Road
+813,Udaipur,Chetak Circle,03-02-2024,21:00:00,221,Medium,Yes,Rainy,NH
+814,Udaipur,Chetak Circle,03-02-2024,22:00:00,217,Low,No,Rainy,Residential
+815,Udaipur,Surajpole,03-02-2024,23:00:00,308,Low,Yes,Rainy,Residential
+816,Udaipur,Chetak Circle,04-02-2024,00:00:00,296,Medium,No,Rainy,City Road
+817,Udaipur,Goverdhan Vilas,04-02-2024,01:00:00,295,Low,No,Foggy,NH
+818,Udaipur,Fatehpura,04-02-2024,02:00:00,198,Medium,No,Clear,City Road
+819,Udaipur,Goverdhan Vilas,04-02-2024,03:00:00,176,Medium,Yes,Rainy,City Road
+820,Udaipur,Hiran Magri,04-02-2024,04:00:00,425,Low,No,Foggy,NH
+821,Udaipur,Udiapole,04-02-2024,05:00:00,377,Low,Yes,Clear,City Road
+822,Udaipur,Udiapole,04-02-2024,06:00:00,243,High,Yes,Foggy,City Road
+823,Udaipur,Hiran Magri,04-02-2024,07:00:00,350,Medium,Yes,Rainy,Residential
+824,Udaipur,Chetak Circle,04-02-2024,08:00:00,128,Low,Yes,Clear,Residential
+825,Udaipur,Hiran Magri,04-02-2024,09:00:00,447,Medium,Yes,Foggy,Residential
+826,Udaipur,Surajpole,04-02-2024,10:00:00,412,High,Yes,Rainy,City Road
+827,Udaipur,Fatehpura,04-02-2024,11:00:00,199,Medium,Yes,Rainy,City Road
+828,Udaipur,Udiapole,04-02-2024,12:00:00,435,High,No,Rainy,NH
+829,Udaipur,Hiran Magri,04-02-2024,13:00:00,156,Low,Yes,Clear,City Road
+830,Udaipur,Fatehpura,04-02-2024,14:00:00,446,Low,Yes,Clear,Residential
+831,Udaipur,Chetak Circle,04-02-2024,15:00:00,191,High,Yes,Clear,City Road
+832,Udaipur,Udiapole,04-02-2024,16:00:00,191,Medium,Yes,Foggy,City Road
+833,Udaipur,Fatehpura,04-02-2024,17:00:00,329,Medium,Yes,Rainy,NH
+834,Udaipur,Surajpole,04-02-2024,18:00:00,323,High,No,Clear,City Road
+835,Udaipur,Goverdhan Vilas,04-02-2024,19:00:00,261,High,No,Foggy,City Road
+836,Udaipur,Udiapole,04-02-2024,20:00:00,181,Medium,No,Clear,Residential
+837,Udaipur,Goverdhan Vilas,04-02-2024,21:00:00,364,Low,Yes,Foggy,City Road
+838,Udaipur,Chetak Circle,04-02-2024,22:00:00,313,Medium,No,Clear,City Road
+839,Udaipur,Surajpole,04-02-2024,23:00:00,203,Medium,Yes,Clear,City Road
+840,Udaipur,Goverdhan Vilas,05-02-2024,00:00:00,277,Medium,No,Clear,City Road
+841,Udaipur,Surajpole,05-02-2024,01:00:00,197,Medium,No,Clear,NH
+842,Udaipur,Udiapole,05-02-2024,02:00:00,116,Medium,Yes,Foggy,NH
+843,Udaipur,Udiapole,05-02-2024,03:00:00,496,Medium,Yes,Clear,NH
+844,Udaipur,Udiapole,05-02-2024,04:00:00,461,Low,Yes,Rainy,NH
+845,Udaipur,Fatehpura,05-02-2024,05:00:00,238,Low,No,Clear,NH
+846,Udaipur,Hiran Magri,05-02-2024,06:00:00,274,Medium,No,Clear,NH
+847,Udaipur,Surajpole,05-02-2024,07:00:00,262,Medium,Yes,Rainy,City Road
+848,Udaipur,Surajpole,05-02-2024,08:00:00,494,High,Yes,Rainy,Residential
+849,Udaipur,Chetak Circle,05-02-2024,09:00:00,324,Low,Yes,Foggy,NH
+850,Udaipur,Surajpole,05-02-2024,10:00:00,427,High,No,Rainy,Residential
+851,Udaipur,Udiapole,05-02-2024,11:00:00,473,Medium,Yes,Clear,City Road
+852,Udaipur,Goverdhan Vilas,05-02-2024,12:00:00,477,Low,No,Clear,NH
+853,Udaipur,Fatehpura,05-02-2024,13:00:00,324,Low,No,Clear,Residential
+854,Udaipur,Udiapole,05-02-2024,14:00:00,94,Medium,No,Clear,Residential
+855,Udaipur,Fatehpura,05-02-2024,15:00:00,82,High,No,Foggy,NH
+856,Udaipur,Hiran Magri,05-02-2024,16:00:00,198,High,No,Foggy,City Road
+857,Udaipur,Goverdhan Vilas,05-02-2024,17:00:00,142,High,Yes,Rainy,Residential
+858,Udaipur,Surajpole,05-02-2024,18:00:00,478,Medium,No,Rainy,Residential
+859,Udaipur,Goverdhan Vilas,05-02-2024,19:00:00,288,Low,Yes,Rainy,City Road
+860,Udaipur,Udiapole,05-02-2024,20:00:00,201,Low,No,Rainy,City Road
+861,Udaipur,Chetak Circle,05-02-2024,21:00:00,163,High,Yes,Foggy,Residential
+862,Udaipur,Goverdhan Vilas,05-02-2024,22:00:00,115,Low,Yes,Clear,City Road
+863,Udaipur,Goverdhan Vilas,05-02-2024,23:00:00,151,Low,No,Rainy,Residential
+864,Udaipur,Surajpole,06-02-2024,00:00:00,420,High,Yes,Foggy,Residential
+865,Udaipur,Chetak Circle,06-02-2024,01:00:00,407,Medium,No,Rainy,Residential
+866,Udaipur,Udiapole,06-02-2024,02:00:00,324,Low,Yes,Rainy,Residential
+867,Udaipur,Hiran Magri,06-02-2024,03:00:00,183,Medium,Yes,Rainy,City Road
+868,Udaipur,Udiapole,06-02-2024,04:00:00,65,High,Yes,Clear,Residential
+869,Udaipur,Fatehpura,06-02-2024,05:00:00,354,Low,Yes,Clear,Residential
+870,Udaipur,Udiapole,06-02-2024,06:00:00,361,Low,No,Foggy,NH
+871,Udaipur,Surajpole,06-02-2024,07:00:00,206,High,No,Clear,NH
+872,Udaipur,Udiapole,06-02-2024,08:00:00,66,Medium,No,Clear,City Road
+873,Udaipur,Fatehpura,06-02-2024,09:00:00,240,Low,Yes,Foggy,NH
+874,Udaipur,Goverdhan Vilas,06-02-2024,10:00:00,456,Low,Yes,Clear,City Road
+875,Udaipur,Fatehpura,06-02-2024,11:00:00,410,High,Yes,Foggy,City Road
+876,Udaipur,Goverdhan Vilas,06-02-2024,12:00:00,67,Medium,No,Foggy,Residential
+877,Udaipur,Hiran Magri,06-02-2024,13:00:00,468,Medium,Yes,Foggy,NH
+878,Udaipur,Udiapole,06-02-2024,14:00:00,62,Medium,No,Foggy,City Road
+879,Udaipur,Surajpole,06-02-2024,15:00:00,472,Low,No,Rainy,Residential
+880,Udaipur,Goverdhan Vilas,06-02-2024,16:00:00,125,Low,Yes,Rainy,NH
+881,Udaipur,Hiran Magri,06-02-2024,17:00:00,458,Low,Yes,Foggy,City Road
+882,Udaipur,Udiapole,06-02-2024,18:00:00,190,High,No,Foggy,Residential
+883,Udaipur,Udiapole,06-02-2024,19:00:00,172,Medium,No,Clear,NH
+884,Udaipur,Goverdhan Vilas,06-02-2024,20:00:00,249,Medium,No,Clear,Residential
+885,Udaipur,Fatehpura,06-02-2024,21:00:00,389,High,No,Clear,City Road
+886,Udaipur,Goverdhan Vilas,06-02-2024,22:00:00,259,High,Yes,Foggy,City Road
+887,Udaipur,Udiapole,06-02-2024,23:00:00,468,Low,No,Foggy,City Road
+888,Udaipur,Fatehpura,07-02-2024,00:00:00,356,High,Yes,Foggy,NH
+889,Udaipur,Chetak Circle,07-02-2024,01:00:00,355,Low,No,Rainy,Residential
+890,Udaipur,Chetak Circle,07-02-2024,02:00:00,399,High,No,Foggy,City Road
+891,Udaipur,Udiapole,07-02-2024,03:00:00,327,Low,No,Clear,Residential
+892,Udaipur,Fatehpura,07-02-2024,04:00:00,356,High,Yes,Foggy,NH
+893,Udaipur,Chetak Circle,07-02-2024,05:00:00,183,Low,No,Foggy,Residential
+894,Udaipur,Udiapole,07-02-2024,06:00:00,378,Medium,No,Rainy,Residential
+895,Udaipur,Hiran Magri,07-02-2024,07:00:00,446,High,No,Clear,NH
+896,Udaipur,Hiran Magri,07-02-2024,08:00:00,147,High,Yes,Foggy,Residential
+897,Udaipur,Surajpole,07-02-2024,09:00:00,72,Medium,No,Clear,NH
+898,Udaipur,Surajpole,07-02-2024,10:00:00,367,High,Yes,Foggy,City Road
+899,Udaipur,Surajpole,07-02-2024,11:00:00,351,High,Yes,Foggy,City Road
+900,Udaipur,Chetak Circle,07-02-2024,12:00:00,172,High,Yes,Rainy,NH
+901,Udaipur,Goverdhan Vilas,07-02-2024,13:00:00,60,Medium,No,Rainy,City Road
+902,Udaipur,Udiapole,07-02-2024,14:00:00,237,Low,No,Clear,City Road
+903,Udaipur,Fatehpura,07-02-2024,15:00:00,431,High,Yes,Clear,Residential
+904,Udaipur,Goverdhan Vilas,07-02-2024,16:00:00,366,Medium,No,Clear,NH
+905,Udaipur,Goverdhan Vilas,07-02-2024,17:00:00,176,Medium,Yes,Clear,Residential
+906,Udaipur,Fatehpura,07-02-2024,18:00:00,403,Low,Yes,Rainy,City Road
+907,Udaipur,Fatehpura,07-02-2024,19:00:00,69,High,Yes,Clear,Residential
+908,Udaipur,Surajpole,07-02-2024,20:00:00,180,Low,Yes,Foggy,NH
+909,Udaipur,Goverdhan Vilas,07-02-2024,21:00:00,213,High,Yes,Foggy,NH
+910,Udaipur,Hiran Magri,07-02-2024,22:00:00,386,Medium,No,Rainy,City Road
+911,Udaipur,Surajpole,07-02-2024,23:00:00,226,Medium,Yes,Foggy,Residential
+912,Udaipur,Surajpole,08-02-2024,00:00:00,422,Low,Yes,Foggy,Residential
+913,Udaipur,Hiran Magri,08-02-2024,01:00:00,260,Medium,No,Foggy,Residential
+914,Udaipur,Chetak Circle,08-02-2024,02:00:00,55,Low,No,Rainy,City Road
+915,Udaipur,Fatehpura,08-02-2024,03:00:00,296,High,No,Foggy,Residential
+916,Udaipur,Chetak Circle,08-02-2024,04:00:00,115,High,Yes,Clear,Residential
+917,Udaipur,Goverdhan Vilas,08-02-2024,05:00:00,67,Medium,Yes,Rainy,City Road
+918,Udaipur,Udiapole,08-02-2024,06:00:00,330,High,No,Rainy,Residential
+919,Udaipur,Fatehpura,08-02-2024,07:00:00,478,High,Yes,Foggy,Residential
+920,Udaipur,Udiapole,08-02-2024,08:00:00,386,High,Yes,Rainy,City Road
+921,Udaipur,Hiran Magri,08-02-2024,09:00:00,393,High,Yes,Foggy,NH
+922,Udaipur,Udiapole,08-02-2024,10:00:00,326,Medium,Yes,Rainy,City Road
+923,Udaipur,Chetak Circle,08-02-2024,11:00:00,445,Medium,No,Foggy,NH
+924,Udaipur,Chetak Circle,08-02-2024,12:00:00,146,High,Yes,Rainy,NH
+925,Udaipur,Goverdhan Vilas,08-02-2024,13:00:00,428,High,No,Rainy,Residential
+926,Udaipur,Goverdhan Vilas,08-02-2024,14:00:00,366,High,No,Foggy,Residential
+927,Udaipur,Goverdhan Vilas,08-02-2024,15:00:00,469,Medium,Yes,Rainy,NH
+928,Udaipur,Surajpole,08-02-2024,16:00:00,90,Low,Yes,Rainy,Residential
+929,Udaipur,Udiapole,08-02-2024,17:00:00,174,Low,No,Clear,City Road
+930,Udaipur,Chetak Circle,08-02-2024,18:00:00,115,Low,No,Clear,City Road
+931,Udaipur,Udiapole,08-02-2024,19:00:00,299,High,No,Foggy,Residential
+932,Udaipur,Udiapole,08-02-2024,20:00:00,250,Low,No,Rainy,NH
+933,Udaipur,Surajpole,08-02-2024,21:00:00,373,Medium,No,Clear,City Road
+934,Udaipur,Chetak Circle,08-02-2024,22:00:00,359,Low,Yes,Rainy,City Road
+935,Udaipur,Udiapole,08-02-2024,23:00:00,254,Medium,No,Foggy,City Road
+936,Udaipur,Chetak Circle,09-02-2024,00:00:00,153,Medium,Yes,Clear,City Road
+937,Udaipur,Chetak Circle,09-02-2024,01:00:00,272,High,No,Clear,Residential
+938,Udaipur,Hiran Magri,09-02-2024,02:00:00,52,Low,No,Foggy,NH
+939,Udaipur,Goverdhan Vilas,09-02-2024,03:00:00,323,Low,No,Clear,City Road
+940,Udaipur,Hiran Magri,09-02-2024,04:00:00,115,Medium,No,Rainy,NH
+941,Udaipur,Fatehpura,09-02-2024,05:00:00,235,Low,Yes,Foggy,City Road
+942,Udaipur,Fatehpura,09-02-2024,06:00:00,218,Medium,Yes,Clear,Residential
+943,Udaipur,Surajpole,09-02-2024,07:00:00,298,Medium,Yes,Rainy,City Road
+944,Udaipur,Udiapole,09-02-2024,08:00:00,309,High,No,Clear,Residential
+945,Udaipur,Chetak Circle,09-02-2024,09:00:00,112,High,Yes,Clear,Residential
+946,Udaipur,Udiapole,09-02-2024,10:00:00,399,Low,Yes,Rainy,Residential
+947,Udaipur,Hiran Magri,09-02-2024,11:00:00,456,Medium,No,Foggy,City Road
+948,Udaipur,Fatehpura,09-02-2024,12:00:00,151,Medium,No,Rainy,City Road
+949,Udaipur,Goverdhan Vilas,09-02-2024,13:00:00,249,Low,No,Rainy,Residential
+950,Udaipur,Hiran Magri,09-02-2024,14:00:00,207,Medium,Yes,Clear,City Road
+951,Udaipur,Fatehpura,09-02-2024,15:00:00,271,Medium,Yes,Clear,NH
+952,Udaipur,Fatehpura,09-02-2024,16:00:00,192,Medium,No,Foggy,City Road
+953,Udaipur,Chetak Circle,09-02-2024,17:00:00,280,High,Yes,Clear,Residential
+954,Udaipur,Udiapole,09-02-2024,18:00:00,463,Low,Yes,Clear,Residential
+955,Udaipur,Hiran Magri,09-02-2024,19:00:00,420,Low,No,Foggy,City Road
+956,Udaipur,Udiapole,09-02-2024,20:00:00,268,High,No,Rainy,City Road
+957,Udaipur,Chetak Circle,09-02-2024,21:00:00,388,Low,No,Clear,City Road
+958,Udaipur,Goverdhan Vilas,09-02-2024,22:00:00,308,Low,No,Foggy,Residential
+959,Udaipur,Surajpole,09-02-2024,23:00:00,59,Low,No,Rainy,City Road
+960,Udaipur,Hiran Magri,10-02-2024,00:00:00,226,High,No,Foggy,Residential
+961,Udaipur,Chetak Circle,10-02-2024,01:00:00,92,High,Yes,Clear,NH
+962,Udaipur,Udiapole,10-02-2024,02:00:00,495,Low,No,Clear,Residential
+963,Udaipur,Goverdhan Vilas,10-02-2024,03:00:00,285,High,No,Foggy,City Road
+964,Udaipur,Surajpole,10-02-2024,04:00:00,431,High,Yes,Rainy,Residential
+965,Udaipur,Surajpole,10-02-2024,05:00:00,140,High,No,Rainy,NH
+966,Udaipur,Udiapole,10-02-2024,06:00:00,375,High,No,Rainy,City Road
+967,Udaipur,Hiran Magri,10-02-2024,07:00:00,447,Medium,Yes,Rainy,Residential
+968,Udaipur,Udiapole,10-02-2024,08:00:00,236,Medium,Yes,Clear,City Road
+969,Udaipur,Chetak Circle,10-02-2024,09:00:00,151,Medium,No,Foggy,NH
+970,Udaipur,Fatehpura,10-02-2024,10:00:00,269,Low,Yes,Rainy,Residential
+971,Udaipur,Fatehpura,10-02-2024,11:00:00,119,Low,No,Rainy,City Road
+972,Udaipur,Goverdhan Vilas,10-02-2024,12:00:00,417,Medium,Yes,Clear,NH
+973,Udaipur,Udiapole,10-02-2024,13:00:00,175,Low,No,Clear,City Road
+974,Udaipur,Udiapole,10-02-2024,14:00:00,388,Low,No,Foggy,City Road
+975,Udaipur,Hiran Magri,10-02-2024,15:00:00,98,Low,Yes,Foggy,NH
+976,Udaipur,Goverdhan Vilas,10-02-2024,16:00:00,169,High,No,Clear,NH
+977,Udaipur,Surajpole,10-02-2024,17:00:00,407,Medium,Yes,Clear,NH
+978,Udaipur,Surajpole,10-02-2024,18:00:00,314,Low,No,Foggy,NH
+979,Udaipur,Chetak Circle,10-02-2024,19:00:00,118,Medium,No,Foggy,City Road
+980,Udaipur,Surajpole,10-02-2024,20:00:00,333,High,Yes,Clear,Residential
+981,Udaipur,Hiran Magri,10-02-2024,21:00:00,80,Low,No,Clear,Residential
+982,Udaipur,Hiran Magri,10-02-2024,22:00:00,398,Medium,No,Clear,NH
+983,Udaipur,Surajpole,10-02-2024,23:00:00,395,Medium,Yes,Clear,City Road
+984,Udaipur,Surajpole,11-02-2024,00:00:00,459,Low,No,Rainy,Residential
+985,Udaipur,Goverdhan Vilas,11-02-2024,01:00:00,95,Low,Yes,Clear,Residential
+986,Udaipur,Goverdhan Vilas,11-02-2024,02:00:00,382,Medium,Yes,Clear,Residential
+987,Udaipur,Hiran Magri,11-02-2024,03:00:00,142,Low,No,Foggy,City Road
+988,Udaipur,Goverdhan Vilas,11-02-2024,04:00:00,120,Medium,Yes,Rainy,NH
+989,Udaipur,Udiapole,11-02-2024,05:00:00,190,Low,No,Foggy,City Road
+990,Udaipur,Chetak Circle,11-02-2024,06:00:00,242,High,No,Rainy,NH
+991,Udaipur,Fatehpura,11-02-2024,07:00:00,330,Low,No,Clear,NH
+992,Udaipur,Fatehpura,11-02-2024,08:00:00,324,Low,Yes,Rainy,City Road
+993,Udaipur,Goverdhan Vilas,11-02-2024,09:00:00,395,Low,No,Rainy,NH
+994,Udaipur,Hiran Magri,11-02-2024,10:00:00,219,Low,No,Foggy,City Road
+995,Udaipur,Surajpole,11-02-2024,11:00:00,246,Low,Yes,Rainy,Residential
+996,Udaipur,Chetak Circle,11-02-2024,12:00:00,380,High,No,Foggy,Residential
+997,Udaipur,Fatehpura,11-02-2024,13:00:00,208,Low,Yes,Foggy,NH
+998,Udaipur,Surajpole,11-02-2024,14:00:00,138,Low,No,Clear,NH
+999,Udaipur,Hiran Magri,11-02-2024,15:00:00,470,Low,Yes,Rainy,NH
+1000,Udaipur,Goverdhan Vilas,11-02-2024,16:00:00,345,High,Yes,Rainy,Residential
+1001,Udaipur,Surajpole,11-02-2024,17:00:00,427,High,No,Clear,NH
+1002,Udaipur,Goverdhan Vilas,11-02-2024,18:00:00,380,Low,Yes,Clear,NH
+1003,Udaipur,Fatehpura,11-02-2024,19:00:00,331,Low,No,Clear,NH
+1004,Udaipur,Hiran Magri,11-02-2024,20:00:00,268,High,No,Foggy,Residential
+1005,Udaipur,Udiapole,11-02-2024,21:00:00,97,High,Yes,Foggy,City Road
+1006,Udaipur,Surajpole,11-02-2024,22:00:00,284,Low,Yes,Clear,NH
+1007,Udaipur,Goverdhan Vilas,11-02-2024,23:00:00,215,Low,No,Clear,NH
+1008,Udaipur,Goverdhan Vilas,12-02-2024,00:00:00,480,Medium,No,Clear,NH
+1009,Udaipur,Hiran Magri,12-02-2024,01:00:00,252,Low,No,Rainy,City Road
+1010,Udaipur,Udiapole,12-02-2024,02:00:00,354,Low,No,Clear,NH
+1011,Udaipur,Udiapole,12-02-2024,03:00:00,119,Low,Yes,Rainy,City Road
+1012,Udaipur,Fatehpura,12-02-2024,04:00:00,268,High,No,Foggy,City Road
+1013,Udaipur,Udiapole,12-02-2024,05:00:00,58,Medium,No,Foggy,Residential
+1014,Udaipur,Hiran Magri,12-02-2024,06:00:00,429,Low,No,Rainy,NH
+1015,Udaipur,Fatehpura,12-02-2024,07:00:00,399,High,No,Rainy,City Road
+1016,Udaipur,Goverdhan Vilas,12-02-2024,08:00:00,110,Low,No,Rainy,NH
+1017,Udaipur,Goverdhan Vilas,12-02-2024,09:00:00,239,Medium,No,Clear,City Road
+1018,Udaipur,Hiran Magri,12-02-2024,10:00:00,347,Low,No,Rainy,NH
+1019,Udaipur,Goverdhan Vilas,12-02-2024,11:00:00,407,Low,No,Rainy,City Road
+1020,Udaipur,Udiapole,12-02-2024,12:00:00,86,Low,Yes,Rainy,City Road
+1021,Udaipur,Chetak Circle,12-02-2024,13:00:00,204,Medium,Yes,Rainy,NH
+1022,Udaipur,Goverdhan Vilas,12-02-2024,14:00:00,462,Medium,Yes,Foggy,NH
+1023,Udaipur,Chetak Circle,12-02-2024,15:00:00,305,High,No,Rainy,Residential
+1024,Udaipur,Fatehpura,12-02-2024,16:00:00,390,Medium,Yes,Foggy,Residential
+1025,Udaipur,Udiapole,12-02-2024,17:00:00,168,Low,No,Clear,City Road
+1026,Udaipur,Goverdhan Vilas,12-02-2024,18:00:00,376,Medium,No,Foggy,Residential
+1027,Udaipur,Fatehpura,12-02-2024,19:00:00,414,Low,No,Clear,NH
+1028,Udaipur,Surajpole,12-02-2024,20:00:00,243,Low,No,Rainy,NH
+1029,Udaipur,Fatehpura,12-02-2024,21:00:00,61,Medium,Yes,Clear,City Road
+1030,Udaipur,Surajpole,12-02-2024,22:00:00,404,High,No,Foggy,City Road
+1031,Udaipur,Udiapole,12-02-2024,23:00:00,264,High,No,Clear,NH
+1032,Udaipur,Hiran Magri,13-02-2024,00:00:00,105,Medium,No,Clear,NH
+1033,Udaipur,Surajpole,13-02-2024,01:00:00,96,High,No,Clear,NH
+1034,Udaipur,Chetak Circle,13-02-2024,02:00:00,479,Low,Yes,Clear,City Road
+1035,Udaipur,Fatehpura,13-02-2024,03:00:00,267,Low,No,Foggy,City Road
+1036,Udaipur,Chetak Circle,13-02-2024,04:00:00,222,Low,Yes,Foggy,City Road
+1037,Udaipur,Fatehpura,13-02-2024,05:00:00,460,High,Yes,Clear,NH
+1038,Udaipur,Fatehpura,13-02-2024,06:00:00,291,Medium,Yes,Foggy,Residential
+1039,Udaipur,Udiapole,13-02-2024,07:00:00,234,Medium,Yes,Foggy,NH
+1040,Udaipur,Chetak Circle,13-02-2024,08:00:00,232,Medium,No,Rainy,NH
+1041,Udaipur,Udiapole,13-02-2024,09:00:00,418,Low,Yes,Clear,City Road
+1042,Udaipur,Chetak Circle,13-02-2024,10:00:00,362,High,Yes,Foggy,NH
+1043,Udaipur,Udiapole,13-02-2024,11:00:00,279,Low,No,Clear,City Road
+1044,Udaipur,Fatehpura,13-02-2024,12:00:00,442,Low,Yes,Foggy,NH
+1045,Udaipur,Hiran Magri,13-02-2024,13:00:00,192,High,Yes,Rainy,NH
+1046,Udaipur,Surajpole,13-02-2024,14:00:00,431,Medium,No,Clear,City Road
+1047,Udaipur,Fatehpura,13-02-2024,15:00:00,233,Low,No,Clear,NH
+1048,Udaipur,Fatehpura,13-02-2024,16:00:00,433,Low,No,Clear,Residential
+1049,Udaipur,Udiapole,13-02-2024,17:00:00,500,Low,Yes,Foggy,NH
+1050,Udaipur,Surajpole,13-02-2024,18:00:00,386,High,No,Clear,Residential
+1051,Udaipur,Goverdhan Vilas,13-02-2024,19:00:00,340,High,No,Rainy,NH
+1052,Udaipur,Udiapole,13-02-2024,20:00:00,440,Low,No,Clear,Residential
+1053,Udaipur,Surajpole,13-02-2024,21:00:00,433,High,Yes,Clear,City Road
+1054,Udaipur,Hiran Magri,13-02-2024,22:00:00,178,High,Yes,Clear,NH
+1055,Udaipur,Chetak Circle,13-02-2024,23:00:00,271,Medium,Yes,Foggy,Residential
+1056,Udaipur,Goverdhan Vilas,14-02-2024,00:00:00,383,Medium,Yes,Clear,NH
+1057,Udaipur,Fatehpura,14-02-2024,01:00:00,408,Medium,Yes,Clear,City Road
+1058,Udaipur,Fatehpura,14-02-2024,02:00:00,131,Low,Yes,Rainy,City Road
+1059,Udaipur,Fatehpura,14-02-2024,03:00:00,421,High,No,Clear,NH
+1060,Udaipur,Chetak Circle,14-02-2024,04:00:00,230,Low,No,Foggy,NH
+1061,Udaipur,Chetak Circle,14-02-2024,05:00:00,345,Medium,No,Clear,NH
+1062,Udaipur,Fatehpura,14-02-2024,06:00:00,328,Medium,No,Clear,NH
+1063,Udaipur,Hiran Magri,14-02-2024,07:00:00,266,High,Yes,Rainy,Residential
+1064,Udaipur,Surajpole,14-02-2024,08:00:00,404,High,Yes,Foggy,Residential
+1065,Udaipur,Hiran Magri,14-02-2024,09:00:00,310,High,Yes,Foggy,NH
+1066,Udaipur,Fatehpura,14-02-2024,10:00:00,193,High,Yes,Rainy,Residential
+1067,Udaipur,Chetak Circle,14-02-2024,11:00:00,364,Medium,Yes,Foggy,NH
+1068,Udaipur,Hiran Magri,14-02-2024,12:00:00,198,Medium,Yes,Rainy,City Road
+1069,Udaipur,Surajpole,14-02-2024,13:00:00,436,Low,No,Rainy,Residential
+1070,Udaipur,Chetak Circle,14-02-2024,14:00:00,123,Medium,No,Rainy,City Road
+1071,Udaipur,Hiran Magri,14-02-2024,15:00:00,253,Medium,No,Rainy,Residential
+1072,Udaipur,Udiapole,14-02-2024,16:00:00,361,Medium,Yes,Foggy,NH
+1073,Udaipur,Udiapole,14-02-2024,17:00:00,302,Medium,Yes,Clear,City Road
+1074,Udaipur,Fatehpura,14-02-2024,18:00:00,311,High,No,Clear,NH
+1075,Udaipur,Fatehpura,14-02-2024,19:00:00,320,Low,Yes,Foggy,City Road
+1076,Udaipur,Hiran Magri,14-02-2024,20:00:00,372,High,Yes,Rainy,Residential
+1077,Udaipur,Surajpole,14-02-2024,21:00:00,365,High,No,Foggy,Residential
+1078,Udaipur,Hiran Magri,14-02-2024,22:00:00,73,Low,Yes,Foggy,City Road
+1079,Udaipur,Udiapole,14-02-2024,23:00:00,189,Medium,No,Foggy,Residential
+1080,Udaipur,Fatehpura,15-02-2024,00:00:00,461,Low,No,Rainy,City Road
+1081,Udaipur,Chetak Circle,15-02-2024,01:00:00,126,Low,No,Foggy,Residential
+1082,Udaipur,Chetak Circle,15-02-2024,02:00:00,398,Medium,Yes,Foggy,NH
+1083,Udaipur,Chetak Circle,15-02-2024,03:00:00,210,High,No,Rainy,Residential
+1084,Udaipur,Hiran Magri,15-02-2024,04:00:00,348,High,Yes,Rainy,Residential
+1085,Udaipur,Goverdhan Vilas,15-02-2024,05:00:00,462,Medium,Yes,Foggy,City Road
+1086,Udaipur,Goverdhan Vilas,15-02-2024,06:00:00,478,Medium,No,Rainy,City Road
+1087,Udaipur,Goverdhan Vilas,15-02-2024,07:00:00,111,Medium,Yes,Clear,NH
+1088,Udaipur,Goverdhan Vilas,15-02-2024,08:00:00,396,Medium,No,Foggy,Residential
+1089,Udaipur,Goverdhan Vilas,15-02-2024,09:00:00,405,Low,Yes,Foggy,Residential
+1090,Udaipur,Chetak Circle,15-02-2024,10:00:00,488,High,No,Clear,NH
+1091,Udaipur,Hiran Magri,15-02-2024,11:00:00,261,Medium,No,Foggy,NH
+1092,Udaipur,Chetak Circle,15-02-2024,12:00:00,426,Medium,Yes,Rainy,Residential
+1093,Udaipur,Fatehpura,15-02-2024,13:00:00,176,High,Yes,Rainy,NH
+1094,Udaipur,Hiran Magri,15-02-2024,14:00:00,57,High,No,Clear,City Road
+1095,Udaipur,Goverdhan Vilas,15-02-2024,15:00:00,498,High,No,Rainy,NH
+1096,Udaipur,Fatehpura,15-02-2024,16:00:00,160,Low,No,Rainy,NH
+1097,Udaipur,Surajpole,15-02-2024,17:00:00,327,High,No,Clear,Residential
+1098,Udaipur,Surajpole,15-02-2024,18:00:00,146,Medium,Yes,Rainy,NH
+1099,Udaipur,Surajpole,15-02-2024,19:00:00,107,High,Yes,Clear,City Road
+1100,Udaipur,Goverdhan Vilas,15-02-2024,20:00:00,168,Low,Yes,Rainy,Residential
+1101,Udaipur,Fatehpura,15-02-2024,21:00:00,129,High,Yes,Clear,City Road
+1102,Udaipur,Chetak Circle,15-02-2024,22:00:00,287,Low,Yes,Rainy,City Road
+1103,Udaipur,Chetak Circle,15-02-2024,23:00:00,256,High,No,Rainy,Residential
+1104,Udaipur,Fatehpura,16-02-2024,00:00:00,227,Medium,No,Rainy,City Road
+1105,Udaipur,Udiapole,16-02-2024,01:00:00,326,Medium,No,Clear,Residential
+1106,Udaipur,Surajpole,16-02-2024,02:00:00,277,Low,Yes,Rainy,NH
+1107,Udaipur,Fatehpura,16-02-2024,03:00:00,408,Low,Yes,Rainy,Residential
+1108,Udaipur,Udiapole,16-02-2024,04:00:00,362,Low,Yes,Foggy,Residential
+1109,Udaipur,Udiapole,16-02-2024,05:00:00,50,Low,No,Rainy,Residential
+1110,Udaipur,Chetak Circle,16-02-2024,06:00:00,288,Low,Yes,Clear,NH
+1111,Udaipur,Hiran Magri,16-02-2024,07:00:00,326,Low,Yes,Rainy,Residential
+1112,Udaipur,Goverdhan Vilas,16-02-2024,08:00:00,460,Low,No,Rainy,NH
+1113,Udaipur,Surajpole,16-02-2024,09:00:00,76,Low,Yes,Rainy,NH
+1114,Udaipur,Goverdhan Vilas,16-02-2024,10:00:00,165,Medium,No,Rainy,City Road
+1115,Udaipur,Surajpole,16-02-2024,11:00:00,135,Medium,Yes,Rainy,Residential
+1116,Udaipur,Udiapole,16-02-2024,12:00:00,345,Medium,Yes,Foggy,Residential
+1117,Udaipur,Hiran Magri,16-02-2024,13:00:00,53,Medium,No,Rainy,Residential
+1118,Udaipur,Goverdhan Vilas,16-02-2024,14:00:00,96,Low,No,Foggy,NH
+1119,Udaipur,Fatehpura,16-02-2024,15:00:00,238,High,No,Clear,Residential
+1120,Udaipur,Udiapole,16-02-2024,16:00:00,218,High,Yes,Foggy,Residential
+1121,Udaipur,Udiapole,16-02-2024,17:00:00,252,High,No,Rainy,NH
+1122,Udaipur,Udiapole,16-02-2024,18:00:00,142,Low,No,Rainy,City Road
+1123,Udaipur,Surajpole,16-02-2024,19:00:00,473,Medium,Yes,Rainy,NH
+1124,Udaipur,Chetak Circle,16-02-2024,20:00:00,95,Medium,No,Foggy,City Road
+1125,Udaipur,Chetak Circle,16-02-2024,21:00:00,226,Low,Yes,Foggy,City Road
+1126,Udaipur,Fatehpura,16-02-2024,22:00:00,494,Medium,No,Clear,NH
+1127,Udaipur,Goverdhan Vilas,16-02-2024,23:00:00,296,Medium,No,Clear,Residential
+1128,Udaipur,Surajpole,17-02-2024,00:00:00,448,Low,No,Clear,NH
+1129,Udaipur,Hiran Magri,17-02-2024,01:00:00,206,High,Yes,Rainy,NH
+1130,Udaipur,Udiapole,17-02-2024,02:00:00,86,Medium,No,Clear,NH
+1131,Udaipur,Fatehpura,17-02-2024,03:00:00,201,Medium,No,Foggy,City Road
+1132,Udaipur,Udiapole,17-02-2024,04:00:00,80,Medium,Yes,Clear,NH
+1133,Udaipur,Chetak Circle,17-02-2024,05:00:00,288,Medium,No,Foggy,City Road
+1134,Udaipur,Hiran Magri,17-02-2024,06:00:00,107,Medium,Yes,Foggy,NH
+1135,Udaipur,Surajpole,17-02-2024,07:00:00,302,Medium,Yes,Rainy,City Road
+1136,Udaipur,Udiapole,17-02-2024,08:00:00,499,Low,No,Foggy,City Road
+1137,Udaipur,Udiapole,17-02-2024,09:00:00,366,High,No,Clear,Residential
+1138,Udaipur,Goverdhan Vilas,17-02-2024,10:00:00,314,High,Yes,Clear,Residential
+1139,Udaipur,Udiapole,17-02-2024,11:00:00,442,High,No,Rainy,City Road
+1140,Udaipur,Udiapole,17-02-2024,12:00:00,466,Low,Yes,Rainy,Residential
+1141,Udaipur,Udiapole,17-02-2024,13:00:00,67,High,No,Clear,Residential
+1142,Udaipur,Hiran Magri,17-02-2024,14:00:00,122,High,No,Rainy,NH
+1143,Udaipur,Udiapole,17-02-2024,15:00:00,208,Medium,No,Rainy,City Road
+1144,Udaipur,Chetak Circle,17-02-2024,16:00:00,447,High,Yes,Foggy,City Road
+1145,Udaipur,Udiapole,17-02-2024,17:00:00,457,Low,Yes,Foggy,Residential
+1146,Udaipur,Fatehpura,17-02-2024,18:00:00,143,Low,Yes,Clear,City Road
+1147,Udaipur,Fatehpura,17-02-2024,19:00:00,231,High,Yes,Foggy,Residential
+1148,Udaipur,Fatehpura,17-02-2024,20:00:00,312,High,No,Rainy,Residential
+1149,Udaipur,Surajpole,17-02-2024,21:00:00,448,Low,Yes,Rainy,NH
+1150,Udaipur,Goverdhan Vilas,17-02-2024,22:00:00,290,High,No,Rainy,Residential
+1151,Udaipur,Hiran Magri,17-02-2024,23:00:00,386,Low,No,Clear,City Road
+1152,Udaipur,Udiapole,18-02-2024,00:00:00,449,Medium,Yes,Rainy,Residential
+1153,Udaipur,Chetak Circle,18-02-2024,01:00:00,332,Low,No,Clear,NH
+1154,Udaipur,Chetak Circle,18-02-2024,02:00:00,443,Low,No,Clear,Residential
+1155,Udaipur,Goverdhan Vilas,18-02-2024,03:00:00,413,Low,Yes,Foggy,Residential
+1156,Udaipur,Udiapole,18-02-2024,04:00:00,204,Medium,No,Clear,City Road
+1157,Udaipur,Chetak Circle,18-02-2024,05:00:00,408,High,Yes,Foggy,NH
+1158,Udaipur,Surajpole,18-02-2024,06:00:00,133,Medium,No,Clear,NH
+1159,Udaipur,Chetak Circle,18-02-2024,07:00:00,342,High,No,Clear,Residential
+1160,Udaipur,Goverdhan Vilas,18-02-2024,08:00:00,240,Low,Yes,Clear,City Road
+1161,Udaipur,Goverdhan Vilas,18-02-2024,09:00:00,338,High,No,Clear,Residential
+1162,Udaipur,Udiapole,18-02-2024,10:00:00,376,High,Yes,Clear,City Road
+1163,Udaipur,Hiran Magri,18-02-2024,11:00:00,192,Medium,No,Rainy,NH
+1164,Udaipur,Goverdhan Vilas,18-02-2024,12:00:00,306,Medium,Yes,Foggy,NH
+1165,Udaipur,Hiran Magri,18-02-2024,13:00:00,281,Low,Yes,Foggy,City Road
+1166,Udaipur,Hiran Magri,18-02-2024,14:00:00,190,High,Yes,Clear,Residential
+1167,Udaipur,Udiapole,18-02-2024,15:00:00,142,Medium,Yes,Foggy,NH
+1168,Udaipur,Chetak Circle,18-02-2024,16:00:00,222,High,No,Foggy,Residential
+1169,Udaipur,Chetak Circle,18-02-2024,17:00:00,244,Low,Yes,Foggy,Residential
+1170,Udaipur,Goverdhan Vilas,18-02-2024,18:00:00,178,Low,Yes,Foggy,City Road
+1171,Udaipur,Hiran Magri,18-02-2024,19:00:00,395,Low,No,Clear,Residential
+1172,Udaipur,Udiapole,18-02-2024,20:00:00,150,Low,No,Foggy,NH
+1173,Udaipur,Fatehpura,18-02-2024,21:00:00,239,Low,Yes,Foggy,City Road
+1174,Udaipur,Surajpole,18-02-2024,22:00:00,413,Medium,No,Clear,NH
+1175,Udaipur,Hiran Magri,18-02-2024,23:00:00,359,High,No,Rainy,City Road
+1176,Udaipur,Hiran Magri,19-02-2024,00:00:00,282,High,No,Foggy,Residential
+1177,Udaipur,Goverdhan Vilas,19-02-2024,01:00:00,476,High,Yes,Rainy,City Road
+1178,Udaipur,Hiran Magri,19-02-2024,02:00:00,152,High,Yes,Clear,City Road
+1179,Udaipur,Hiran Magri,19-02-2024,03:00:00,70,High,No,Foggy,City Road
+1180,Udaipur,Surajpole,19-02-2024,04:00:00,79,Low,Yes,Rainy,Residential
+1181,Udaipur,Udiapole,19-02-2024,05:00:00,459,Low,Yes,Rainy,Residential
+1182,Udaipur,Fatehpura,19-02-2024,06:00:00,169,Low,Yes,Clear,NH
+1183,Udaipur,Fatehpura,19-02-2024,07:00:00,343,Low,No,Foggy,City Road
+1184,Udaipur,Goverdhan Vilas,19-02-2024,08:00:00,452,Low,No,Foggy,NH
+1185,Udaipur,Hiran Magri,19-02-2024,09:00:00,313,Medium,Yes,Foggy,NH
+1186,Udaipur,Chetak Circle,19-02-2024,10:00:00,177,High,Yes,Clear,Residential
+1187,Udaipur,Goverdhan Vilas,19-02-2024,11:00:00,306,Medium,No,Foggy,Residential
+1188,Udaipur,Surajpole,19-02-2024,12:00:00,104,Low,No,Clear,City Road
+1189,Udaipur,Udiapole,19-02-2024,13:00:00,497,Medium,Yes,Clear,Residential
+1190,Udaipur,Goverdhan Vilas,19-02-2024,14:00:00,78,Medium,No,Foggy,City Road
+1191,Udaipur,Udiapole,19-02-2024,15:00:00,308,High,Yes,Clear,NH
+1192,Udaipur,Hiran Magri,19-02-2024,16:00:00,323,Low,No,Rainy,NH
+1193,Udaipur,Surajpole,19-02-2024,17:00:00,407,High,Yes,Foggy,City Road
+1194,Udaipur,Goverdhan Vilas,19-02-2024,18:00:00,413,Low,Yes,Foggy,NH
+1195,Udaipur,Goverdhan Vilas,19-02-2024,19:00:00,255,High,No,Clear,NH
+1196,Udaipur,Goverdhan Vilas,19-02-2024,20:00:00,162,High,No,Clear,NH
+1197,Udaipur,Hiran Magri,19-02-2024,21:00:00,92,High,Yes,Clear,Residential
+1198,Udaipur,Hiran Magri,19-02-2024,22:00:00,200,High,Yes,Foggy,City Road
+1199,Udaipur,Goverdhan Vilas,19-02-2024,23:00:00,255,Medium,Yes,Rainy,City Road
+1200,Udaipur,Surajpole,20-02-2024,00:00:00,238,Low,Yes,Rainy,City Road
+1201,Udaipur,Goverdhan Vilas,20-02-2024,01:00:00,492,High,No,Rainy,NH
+1202,Udaipur,Chetak Circle,20-02-2024,02:00:00,144,High,No,Clear,Residential
+1203,Udaipur,Fatehpura,20-02-2024,03:00:00,150,Medium,No,Rainy,City Road
+1204,Udaipur,Surajpole,20-02-2024,04:00:00,213,Medium,Yes,Clear,NH
+1205,Udaipur,Goverdhan Vilas,20-02-2024,05:00:00,413,High,Yes,Clear,NH
+1206,Udaipur,Hiran Magri,20-02-2024,06:00:00,284,High,No,Rainy,City Road
+1207,Udaipur,Chetak Circle,20-02-2024,07:00:00,448,Medium,No,Rainy,City Road
+1208,Udaipur,Fatehpura,20-02-2024,08:00:00,240,Medium,No,Clear,City Road
+1209,Udaipur,Fatehpura,20-02-2024,09:00:00,487,Low,Yes,Clear,NH
+1210,Udaipur,Hiran Magri,20-02-2024,10:00:00,478,Low,Yes,Clear,City Road
+1211,Udaipur,Chetak Circle,20-02-2024,11:00:00,379,High,No,Foggy,City Road
+1212,Udaipur,Fatehpura,20-02-2024,12:00:00,147,High,Yes,Rainy,City Road
+1213,Udaipur,Fatehpura,20-02-2024,13:00:00,410,Medium,No,Foggy,NH
+1214,Udaipur,Fatehpura,20-02-2024,14:00:00,110,Low,Yes,Foggy,City Road
+1215,Udaipur,Fatehpura,20-02-2024,15:00:00,77,High,Yes,Foggy,City Road
+1216,Udaipur,Fatehpura,20-02-2024,16:00:00,115,High,No,Foggy,Residential
+1217,Udaipur,Udiapole,20-02-2024,17:00:00,349,Medium,No,Foggy,City Road
+1218,Udaipur,Chetak Circle,20-02-2024,18:00:00,277,Medium,No,Rainy,City Road
+1219,Udaipur,Goverdhan Vilas,20-02-2024,19:00:00,229,High,Yes,Rainy,Residential
+1220,Udaipur,Chetak Circle,20-02-2024,20:00:00,366,Low,Yes,Clear,City Road
+1221,Udaipur,Fatehpura,20-02-2024,21:00:00,116,Medium,No,Clear,Residential
+1222,Udaipur,Goverdhan Vilas,20-02-2024,22:00:00,471,High,Yes,Foggy,NH
+1223,Udaipur,Chetak Circle,20-02-2024,23:00:00,318,High,Yes,Rainy,City Road
+1224,Udaipur,Chetak Circle,21-02-2024,00:00:00,400,Medium,No,Rainy,City Road
+1225,Udaipur,Goverdhan Vilas,21-02-2024,01:00:00,208,Low,Yes,Rainy,NH
+1226,Udaipur,Goverdhan Vilas,21-02-2024,02:00:00,127,Low,Yes,Clear,Residential
+1227,Udaipur,Hiran Magri,21-02-2024,03:00:00,305,Medium,Yes,Foggy,City Road
+1228,Udaipur,Hiran Magri,21-02-2024,04:00:00,345,Low,No,Clear,Residential
+1229,Udaipur,Fatehpura,21-02-2024,05:00:00,127,High,Yes,Clear,NH
+1230,Udaipur,Fatehpura,21-02-2024,06:00:00,239,High,No,Foggy,Residential
+1231,Udaipur,Fatehpura,21-02-2024,07:00:00,130,Medium,Yes,Foggy,Residential
+1232,Udaipur,Goverdhan Vilas,21-02-2024,08:00:00,329,Low,No,Clear,City Road
+1233,Udaipur,Surajpole,21-02-2024,09:00:00,153,Medium,No,Foggy,Residential
+1234,Udaipur,Hiran Magri,21-02-2024,10:00:00,270,Medium,Yes,Rainy,NH
+1235,Udaipur,Goverdhan Vilas,21-02-2024,11:00:00,413,Low,Yes,Clear,NH
+1236,Udaipur,Goverdhan Vilas,21-02-2024,12:00:00,174,Low,Yes,Clear,NH
+1237,Udaipur,Goverdhan Vilas,21-02-2024,13:00:00,133,High,Yes,Foggy,City Road
+1238,Udaipur,Hiran Magri,21-02-2024,14:00:00,412,Medium,No,Clear,Residential
+1239,Udaipur,Surajpole,21-02-2024,15:00:00,251,High,Yes,Foggy,NH
+1240,Udaipur,Udiapole,21-02-2024,16:00:00,342,Medium,Yes,Foggy,Residential
+1241,Udaipur,Goverdhan Vilas,21-02-2024,17:00:00,346,Medium,Yes,Clear,NH
+1242,Udaipur,Hiran Magri,21-02-2024,18:00:00,254,High,No,Foggy,Residential
+1243,Udaipur,Goverdhan Vilas,21-02-2024,19:00:00,250,Medium,Yes,Clear,Residential
+1244,Udaipur,Surajpole,21-02-2024,20:00:00,332,High,No,Clear,NH
+1245,Udaipur,Chetak Circle,21-02-2024,21:00:00,153,Low,No,Clear,Residential
+1246,Udaipur,Hiran Magri,21-02-2024,22:00:00,216,High,No,Clear,NH
+1247,Udaipur,Chetak Circle,21-02-2024,23:00:00,490,High,Yes,Rainy,City Road
+1248,Udaipur,Goverdhan Vilas,22-02-2024,00:00:00,217,Low,Yes,Rainy,NH
+1249,Udaipur,Chetak Circle,22-02-2024,01:00:00,426,High,No,Rainy,City Road
+1250,Udaipur,Goverdhan Vilas,22-02-2024,02:00:00,66,Low,Yes,Clear,Residential
+1251,Udaipur,Goverdhan Vilas,22-02-2024,03:00:00,125,High,Yes,Rainy,City Road
+1252,Udaipur,Chetak Circle,22-02-2024,04:00:00,409,Low,Yes,Foggy,Residential
+1253,Udaipur,Udiapole,22-02-2024,05:00:00,354,Low,Yes,Clear,City Road
+1254,Udaipur,Udiapole,22-02-2024,06:00:00,290,Low,No,Foggy,City Road
+1255,Udaipur,Goverdhan Vilas,22-02-2024,07:00:00,327,Low,No,Clear,NH
+1256,Udaipur,Hiran Magri,22-02-2024,08:00:00,258,Low,Yes,Foggy,City Road
+1257,Udaipur,Udiapole,22-02-2024,09:00:00,348,Low,Yes,Clear,Residential
+1258,Udaipur,Goverdhan Vilas,22-02-2024,10:00:00,205,High,No,Foggy,NH
+1259,Udaipur,Chetak Circle,22-02-2024,11:00:00,345,High,Yes,Rainy,NH
+1260,Udaipur,Hiran Magri,22-02-2024,12:00:00,462,Medium,No,Foggy,NH
+1261,Udaipur,Hiran Magri,22-02-2024,13:00:00,301,Low,No,Rainy,Residential
+1262,Udaipur,Fatehpura,22-02-2024,14:00:00,354,Low,Yes,Clear,City Road
+1263,Udaipur,Chetak Circle,22-02-2024,15:00:00,99,High,Yes,Rainy,NH
+1264,Udaipur,Udiapole,22-02-2024,16:00:00,228,High,No,Clear,NH
+1265,Udaipur,Fatehpura,22-02-2024,17:00:00,419,Low,No,Rainy,NH
+1266,Udaipur,Goverdhan Vilas,22-02-2024,18:00:00,392,Low,Yes,Rainy,Residential
+1267,Udaipur,Fatehpura,22-02-2024,19:00:00,88,Low,Yes,Rainy,NH
+1268,Udaipur,Surajpole,22-02-2024,20:00:00,419,High,No,Clear,Residential
+1269,Udaipur,Goverdhan Vilas,22-02-2024,21:00:00,168,High,Yes,Clear,Residential
+1270,Udaipur,Udiapole,22-02-2024,22:00:00,213,Medium,Yes,Rainy,City Road
+1271,Udaipur,Chetak Circle,22-02-2024,23:00:00,113,Medium,Yes,Foggy,NH
+1272,Udaipur,Hiran Magri,23-02-2024,00:00:00,498,High,No,Foggy,Residential
+1273,Udaipur,Goverdhan Vilas,23-02-2024,01:00:00,125,Low,Yes,Rainy,City Road
+1274,Udaipur,Surajpole,23-02-2024,02:00:00,71,High,Yes,Foggy,City Road
+1275,Udaipur,Surajpole,23-02-2024,03:00:00,471,High,No,Clear,NH
+1276,Udaipur,Udiapole,23-02-2024,04:00:00,132,High,Yes,Rainy,NH
+1277,Udaipur,Chetak Circle,23-02-2024,05:00:00,431,Medium,No,Clear,City Road
+1278,Udaipur,Udiapole,23-02-2024,06:00:00,477,Medium,No,Clear,NH
+1279,Udaipur,Surajpole,23-02-2024,07:00:00,427,Low,Yes,Clear,NH
+1280,Udaipur,Surajpole,23-02-2024,08:00:00,100,Low,No,Foggy,City Road
+1281,Udaipur,Hiran Magri,23-02-2024,09:00:00,127,Medium,Yes,Foggy,City Road
+1282,Udaipur,Goverdhan Vilas,23-02-2024,10:00:00,415,High,Yes,Foggy,Residential
+1283,Udaipur,Hiran Magri,23-02-2024,11:00:00,190,Low,Yes,Rainy,City Road
+1284,Udaipur,Hiran Magri,23-02-2024,12:00:00,220,Low,Yes,Clear,NH
+1285,Udaipur,Chetak Circle,23-02-2024,13:00:00,149,High,Yes,Foggy,Residential
+1286,Udaipur,Hiran Magri,23-02-2024,14:00:00,476,High,Yes,Rainy,Residential
+1287,Udaipur,Hiran Magri,23-02-2024,15:00:00,229,Low,Yes,Rainy,City Road
+1288,Udaipur,Fatehpura,23-02-2024,16:00:00,390,Medium,Yes,Rainy,Residential
+1289,Udaipur,Udiapole,23-02-2024,17:00:00,316,Low,No,Clear,City Road
+1290,Udaipur,Goverdhan Vilas,23-02-2024,18:00:00,337,Medium,No,Foggy,Residential
+1291,Udaipur,Fatehpura,23-02-2024,19:00:00,161,Medium,Yes,Foggy,Residential
+1292,Udaipur,Chetak Circle,23-02-2024,20:00:00,151,Low,Yes,Clear,NH
+1293,Udaipur,Udiapole,23-02-2024,21:00:00,355,Medium,No,Rainy,Residential
+1294,Udaipur,Hiran Magri,23-02-2024,22:00:00,350,High,Yes,Foggy,NH
+1295,Udaipur,Surajpole,23-02-2024,23:00:00,248,Medium,Yes,Clear,Residential
+1296,Udaipur,Fatehpura,24-02-2024,00:00:00,408,Medium,Yes,Clear,City Road
+1297,Udaipur,Goverdhan Vilas,24-02-2024,01:00:00,128,Low,Yes,Clear,NH
+1298,Udaipur,Chetak Circle,24-02-2024,02:00:00,111,Medium,No,Clear,City Road
+1299,Udaipur,Fatehpura,24-02-2024,03:00:00,189,High,No,Foggy,Residential
+1300,Udaipur,Surajpole,24-02-2024,04:00:00,467,High,Yes,Clear,NH
+1301,Udaipur,Fatehpura,24-02-2024,05:00:00,213,Low,No,Foggy,City Road
+1302,Udaipur,Chetak Circle,24-02-2024,06:00:00,152,Low,No,Rainy,Residential
+1303,Udaipur,Fatehpura,24-02-2024,07:00:00,443,Medium,Yes,Foggy,City Road
+1304,Udaipur,Hiran Magri,24-02-2024,08:00:00,343,High,Yes,Foggy,NH
+1305,Udaipur,Hiran Magri,24-02-2024,09:00:00,131,Medium,No,Clear,NH
+1306,Udaipur,Surajpole,24-02-2024,10:00:00,197,Medium,No,Rainy,Residential
+1307,Udaipur,Fatehpura,24-02-2024,11:00:00,312,Medium,Yes,Rainy,Residential
+1308,Udaipur,Udiapole,24-02-2024,12:00:00,337,High,Yes,Foggy,City Road
+1309,Udaipur,Hiran Magri,24-02-2024,13:00:00,56,Low,No,Rainy,City Road
+1310,Udaipur,Surajpole,24-02-2024,14:00:00,258,Low,Yes,Rainy,Residential
+1311,Udaipur,Hiran Magri,24-02-2024,15:00:00,346,High,No,Rainy,NH
+1312,Udaipur,Hiran Magri,24-02-2024,16:00:00,429,Medium,No,Foggy,Residential
+1313,Udaipur,Goverdhan Vilas,24-02-2024,17:00:00,173,High,No,Clear,NH
+1314,Udaipur,Udiapole,24-02-2024,18:00:00,185,Low,Yes,Rainy,NH
+1315,Udaipur,Fatehpura,24-02-2024,19:00:00,347,Low,Yes,Rainy,Residential
+1316,Udaipur,Fatehpura,24-02-2024,20:00:00,178,Low,No,Clear,City Road
+1317,Udaipur,Goverdhan Vilas,24-02-2024,21:00:00,333,Medium,Yes,Rainy,Residential
+1318,Udaipur,Hiran Magri,24-02-2024,22:00:00,143,High,Yes,Foggy,NH
+1319,Udaipur,Udiapole,24-02-2024,23:00:00,251,High,Yes,Clear,City Road
+1320,Udaipur,Surajpole,25-02-2024,00:00:00,296,Low,No,Rainy,NH
+1321,Udaipur,Goverdhan Vilas,25-02-2024,01:00:00,329,Low,No,Foggy,City Road
+1322,Udaipur,Fatehpura,25-02-2024,02:00:00,393,Medium,No,Foggy,City Road
+1323,Udaipur,Hiran Magri,25-02-2024,03:00:00,346,Low,No,Clear,NH
+1324,Udaipur,Surajpole,25-02-2024,04:00:00,198,Medium,No,Rainy,City Road
+1325,Udaipur,Chetak Circle,25-02-2024,05:00:00,339,High,No,Foggy,NH
+1326,Udaipur,Chetak Circle,25-02-2024,06:00:00,300,High,No,Clear,City Road
+1327,Udaipur,Hiran Magri,25-02-2024,07:00:00,146,High,No,Foggy,Residential
+1328,Udaipur,Surajpole,25-02-2024,08:00:00,359,Medium,Yes,Foggy,NH
+1329,Udaipur,Hiran Magri,25-02-2024,09:00:00,332,High,No,Foggy,City Road
+1330,Udaipur,Hiran Magri,25-02-2024,10:00:00,497,High,No,Foggy,Residential
+1331,Udaipur,Udiapole,25-02-2024,11:00:00,488,Medium,Yes,Clear,City Road
+1332,Udaipur,Surajpole,25-02-2024,12:00:00,440,High,No,Rainy,Residential
+1333,Udaipur,Fatehpura,25-02-2024,13:00:00,96,Medium,Yes,Foggy,Residential
+1334,Udaipur,Chetak Circle,25-02-2024,14:00:00,253,Low,Yes,Foggy,Residential
+1335,Udaipur,Fatehpura,25-02-2024,15:00:00,290,High,Yes,Clear,Residential
+1336,Udaipur,Goverdhan Vilas,25-02-2024,16:00:00,171,High,No,Rainy,NH
+1337,Udaipur,Surajpole,25-02-2024,17:00:00,258,Low,Yes,Foggy,City Road
+1338,Udaipur,Surajpole,25-02-2024,18:00:00,286,High,Yes,Clear,Residential
+1339,Udaipur,Chetak Circle,25-02-2024,19:00:00,466,Medium,Yes,Clear,City Road
+1340,Udaipur,Fatehpura,25-02-2024,20:00:00,230,Low,Yes,Clear,NH
+1341,Udaipur,Chetak Circle,25-02-2024,21:00:00,466,Medium,Yes,Rainy,Residential
+1342,Udaipur,Udiapole,25-02-2024,22:00:00,345,High,Yes,Foggy,NH
+1343,Udaipur,Fatehpura,25-02-2024,23:00:00,340,High,No,Rainy,City Road
+1344,Udaipur,Udiapole,26-02-2024,00:00:00,94,Medium,Yes,Foggy,City Road
+1345,Udaipur,Surajpole,26-02-2024,01:00:00,440,High,Yes,Clear,NH
+1346,Udaipur,Hiran Magri,26-02-2024,02:00:00,108,Low,No,Rainy,City Road
+1347,Udaipur,Surajpole,26-02-2024,03:00:00,181,Low,No,Clear,NH
+1348,Udaipur,Chetak Circle,26-02-2024,04:00:00,337,High,Yes,Rainy,NH
+1349,Udaipur,Chetak Circle,26-02-2024,05:00:00,144,High,Yes,Rainy,City Road
+1350,Udaipur,Goverdhan Vilas,26-02-2024,06:00:00,275,High,No,Foggy,Residential
+1351,Udaipur,Surajpole,26-02-2024,07:00:00,267,High,No,Clear,Residential
+1352,Udaipur,Hiran Magri,26-02-2024,08:00:00,476,High,No,Clear,Residential
+1353,Udaipur,Surajpole,26-02-2024,09:00:00,96,High,No,Foggy,City Road
+1354,Udaipur,Chetak Circle,26-02-2024,10:00:00,62,Medium,No,Rainy,Residential
+1355,Udaipur,Fatehpura,26-02-2024,11:00:00,185,Medium,No,Clear,NH
+1356,Udaipur,Udiapole,26-02-2024,12:00:00,212,Low,No,Clear,NH
+1357,Udaipur,Udiapole,26-02-2024,13:00:00,105,Low,No,Clear,NH
+1358,Udaipur,Fatehpura,26-02-2024,14:00:00,59,Low,No,Rainy,City Road
+1359,Udaipur,Chetak Circle,26-02-2024,15:00:00,92,Medium,No,Rainy,City Road
+1360,Udaipur,Chetak Circle,26-02-2024,16:00:00,178,Low,Yes,Clear,NH
+1361,Udaipur,Surajpole,26-02-2024,17:00:00,233,High,Yes,Foggy,Residential
+1362,Udaipur,Udiapole,26-02-2024,18:00:00,159,Medium,Yes,Clear,NH
+1363,Udaipur,Udiapole,26-02-2024,19:00:00,424,Low,Yes,Foggy,NH
+1364,Udaipur,Surajpole,26-02-2024,20:00:00,97,Low,No,Foggy,City Road
+1365,Udaipur,Udiapole,26-02-2024,21:00:00,250,Low,No,Rainy,Residential
+1366,Udaipur,Surajpole,26-02-2024,22:00:00,70,High,Yes,Foggy,Residential
+1367,Udaipur,Surajpole,26-02-2024,23:00:00,212,Low,No,Rainy,NH
+1368,Udaipur,Udiapole,27-02-2024,00:00:00,324,Low,Yes,Foggy,City Road
+1369,Udaipur,Hiran Magri,27-02-2024,01:00:00,475,Medium,Yes,Foggy,NH
+1370,Udaipur,Surajpole,27-02-2024,02:00:00,110,Low,Yes,Foggy,NH
+1371,Udaipur,Surajpole,27-02-2024,03:00:00,237,Medium,Yes,Clear,NH
+1372,Udaipur,Udiapole,27-02-2024,04:00:00,115,High,Yes,Rainy,City Road
+1373,Udaipur,Chetak Circle,27-02-2024,05:00:00,265,Medium,Yes,Rainy,City Road
+1374,Udaipur,Goverdhan Vilas,27-02-2024,06:00:00,312,Medium,Yes,Rainy,Residential
+1375,Udaipur,Chetak Circle,27-02-2024,07:00:00,92,High,Yes,Rainy,Residential
+1376,Udaipur,Surajpole,27-02-2024,08:00:00,152,Low,No,Foggy,Residential
+1377,Udaipur,Fatehpura,27-02-2024,09:00:00,181,High,No,Rainy,Residential
+1378,Udaipur,Fatehpura,27-02-2024,10:00:00,488,High,Yes,Clear,Residential
+1379,Udaipur,Chetak Circle,27-02-2024,11:00:00,182,High,Yes,Clear,NH
+1380,Udaipur,Fatehpura,27-02-2024,12:00:00,337,Low,No,Rainy,Residential
+1381,Udaipur,Goverdhan Vilas,27-02-2024,13:00:00,394,Medium,No,Rainy,Residential
+1382,Udaipur,Hiran Magri,27-02-2024,14:00:00,309,Low,Yes,Clear,NH
+1383,Udaipur,Goverdhan Vilas,27-02-2024,15:00:00,141,High,No,Rainy,Residential
+1384,Udaipur,Fatehpura,27-02-2024,16:00:00,481,Low,No,Clear,City Road
+1385,Udaipur,Chetak Circle,27-02-2024,17:00:00,496,High,Yes,Foggy,NH
+1386,Udaipur,Chetak Circle,27-02-2024,18:00:00,63,High,Yes,Foggy,City Road
+1387,Udaipur,Goverdhan Vilas,27-02-2024,19:00:00,253,Medium,Yes,Foggy,City Road
+1388,Udaipur,Goverdhan Vilas,27-02-2024,20:00:00,492,Medium,No,Foggy,Residential
+1389,Udaipur,Udiapole,27-02-2024,21:00:00,357,Medium,Yes,Clear,City Road
+1390,Udaipur,Udiapole,27-02-2024,22:00:00,145,High,Yes,Foggy,NH
+1391,Udaipur,Goverdhan Vilas,27-02-2024,23:00:00,432,Low,No,Foggy,NH
+1392,Udaipur,Goverdhan Vilas,28-02-2024,00:00:00,209,High,Yes,Rainy,NH
+1393,Udaipur,Hiran Magri,28-02-2024,01:00:00,344,High,No,Rainy,NH
+1394,Udaipur,Udiapole,28-02-2024,02:00:00,66,Medium,Yes,Foggy,NH
+1395,Udaipur,Hiran Magri,28-02-2024,03:00:00,180,Medium,Yes,Foggy,NH
+1396,Udaipur,Surajpole,28-02-2024,04:00:00,248,Medium,No,Foggy,City Road
+1397,Udaipur,Chetak Circle,28-02-2024,05:00:00,189,Medium,Yes,Clear,NH
+1398,Udaipur,Fatehpura,28-02-2024,06:00:00,336,Medium,Yes,Clear,NH
+1399,Udaipur,Surajpole,28-02-2024,07:00:00,446,Low,No,Foggy,NH
+1400,Udaipur,Goverdhan Vilas,28-02-2024,08:00:00,327,Medium,Yes,Foggy,Residential
+1401,Udaipur,Hiran Magri,28-02-2024,09:00:00,167,High,No,Clear,Residential
+1402,Udaipur,Hiran Magri,28-02-2024,10:00:00,128,Medium,Yes,Foggy,Residential
+1403,Udaipur,Hiran Magri,28-02-2024,11:00:00,220,High,No,Clear,City Road
+1404,Udaipur,Chetak Circle,28-02-2024,12:00:00,56,Low,Yes,Rainy,NH
+1405,Udaipur,Goverdhan Vilas,28-02-2024,13:00:00,155,Medium,Yes,Clear,NH
+1406,Udaipur,Chetak Circle,28-02-2024,14:00:00,346,Low,No,Foggy,NH
+1407,Udaipur,Udiapole,28-02-2024,15:00:00,243,Low,No,Foggy,NH
+1408,Udaipur,Fatehpura,28-02-2024,16:00:00,300,Low,No,Rainy,NH
+1409,Udaipur,Hiran Magri,28-02-2024,17:00:00,424,Medium,No,Foggy,City Road
+1410,Udaipur,Hiran Magri,28-02-2024,18:00:00,417,Low,Yes,Foggy,Residential
+1411,Udaipur,Udiapole,28-02-2024,19:00:00,252,High,No,Rainy,NH
+1412,Udaipur,Goverdhan Vilas,28-02-2024,20:00:00,289,High,No,Clear,City Road
+1413,Udaipur,Hiran Magri,28-02-2024,21:00:00,214,High,Yes,Clear,NH
+1414,Udaipur,Fatehpura,28-02-2024,22:00:00,271,Low,Yes,Clear,City Road
+1415,Udaipur,Udiapole,28-02-2024,23:00:00,193,Medium,No,Clear,Residential
+1416,Udaipur,Fatehpura,29-02-2024,00:00:00,225,Low,Yes,Foggy,City Road
+1417,Udaipur,Hiran Magri,29-02-2024,01:00:00,446,Low,No,Clear,City Road
+1418,Udaipur,Hiran Magri,29-02-2024,02:00:00,108,Low,No,Clear,NH
+1419,Udaipur,Goverdhan Vilas,29-02-2024,03:00:00,336,High,No,Clear,City Road
+1420,Udaipur,Hiran Magri,29-02-2024,04:00:00,128,High,No,Rainy,NH
+1421,Udaipur,Udiapole,29-02-2024,05:00:00,438,Medium,No,Clear,NH
+1422,Udaipur,Fatehpura,29-02-2024,06:00:00,444,Low,Yes,Foggy,NH
+1423,Udaipur,Chetak Circle,29-02-2024,07:00:00,217,Low,No,Foggy,Residential
+1424,Udaipur,Hiran Magri,29-02-2024,08:00:00,260,High,Yes,Rainy,Residential
+1425,Udaipur,Goverdhan Vilas,29-02-2024,09:00:00,471,High,Yes,Foggy,NH
+1426,Udaipur,Hiran Magri,29-02-2024,10:00:00,160,High,No,Foggy,Residential
+1427,Udaipur,Chetak Circle,29-02-2024,11:00:00,443,High,No,Rainy,NH
+1428,Udaipur,Surajpole,29-02-2024,12:00:00,72,High,No,Clear,Residential
+1429,Udaipur,Surajpole,29-02-2024,13:00:00,497,High,No,Rainy,Residential
+1430,Udaipur,Hiran Magri,29-02-2024,14:00:00,117,Medium,Yes,Clear,Residential
+1431,Udaipur,Goverdhan Vilas,29-02-2024,15:00:00,68,Medium,No,Clear,NH
+1432,Udaipur,Hiran Magri,29-02-2024,16:00:00,332,Low,No,Clear,City Road
+1433,Udaipur,Goverdhan Vilas,29-02-2024,17:00:00,139,Low,No,Foggy,Residential
+1434,Udaipur,Surajpole,29-02-2024,18:00:00,383,Medium,No,Clear,City Road
+1435,Udaipur,Udiapole,29-02-2024,19:00:00,386,Low,No,Clear,Residential
+1436,Udaipur,Hiran Magri,29-02-2024,20:00:00,486,Low,Yes,Foggy,City Road
+1437,Udaipur,Chetak Circle,29-02-2024,21:00:00,287,Low,Yes,Clear,NH
+1438,Udaipur,Chetak Circle,29-02-2024,22:00:00,426,Medium,No,Clear,Residential
+1439,Udaipur,Udiapole,29-02-2024,23:00:00,203,Medium,No,Rainy,Residential
+1440,Udaipur,Hiran Magri,01-03-2024,00:00:00,209,Low,Yes,Rainy,City Road
+1441,Udaipur,Surajpole,01-03-2024,01:00:00,289,Low,No,Foggy,City Road
+1442,Udaipur,Fatehpura,01-03-2024,02:00:00,73,Medium,No,Clear,Residential
+1443,Udaipur,Chetak Circle,01-03-2024,03:00:00,256,Low,Yes,Clear,City Road
+1444,Udaipur,Goverdhan Vilas,01-03-2024,04:00:00,145,Medium,Yes,Foggy,Residential
+1445,Udaipur,Chetak Circle,01-03-2024,05:00:00,100,Low,Yes,Rainy,City Road
+1446,Udaipur,Chetak Circle,01-03-2024,06:00:00,213,High,Yes,Clear,NH
+1447,Udaipur,Goverdhan Vilas,01-03-2024,07:00:00,223,Medium,No,Clear,Residential
+1448,Udaipur,Fatehpura,01-03-2024,08:00:00,414,Medium,Yes,Clear,Residential
+1449,Udaipur,Udiapole,01-03-2024,09:00:00,111,High,Yes,Clear,City Road
+1450,Udaipur,Fatehpura,01-03-2024,10:00:00,182,Medium,No,Clear,City Road
+1451,Udaipur,Udiapole,01-03-2024,11:00:00,418,Low,Yes,Foggy,Residential
+1452,Udaipur,Surajpole,01-03-2024,12:00:00,265,Medium,No,Rainy,NH
+1453,Udaipur,Udiapole,01-03-2024,13:00:00,151,Low,No,Rainy,NH
+1454,Udaipur,Chetak Circle,01-03-2024,14:00:00,428,High,No,Clear,Residential
+1455,Udaipur,Udiapole,01-03-2024,15:00:00,424,Low,Yes,Foggy,NH
+1456,Udaipur,Chetak Circle,01-03-2024,16:00:00,162,Low,Yes,Clear,City Road
+1457,Udaipur,Chetak Circle,01-03-2024,17:00:00,287,Low,No,Rainy,Residential
+1458,Udaipur,Chetak Circle,01-03-2024,18:00:00,333,Low,No,Clear,City Road
+1459,Udaipur,Udiapole,01-03-2024,19:00:00,289,Low,Yes,Rainy,City Road
+1460,Udaipur,Goverdhan Vilas,01-03-2024,20:00:00,388,Medium,Yes,Clear,Residential
+1461,Udaipur,Fatehpura,01-03-2024,21:00:00,197,High,No,Rainy,Residential
+1462,Udaipur,Surajpole,01-03-2024,22:00:00,56,Low,No,Rainy,Residential
+1463,Udaipur,Goverdhan Vilas,01-03-2024,23:00:00,227,High,Yes,Rainy,City Road
+1464,Udaipur,Hiran Magri,02-03-2024,00:00:00,211,High,Yes,Foggy,NH
+1465,Udaipur,Chetak Circle,02-03-2024,01:00:00,309,Medium,No,Rainy,City Road
+1466,Udaipur,Hiran Magri,02-03-2024,02:00:00,153,Medium,No,Clear,NH
+1467,Udaipur,Udiapole,02-03-2024,03:00:00,495,Medium,Yes,Rainy,NH
+1468,Udaipur,Hiran Magri,02-03-2024,04:00:00,89,Low,Yes,Rainy,Residential
+1469,Udaipur,Chetak Circle,02-03-2024,05:00:00,162,Medium,No,Clear,NH
+1470,Udaipur,Chetak Circle,02-03-2024,06:00:00,71,Low,Yes,Clear,City Road
+1471,Udaipur,Goverdhan Vilas,02-03-2024,07:00:00,91,High,Yes,Clear,Residential
+1472,Udaipur,Surajpole,02-03-2024,08:00:00,144,Low,Yes,Rainy,NH
+1473,Udaipur,Hiran Magri,02-03-2024,09:00:00,122,Medium,No,Rainy,NH
+1474,Udaipur,Goverdhan Vilas,02-03-2024,10:00:00,112,Low,No,Foggy,City Road
+1475,Udaipur,Hiran Magri,02-03-2024,11:00:00,402,High,No,Clear,City Road
+1476,Udaipur,Fatehpura,02-03-2024,12:00:00,140,Medium,Yes,Rainy,NH
+1477,Udaipur,Fatehpura,02-03-2024,13:00:00,317,Low,Yes,Rainy,Residential
+1478,Udaipur,Chetak Circle,02-03-2024,14:00:00,409,Low,Yes,Foggy,Residential
+1479,Udaipur,Chetak Circle,02-03-2024,15:00:00,417,High,Yes,Rainy,Residential
+1480,Udaipur,Hiran Magri,02-03-2024,16:00:00,132,Medium,No,Rainy,NH
+1481,Udaipur,Hiran Magri,02-03-2024,17:00:00,448,Medium,Yes,Clear,Residential
+1482,Udaipur,Hiran Magri,02-03-2024,18:00:00,117,Low,No,Clear,Residential
+1483,Udaipur,Goverdhan Vilas,02-03-2024,19:00:00,455,High,Yes,Foggy,NH
+1484,Udaipur,Fatehpura,02-03-2024,20:00:00,292,Medium,Yes,Rainy,NH
+1485,Udaipur,Fatehpura,02-03-2024,21:00:00,486,Medium,Yes,Clear,NH
+1486,Udaipur,Surajpole,02-03-2024,22:00:00,493,Low,Yes,Rainy,Residential
+1487,Udaipur,Fatehpura,02-03-2024,23:00:00,133,High,No,Clear,Residential
+1488,Udaipur,Goverdhan Vilas,03-03-2024,00:00:00,71,Low,Yes,Clear,City Road
+1489,Udaipur,Hiran Magri,03-03-2024,01:00:00,219,Medium,No,Foggy,Residential
+1490,Udaipur,Goverdhan Vilas,03-03-2024,02:00:00,115,High,Yes,Rainy,NH
+1491,Udaipur,Fatehpura,03-03-2024,03:00:00,434,High,Yes,Rainy,NH
+1492,Udaipur,Chetak Circle,03-03-2024,04:00:00,304,High,Yes,Foggy,Residential
+1493,Udaipur,Fatehpura,03-03-2024,05:00:00,242,Low,No,Foggy,NH
+1494,Udaipur,Fatehpura,03-03-2024,06:00:00,461,Medium,No,Foggy,Residential
+1495,Udaipur,Surajpole,03-03-2024,07:00:00,222,Low,No,Clear,City Road
+1496,Udaipur,Chetak Circle,03-03-2024,08:00:00,177,Low,Yes,Foggy,NH
+1497,Udaipur,Hiran Magri,03-03-2024,09:00:00,145,High,No,Rainy,Residential
+1498,Udaipur,Surajpole,03-03-2024,10:00:00,60,High,Yes,Rainy,City Road
+1499,Udaipur,Hiran Magri,03-03-2024,11:00:00,371,High,Yes,Rainy,City Road
+1500,Udaipur,Udiapole,03-03-2024,12:00:00,197,Low,No,Rainy,NH
+1501,Udaipur,Udiapole,03-03-2024,13:00:00,463,High,No,Foggy,City Road
+1502,Udaipur,Fatehpura,03-03-2024,14:00:00,383,Medium,No,Clear,NH
+1503,Udaipur,Surajpole,03-03-2024,15:00:00,499,Low,Yes,Clear,NH
+1504,Udaipur,Goverdhan Vilas,03-03-2024,16:00:00,347,Medium,No,Rainy,Residential
+1505,Udaipur,Udiapole,03-03-2024,17:00:00,361,Low,No,Foggy,NH
+1506,Udaipur,Hiran Magri,03-03-2024,18:00:00,156,High,No,Foggy,NH
+1507,Udaipur,Chetak Circle,03-03-2024,19:00:00,308,Low,Yes,Rainy,City Road
+1508,Udaipur,Chetak Circle,03-03-2024,20:00:00,406,High,No,Clear,NH
+1509,Udaipur,Surajpole,03-03-2024,21:00:00,130,Medium,No,Foggy,NH
+1510,Udaipur,Hiran Magri,03-03-2024,22:00:00,250,Low,Yes,Rainy,Residential
+1511,Udaipur,Chetak Circle,03-03-2024,23:00:00,70,Medium,No,Rainy,Residential
+1512,Udaipur,Surajpole,04-03-2024,00:00:00,189,Low,No,Clear,Residential
+1513,Udaipur,Surajpole,04-03-2024,01:00:00,142,Medium,No,Clear,Residential
+1514,Udaipur,Fatehpura,04-03-2024,02:00:00,191,Medium,Yes,Clear,Residential
+1515,Udaipur,Goverdhan Vilas,04-03-2024,03:00:00,423,Medium,No,Foggy,NH
+1516,Udaipur,Udiapole,04-03-2024,04:00:00,145,High,Yes,Foggy,NH
+1517,Udaipur,Goverdhan Vilas,04-03-2024,05:00:00,215,Low,No,Foggy,Residential
+1518,Udaipur,Surajpole,04-03-2024,06:00:00,294,Low,No,Clear,City Road
+1519,Udaipur,Fatehpura,04-03-2024,07:00:00,125,Low,No,Rainy,City Road
+1520,Udaipur,Goverdhan Vilas,04-03-2024,08:00:00,310,Low,No,Foggy,City Road
+1521,Udaipur,Udiapole,04-03-2024,09:00:00,464,High,No,Foggy,NH
+1522,Udaipur,Surajpole,04-03-2024,10:00:00,72,Medium,No,Rainy,Residential
+1523,Udaipur,Surajpole,04-03-2024,11:00:00,158,Low,No,Rainy,City Road
+1524,Udaipur,Goverdhan Vilas,04-03-2024,12:00:00,307,Low,No,Clear,NH
+1525,Udaipur,Udiapole,04-03-2024,13:00:00,462,Medium,No,Foggy,City Road
+1526,Udaipur,Udiapole,04-03-2024,14:00:00,291,Medium,No,Clear,Residential
+1527,Udaipur,Surajpole,04-03-2024,15:00:00,420,Medium,Yes,Clear,NH
+1528,Udaipur,Hiran Magri,04-03-2024,16:00:00,262,Medium,Yes,Rainy,City Road
+1529,Udaipur,Fatehpura,04-03-2024,17:00:00,220,High,Yes,Foggy,NH
+1530,Udaipur,Chetak Circle,04-03-2024,18:00:00,472,Low,Yes,Clear,NH
+1531,Udaipur,Udiapole,04-03-2024,19:00:00,450,Medium,Yes,Clear,NH
+1532,Udaipur,Surajpole,04-03-2024,20:00:00,120,High,Yes,Foggy,NH
+1533,Udaipur,Hiran Magri,04-03-2024,21:00:00,485,Medium,No,Clear,City Road
+1534,Udaipur,Hiran Magri,04-03-2024,22:00:00,451,Low,Yes,Clear,Residential
+1535,Udaipur,Udiapole,04-03-2024,23:00:00,92,Medium,No,Clear,City Road
+1536,Udaipur,Udiapole,05-03-2024,00:00:00,424,Low,No,Clear,NH
+1537,Udaipur,Udiapole,05-03-2024,01:00:00,195,Medium,Yes,Clear,Residential
+1538,Udaipur,Fatehpura,05-03-2024,02:00:00,72,Low,Yes,Foggy,NH
+1539,Udaipur,Surajpole,05-03-2024,03:00:00,241,High,No,Rainy,City Road
+1540,Udaipur,Hiran Magri,05-03-2024,04:00:00,424,High,Yes,Rainy,NH
+1541,Udaipur,Chetak Circle,05-03-2024,05:00:00,313,Low,No,Clear,City Road
+1542,Udaipur,Udiapole,05-03-2024,06:00:00,353,High,Yes,Clear,Residential
+1543,Udaipur,Chetak Circle,05-03-2024,07:00:00,228,Medium,No,Clear,Residential
+1544,Udaipur,Surajpole,05-03-2024,08:00:00,59,High,Yes,Rainy,NH
+1545,Udaipur,Surajpole,05-03-2024,09:00:00,293,Low,Yes,Rainy,NH
+1546,Udaipur,Surajpole,05-03-2024,10:00:00,470,Low,No,Foggy,City Road
+1547,Udaipur,Udiapole,05-03-2024,11:00:00,423,High,Yes,Clear,Residential
+1548,Udaipur,Surajpole,05-03-2024,12:00:00,285,Medium,Yes,Foggy,Residential
+1549,Udaipur,Udiapole,05-03-2024,13:00:00,285,Low,Yes,Rainy,NH
+1550,Udaipur,Chetak Circle,05-03-2024,14:00:00,302,Medium,Yes,Clear,NH
+1551,Udaipur,Fatehpura,05-03-2024,15:00:00,273,Medium,Yes,Clear,Residential
+1552,Udaipur,Surajpole,05-03-2024,16:00:00,275,Medium,Yes,Rainy,NH
+1553,Udaipur,Fatehpura,05-03-2024,17:00:00,484,Low,Yes,Rainy,Residential
+1554,Udaipur,Goverdhan Vilas,05-03-2024,18:00:00,422,High,No,Rainy,Residential
+1555,Udaipur,Surajpole,05-03-2024,19:00:00,165,Low,Yes,Clear,Residential
+1556,Udaipur,Surajpole,05-03-2024,20:00:00,79,Medium,Yes,Rainy,City Road
+1557,Udaipur,Fatehpura,05-03-2024,21:00:00,443,Low,Yes,Clear,NH
+1558,Udaipur,Hiran Magri,05-03-2024,22:00:00,314,Low,No,Foggy,City Road
+1559,Udaipur,Goverdhan Vilas,05-03-2024,23:00:00,208,Medium,Yes,Foggy,City Road
+1560,Udaipur,Udiapole,06-03-2024,00:00:00,495,Medium,No,Clear,Residential
+1561,Udaipur,Goverdhan Vilas,06-03-2024,01:00:00,187,High,No,Foggy,NH
+1562,Udaipur,Chetak Circle,06-03-2024,02:00:00,251,Medium,Yes,Foggy,City Road
+1563,Udaipur,Hiran Magri,06-03-2024,03:00:00,136,Low,No,Foggy,City Road
+1564,Udaipur,Fatehpura,06-03-2024,04:00:00,309,Medium,No,Rainy,City Road
+1565,Udaipur,Fatehpura,06-03-2024,05:00:00,86,Medium,No,Foggy,NH
+1566,Udaipur,Fatehpura,06-03-2024,06:00:00,321,High,No,Foggy,NH
+1567,Udaipur,Udiapole,06-03-2024,07:00:00,373,Low,Yes,Clear,City Road
+1568,Udaipur,Udiapole,06-03-2024,08:00:00,450,Medium,Yes,Clear,City Road
+1569,Udaipur,Fatehpura,06-03-2024,09:00:00,266,Low,No,Clear,City Road
+1570,Udaipur,Udiapole,06-03-2024,10:00:00,364,Low,Yes,Rainy,NH
+1571,Udaipur,Chetak Circle,06-03-2024,11:00:00,360,Medium,No,Foggy,Residential
+1572,Udaipur,Fatehpura,06-03-2024,12:00:00,281,High,Yes,Foggy,NH
+1573,Udaipur,Surajpole,06-03-2024,13:00:00,178,Low,No,Clear,NH
+1574,Udaipur,Udiapole,06-03-2024,14:00:00,208,High,No,Rainy,City Road
+1575,Udaipur,Udiapole,06-03-2024,15:00:00,350,High,No,Clear,NH
+1576,Udaipur,Goverdhan Vilas,06-03-2024,16:00:00,304,Medium,No,Foggy,NH
+1577,Udaipur,Chetak Circle,06-03-2024,17:00:00,93,High,Yes,Rainy,Residential
+1578,Udaipur,Surajpole,06-03-2024,18:00:00,50,Medium,No,Clear,Residential
+1579,Udaipur,Goverdhan Vilas,06-03-2024,19:00:00,246,High,Yes,Rainy,City Road
+1580,Udaipur,Fatehpura,06-03-2024,20:00:00,462,Low,Yes,Clear,City Road
+1581,Udaipur,Udiapole,06-03-2024,21:00:00,414,Low,No,Rainy,City Road
+1582,Udaipur,Goverdhan Vilas,06-03-2024,22:00:00,379,Low,No,Rainy,City Road
+1583,Udaipur,Surajpole,06-03-2024,23:00:00,440,Low,No,Foggy,NH
+1584,Udaipur,Fatehpura,07-03-2024,00:00:00,244,Low,Yes,Rainy,Residential
+1585,Udaipur,Fatehpura,07-03-2024,01:00:00,283,High,Yes,Rainy,City Road
+1586,Udaipur,Fatehpura,07-03-2024,02:00:00,327,Medium,No,Rainy,Residential
+1587,Udaipur,Fatehpura,07-03-2024,03:00:00,395,Low,No,Rainy,NH
+1588,Udaipur,Surajpole,07-03-2024,04:00:00,303,High,Yes,Rainy,City Road
+1589,Udaipur,Goverdhan Vilas,07-03-2024,05:00:00,471,High,No,Rainy,Residential
+1590,Udaipur,Fatehpura,07-03-2024,06:00:00,162,Low,Yes,Foggy,City Road
+1591,Udaipur,Fatehpura,07-03-2024,07:00:00,238,Medium,Yes,Rainy,City Road
+1592,Udaipur,Surajpole,07-03-2024,08:00:00,330,Medium,No,Foggy,Residential
+1593,Udaipur,Hiran Magri,07-03-2024,09:00:00,90,Medium,Yes,Clear,NH
+1594,Udaipur,Chetak Circle,07-03-2024,10:00:00,491,High,No,Foggy,NH
+1595,Udaipur,Fatehpura,07-03-2024,11:00:00,246,High,No,Rainy,City Road
+1596,Udaipur,Goverdhan Vilas,07-03-2024,12:00:00,414,High,No,Clear,Residential
+1597,Udaipur,Chetak Circle,07-03-2024,13:00:00,416,Medium,No,Clear,NH
+1598,Udaipur,Surajpole,07-03-2024,14:00:00,459,Low,No,Rainy,City Road
+1599,Udaipur,Fatehpura,07-03-2024,15:00:00,160,Low,Yes,Rainy,Residential
+1600,Udaipur,Goverdhan Vilas,07-03-2024,16:00:00,243,Medium,Yes,Clear,NH
+1601,Udaipur,Hiran Magri,07-03-2024,17:00:00,206,Low,Yes,Foggy,NH
+1602,Udaipur,Goverdhan Vilas,07-03-2024,18:00:00,243,Low,Yes,Clear,Residential
+1603,Udaipur,Chetak Circle,07-03-2024,19:00:00,489,Medium,No,Foggy,NH
+1604,Udaipur,Udiapole,07-03-2024,20:00:00,296,Medium,No,Foggy,NH
+1605,Udaipur,Chetak Circle,07-03-2024,21:00:00,51,Low,No,Foggy,City Road
+1606,Udaipur,Surajpole,07-03-2024,22:00:00,476,Low,No,Foggy,City Road
+1607,Udaipur,Goverdhan Vilas,07-03-2024,23:00:00,352,Medium,No,Foggy,Residential
+1608,Udaipur,Chetak Circle,08-03-2024,00:00:00,254,Medium,No,Rainy,NH
+1609,Udaipur,Surajpole,08-03-2024,01:00:00,139,High,Yes,Clear,Residential
+1610,Udaipur,Surajpole,08-03-2024,02:00:00,266,Medium,Yes,Clear,City Road
+1611,Udaipur,Surajpole,08-03-2024,03:00:00,298,High,Yes,Clear,Residential
+1612,Udaipur,Goverdhan Vilas,08-03-2024,04:00:00,226,Low,No,Rainy,City Road
+1613,Udaipur,Surajpole,08-03-2024,05:00:00,403,High,Yes,Clear,NH
+1614,Udaipur,Goverdhan Vilas,08-03-2024,06:00:00,485,Medium,No,Clear,NH
+1615,Udaipur,Chetak Circle,08-03-2024,07:00:00,342,Medium,Yes,Rainy,NH
+1616,Udaipur,Fatehpura,08-03-2024,08:00:00,151,Medium,No,Rainy,Residential
+1617,Udaipur,Fatehpura,08-03-2024,09:00:00,200,Medium,Yes,Foggy,NH
+1618,Udaipur,Udiapole,08-03-2024,10:00:00,170,Low,Yes,Foggy,NH
+1619,Udaipur,Goverdhan Vilas,08-03-2024,11:00:00,109,Low,Yes,Foggy,Residential
+1620,Udaipur,Chetak Circle,08-03-2024,12:00:00,62,Low,No,Rainy,NH
+1621,Udaipur,Udiapole,08-03-2024,13:00:00,415,Medium,No,Clear,City Road
+1622,Udaipur,Surajpole,08-03-2024,14:00:00,324,High,Yes,Foggy,City Road
+1623,Udaipur,Chetak Circle,08-03-2024,15:00:00,105,Low,No,Rainy,NH
+1624,Udaipur,Udiapole,08-03-2024,16:00:00,50,High,Yes,Foggy,NH
+1625,Udaipur,Udiapole,08-03-2024,17:00:00,104,Low,Yes,Clear,NH
+1626,Udaipur,Chetak Circle,08-03-2024,18:00:00,159,Medium,Yes,Foggy,City Road
+1627,Udaipur,Hiran Magri,08-03-2024,19:00:00,181,Medium,Yes,Foggy,NH
+1628,Udaipur,Surajpole,08-03-2024,20:00:00,156,High,No,Clear,NH
+1629,Udaipur,Goverdhan Vilas,08-03-2024,21:00:00,107,Low,Yes,Rainy,City Road
+1630,Udaipur,Goverdhan Vilas,08-03-2024,22:00:00,293,Medium,No,Foggy,City Road
+1631,Udaipur,Udiapole,08-03-2024,23:00:00,454,Low,Yes,Foggy,Residential
+1632,Udaipur,Goverdhan Vilas,09-03-2024,00:00:00,352,Medium,Yes,Clear,City Road
+1633,Udaipur,Surajpole,09-03-2024,01:00:00,449,High,No,Foggy,Residential
+1634,Udaipur,Udiapole,09-03-2024,02:00:00,128,Low,No,Rainy,City Road
+1635,Udaipur,Surajpole,09-03-2024,03:00:00,382,Medium,No,Clear,Residential
+1636,Udaipur,Hiran Magri,09-03-2024,04:00:00,203,High,No,Clear,Residential
+1637,Udaipur,Surajpole,09-03-2024,05:00:00,89,Medium,Yes,Rainy,NH
+1638,Udaipur,Udiapole,09-03-2024,06:00:00,433,Low,Yes,Rainy,Residential
+1639,Udaipur,Fatehpura,09-03-2024,07:00:00,311,Low,Yes,Foggy,City Road
+1640,Udaipur,Goverdhan Vilas,09-03-2024,08:00:00,189,High,Yes,Rainy,NH
+1641,Udaipur,Surajpole,09-03-2024,09:00:00,322,High,No,Foggy,NH
+1642,Udaipur,Goverdhan Vilas,09-03-2024,10:00:00,293,Low,Yes,Foggy,Residential
+1643,Udaipur,Chetak Circle,09-03-2024,11:00:00,200,Medium,Yes,Rainy,NH
+1644,Udaipur,Chetak Circle,09-03-2024,12:00:00,369,Medium,Yes,Clear,NH
+1645,Udaipur,Chetak Circle,09-03-2024,13:00:00,274,Medium,Yes,Foggy,Residential
+1646,Udaipur,Surajpole,09-03-2024,14:00:00,471,High,No,Clear,City Road
+1647,Udaipur,Hiran Magri,09-03-2024,15:00:00,131,High,Yes,Rainy,City Road
+1648,Udaipur,Surajpole,09-03-2024,16:00:00,132,Low,No,Rainy,NH
+1649,Udaipur,Fatehpura,09-03-2024,17:00:00,328,Low,Yes,Foggy,Residential
+1650,Udaipur,Fatehpura,09-03-2024,18:00:00,484,Medium,No,Clear,Residential
+1651,Udaipur,Udiapole,09-03-2024,19:00:00,80,Medium,No,Rainy,Residential
+1652,Udaipur,Surajpole,09-03-2024,20:00:00,390,High,No,Rainy,Residential
+1653,Udaipur,Chetak Circle,09-03-2024,21:00:00,439,High,No,Foggy,Residential
+1654,Udaipur,Chetak Circle,09-03-2024,22:00:00,246,Low,Yes,Foggy,NH
+1655,Udaipur,Goverdhan Vilas,09-03-2024,23:00:00,206,Low,No,Rainy,Residential
+1656,Udaipur,Udiapole,10-03-2024,00:00:00,244,High,No,Foggy,NH
+1657,Udaipur,Hiran Magri,10-03-2024,01:00:00,339,Medium,No,Rainy,Residential
+1658,Udaipur,Goverdhan Vilas,10-03-2024,02:00:00,378,Medium,No,Rainy,NH
+1659,Udaipur,Fatehpura,10-03-2024,03:00:00,67,Medium,Yes,Rainy,Residential
+1660,Udaipur,Udiapole,10-03-2024,04:00:00,54,High,No,Foggy,Residential
+1661,Udaipur,Udiapole,10-03-2024,05:00:00,401,High,No,Foggy,City Road
+1662,Udaipur,Goverdhan Vilas,10-03-2024,06:00:00,79,High,Yes,Clear,City Road
+1663,Udaipur,Surajpole,10-03-2024,07:00:00,348,Low,Yes,Foggy,Residential
+1664,Udaipur,Goverdhan Vilas,10-03-2024,08:00:00,444,Medium,Yes,Clear,Residential
+1665,Udaipur,Chetak Circle,10-03-2024,09:00:00,341,Medium,Yes,Foggy,NH
+1666,Udaipur,Goverdhan Vilas,10-03-2024,10:00:00,387,High,No,Foggy,Residential
+1667,Udaipur,Surajpole,10-03-2024,11:00:00,94,Low,Yes,Foggy,City Road
+1668,Udaipur,Fatehpura,10-03-2024,12:00:00,267,High,No,Clear,NH
+1669,Udaipur,Surajpole,10-03-2024,13:00:00,253,High,No,Foggy,Residential
+1670,Udaipur,Udiapole,10-03-2024,14:00:00,440,Medium,No,Rainy,Residential
+1671,Udaipur,Udiapole,10-03-2024,15:00:00,195,Low,No,Rainy,City Road
+1672,Udaipur,Goverdhan Vilas,10-03-2024,16:00:00,347,High,No,Rainy,City Road
+1673,Udaipur,Fatehpura,10-03-2024,17:00:00,192,Medium,No,Clear,NH
+1674,Udaipur,Hiran Magri,10-03-2024,18:00:00,227,Low,Yes,Rainy,City Road
+1675,Udaipur,Udiapole,10-03-2024,19:00:00,182,Low,Yes,Foggy,NH
+1676,Udaipur,Hiran Magri,10-03-2024,20:00:00,307,Low,Yes,Rainy,NH
+1677,Udaipur,Chetak Circle,10-03-2024,21:00:00,199,Low,No,Clear,NH
+1678,Udaipur,Udiapole,10-03-2024,22:00:00,208,High,No,Foggy,NH
+1679,Udaipur,Chetak Circle,10-03-2024,23:00:00,371,Medium,Yes,Rainy,NH
+1680,Udaipur,Chetak Circle,11-03-2024,00:00:00,116,High,No,Foggy,NH
+1681,Udaipur,Udiapole,11-03-2024,01:00:00,221,Low,No,Clear,Residential
+1682,Udaipur,Goverdhan Vilas,11-03-2024,02:00:00,132,Medium,Yes,Clear,Residential
+1683,Udaipur,Udiapole,11-03-2024,03:00:00,277,Medium,Yes,Foggy,NH
+1684,Udaipur,Goverdhan Vilas,11-03-2024,04:00:00,329,Medium,Yes,Clear,NH
+1685,Udaipur,Fatehpura,11-03-2024,05:00:00,180,Low,No,Foggy,NH
+1686,Udaipur,Hiran Magri,11-03-2024,06:00:00,291,High,Yes,Rainy,NH
+1687,Udaipur,Goverdhan Vilas,11-03-2024,07:00:00,82,High,Yes,Rainy,NH
+1688,Udaipur,Goverdhan Vilas,11-03-2024,08:00:00,469,Medium,Yes,Rainy,NH
+1689,Udaipur,Hiran Magri,11-03-2024,09:00:00,340,Low,Yes,Foggy,Residential
+1690,Udaipur,Goverdhan Vilas,11-03-2024,10:00:00,292,High,No,Clear,City Road
+1691,Udaipur,Udiapole,11-03-2024,11:00:00,435,Medium,No,Clear,Residential
+1692,Udaipur,Goverdhan Vilas,11-03-2024,12:00:00,214,High,Yes,Foggy,NH
+1693,Udaipur,Udiapole,11-03-2024,13:00:00,427,High,Yes,Clear,City Road
+1694,Udaipur,Udiapole,11-03-2024,14:00:00,382,Low,No,Foggy,Residential
+1695,Udaipur,Hiran Magri,11-03-2024,15:00:00,377,High,Yes,Rainy,Residential
+1696,Udaipur,Udiapole,11-03-2024,16:00:00,414,Medium,Yes,Clear,Residential
+1697,Udaipur,Hiran Magri,11-03-2024,17:00:00,309,Low,No,Foggy,City Road
+1698,Udaipur,Hiran Magri,11-03-2024,18:00:00,448,Low,No,Rainy,NH
+1699,Udaipur,Surajpole,11-03-2024,19:00:00,459,Low,Yes,Foggy,Residential
+1700,Udaipur,Goverdhan Vilas,11-03-2024,20:00:00,255,Medium,Yes,Rainy,City Road
+1701,Udaipur,Goverdhan Vilas,11-03-2024,21:00:00,212,Medium,Yes,Clear,NH
+1702,Udaipur,Hiran Magri,11-03-2024,22:00:00,216,Low,Yes,Clear,Residential
+1703,Udaipur,Hiran Magri,11-03-2024,23:00:00,356,High,No,Clear,Residential
+1704,Udaipur,Udiapole,12-03-2024,00:00:00,173,Medium,No,Foggy,City Road
+1705,Udaipur,Fatehpura,12-03-2024,01:00:00,406,Medium,Yes,Clear,Residential
+1706,Udaipur,Goverdhan Vilas,12-03-2024,02:00:00,363,High,No,Clear,NH
+1707,Udaipur,Fatehpura,12-03-2024,03:00:00,332,Medium,Yes,Rainy,Residential
+1708,Udaipur,Hiran Magri,12-03-2024,04:00:00,109,Medium,Yes,Foggy,City Road
+1709,Udaipur,Udiapole,12-03-2024,05:00:00,435,Low,No,Clear,NH
+1710,Udaipur,Fatehpura,12-03-2024,06:00:00,142,High,Yes,Clear,City Road
+1711,Udaipur,Goverdhan Vilas,12-03-2024,07:00:00,162,Low,Yes,Clear,NH
+1712,Udaipur,Fatehpura,12-03-2024,08:00:00,320,High,No,Rainy,Residential
+1713,Udaipur,Fatehpura,12-03-2024,09:00:00,436,Medium,No,Clear,NH
+1714,Udaipur,Fatehpura,12-03-2024,10:00:00,389,Medium,No,Clear,NH
+1715,Udaipur,Goverdhan Vilas,12-03-2024,11:00:00,294,High,No,Foggy,City Road
+1716,Udaipur,Surajpole,12-03-2024,12:00:00,231,Medium,No,Foggy,City Road
+1717,Udaipur,Goverdhan Vilas,12-03-2024,13:00:00,269,Low,No,Rainy,Residential
+1718,Udaipur,Udiapole,12-03-2024,14:00:00,196,Medium,No,Clear,City Road
+1719,Udaipur,Hiran Magri,12-03-2024,15:00:00,449,Medium,Yes,Rainy,Residential
+1720,Udaipur,Surajpole,12-03-2024,16:00:00,81,Low,Yes,Clear,Residential
+1721,Udaipur,Fatehpura,12-03-2024,17:00:00,259,Medium,Yes,Rainy,City Road
+1722,Udaipur,Fatehpura,12-03-2024,18:00:00,357,High,Yes,Clear,Residential
+1723,Udaipur,Udiapole,12-03-2024,19:00:00,446,Low,No,Foggy,Residential
+1724,Udaipur,Hiran Magri,12-03-2024,20:00:00,374,Medium,No,Rainy,NH
+1725,Udaipur,Goverdhan Vilas,12-03-2024,21:00:00,491,Low,Yes,Clear,Residential
+1726,Udaipur,Udiapole,12-03-2024,22:00:00,250,High,Yes,Clear,NH
+1727,Udaipur,Udiapole,12-03-2024,23:00:00,474,High,No,Foggy,City Road
+1728,Udaipur,Hiran Magri,13-03-2024,00:00:00,71,Low,Yes,Rainy,City Road
+1729,Udaipur,Fatehpura,13-03-2024,01:00:00,256,Low,Yes,Clear,NH
+1730,Udaipur,Udiapole,13-03-2024,02:00:00,445,Medium,No,Rainy,City Road
+1731,Udaipur,Fatehpura,13-03-2024,03:00:00,372,Low,Yes,Clear,City Road
+1732,Udaipur,Goverdhan Vilas,13-03-2024,04:00:00,363,Medium,Yes,Rainy,NH
+1733,Udaipur,Udiapole,13-03-2024,05:00:00,340,Medium,No,Clear,Residential
+1734,Udaipur,Hiran Magri,13-03-2024,06:00:00,124,High,No,Foggy,Residential
+1735,Udaipur,Udiapole,13-03-2024,07:00:00,205,High,Yes,Foggy,Residential
+1736,Udaipur,Udiapole,13-03-2024,08:00:00,324,Medium,No,Rainy,Residential
+1737,Udaipur,Chetak Circle,13-03-2024,09:00:00,134,High,No,Rainy,City Road
+1738,Udaipur,Hiran Magri,13-03-2024,10:00:00,53,Low,No,Rainy,City Road
+1739,Udaipur,Hiran Magri,13-03-2024,11:00:00,308,Medium,Yes,Clear,City Road
+1740,Udaipur,Hiran Magri,13-03-2024,12:00:00,403,High,Yes,Rainy,NH
+1741,Udaipur,Chetak Circle,13-03-2024,13:00:00,477,High,No,Foggy,City Road
+1742,Udaipur,Chetak Circle,13-03-2024,14:00:00,328,High,No,Rainy,City Road
+1743,Udaipur,Fatehpura,13-03-2024,15:00:00,96,High,No,Foggy,City Road
+1744,Udaipur,Hiran Magri,13-03-2024,16:00:00,450,Low,No,Clear,City Road
+1745,Udaipur,Hiran Magri,13-03-2024,17:00:00,275,Low,Yes,Rainy,NH
+1746,Udaipur,Surajpole,13-03-2024,18:00:00,150,High,No,Foggy,Residential
+1747,Udaipur,Hiran Magri,13-03-2024,19:00:00,467,High,No,Clear,NH
+1748,Udaipur,Udiapole,13-03-2024,20:00:00,86,High,No,Clear,City Road
+1749,Udaipur,Chetak Circle,13-03-2024,21:00:00,334,Medium,No,Foggy,Residential
+1750,Udaipur,Hiran Magri,13-03-2024,22:00:00,152,High,No,Foggy,City Road
+1751,Udaipur,Chetak Circle,13-03-2024,23:00:00,249,High,Yes,Clear,NH
+1752,Udaipur,Fatehpura,14-03-2024,00:00:00,89,Medium,No,Foggy,City Road
+1753,Udaipur,Hiran Magri,14-03-2024,01:00:00,275,Low,No,Rainy,City Road
+1754,Udaipur,Hiran Magri,14-03-2024,02:00:00,306,High,Yes,Foggy,City Road
+1755,Udaipur,Goverdhan Vilas,14-03-2024,03:00:00,253,Medium,No,Foggy,City Road
+1756,Udaipur,Surajpole,14-03-2024,04:00:00,344,Low,No,Foggy,Residential
+1757,Udaipur,Surajpole,14-03-2024,05:00:00,407,Medium,No,Clear,City Road
+1758,Udaipur,Goverdhan Vilas,14-03-2024,06:00:00,494,Low,No,Clear,NH
+1759,Udaipur,Udiapole,14-03-2024,07:00:00,70,High,Yes,Clear,City Road
+1760,Udaipur,Chetak Circle,14-03-2024,08:00:00,408,Medium,No,Foggy,Residential
+1761,Udaipur,Goverdhan Vilas,14-03-2024,09:00:00,166,High,Yes,Clear,NH
+1762,Udaipur,Chetak Circle,14-03-2024,10:00:00,272,High,No,Foggy,Residential
+1763,Udaipur,Surajpole,14-03-2024,11:00:00,371,High,No,Foggy,NH
+1764,Udaipur,Chetak Circle,14-03-2024,12:00:00,337,High,Yes,Foggy,City Road
+1765,Udaipur,Fatehpura,14-03-2024,13:00:00,89,Low,Yes,Rainy,Residential
+1766,Udaipur,Hiran Magri,14-03-2024,14:00:00,440,Medium,Yes,Foggy,Residential
+1767,Udaipur,Fatehpura,14-03-2024,15:00:00,343,Medium,No,Clear,City Road
+1768,Udaipur,Hiran Magri,14-03-2024,16:00:00,439,High,Yes,Foggy,NH
+1769,Udaipur,Chetak Circle,14-03-2024,17:00:00,306,High,No,Clear,NH
+1770,Udaipur,Udiapole,14-03-2024,18:00:00,461,High,No,Foggy,Residential
+1771,Udaipur,Fatehpura,14-03-2024,19:00:00,280,Medium,No,Clear,Residential
+1772,Udaipur,Udiapole,14-03-2024,20:00:00,324,Low,No,Clear,NH
+1773,Udaipur,Surajpole,14-03-2024,21:00:00,344,Medium,No,Foggy,City Road
+1774,Udaipur,Surajpole,14-03-2024,22:00:00,126,Medium,No,Foggy,City Road
+1775,Udaipur,Surajpole,14-03-2024,23:00:00,303,High,Yes,Rainy,City Road
+1776,Udaipur,Udiapole,15-03-2024,00:00:00,399,Low,No,Clear,Residential
+1777,Udaipur,Fatehpura,15-03-2024,01:00:00,71,Medium,No,Rainy,NH
+1778,Udaipur,Fatehpura,15-03-2024,02:00:00,179,Low,Yes,Foggy,Residential
+1779,Udaipur,Chetak Circle,15-03-2024,03:00:00,261,Medium,No,Foggy,City Road
+1780,Udaipur,Surajpole,15-03-2024,04:00:00,140,Medium,No,Foggy,City Road
+1781,Udaipur,Chetak Circle,15-03-2024,05:00:00,229,High,No,Foggy,NH
+1782,Udaipur,Chetak Circle,15-03-2024,06:00:00,100,Medium,Yes,Rainy,Residential
+1783,Udaipur,Goverdhan Vilas,15-03-2024,07:00:00,191,Low,Yes,Foggy,NH
+1784,Udaipur,Goverdhan Vilas,15-03-2024,08:00:00,162,High,Yes,Rainy,NH
+1785,Udaipur,Chetak Circle,15-03-2024,09:00:00,434,Medium,No,Foggy,City Road
+1786,Udaipur,Udiapole,15-03-2024,10:00:00,82,Low,Yes,Rainy,City Road
+1787,Udaipur,Hiran Magri,15-03-2024,11:00:00,361,Low,Yes,Rainy,NH
+1788,Udaipur,Chetak Circle,15-03-2024,12:00:00,413,Medium,Yes,Clear,NH
+1789,Udaipur,Fatehpura,15-03-2024,13:00:00,174,High,Yes,Foggy,City Road
+1790,Udaipur,Surajpole,15-03-2024,14:00:00,159,Low,No,Clear,NH
+1791,Udaipur,Chetak Circle,15-03-2024,15:00:00,338,High,No,Foggy,Residential
+1792,Udaipur,Fatehpura,15-03-2024,16:00:00,280,Medium,No,Foggy,NH
+1793,Udaipur,Fatehpura,15-03-2024,17:00:00,326,High,No,Clear,NH
+1794,Udaipur,Udiapole,15-03-2024,18:00:00,345,Medium,Yes,Rainy,NH
+1795,Udaipur,Fatehpura,15-03-2024,19:00:00,57,Medium,No,Rainy,City Road
+1796,Udaipur,Surajpole,15-03-2024,20:00:00,104,High,No,Rainy,NH
+1797,Udaipur,Goverdhan Vilas,15-03-2024,21:00:00,396,High,Yes,Clear,Residential
+1798,Udaipur,Chetak Circle,15-03-2024,22:00:00,288,Medium,No,Foggy,City Road
+1799,Udaipur,Fatehpura,15-03-2024,23:00:00,330,Low,No,Foggy,Residential
+1800,Udaipur,Udiapole,16-03-2024,00:00:00,111,Medium,No,Foggy,Residential
+1801,Udaipur,Surajpole,16-03-2024,01:00:00,314,High,No,Rainy,City Road
+1802,Udaipur,Hiran Magri,16-03-2024,02:00:00,194,Medium,Yes,Rainy,Residential
+1803,Udaipur,Goverdhan Vilas,16-03-2024,03:00:00,432,High,Yes,Foggy,Residential
+1804,Udaipur,Fatehpura,16-03-2024,04:00:00,303,Low,Yes,Foggy,Residential
+1805,Udaipur,Surajpole,16-03-2024,05:00:00,227,Low,No,Rainy,City Road
+1806,Udaipur,Goverdhan Vilas,16-03-2024,06:00:00,126,High,Yes,Clear,NH
+1807,Udaipur,Fatehpura,16-03-2024,07:00:00,442,Low,Yes,Foggy,NH
+1808,Udaipur,Udiapole,16-03-2024,08:00:00,268,High,No,Rainy,NH
+1809,Udaipur,Fatehpura,16-03-2024,09:00:00,266,Low,No,Foggy,City Road
+1810,Udaipur,Hiran Magri,16-03-2024,10:00:00,386,Medium,Yes,Rainy,Residential
+1811,Udaipur,Udiapole,16-03-2024,11:00:00,345,Low,No,Clear,NH
+1812,Udaipur,Chetak Circle,16-03-2024,12:00:00,166,Medium,No,Foggy,Residential
+1813,Udaipur,Fatehpura,16-03-2024,13:00:00,467,Medium,Yes,Rainy,NH
+1814,Udaipur,Udiapole,16-03-2024,14:00:00,449,Medium,No,Clear,City Road
+1815,Udaipur,Surajpole,16-03-2024,15:00:00,369,Medium,No,Clear,City Road
+1816,Udaipur,Udiapole,16-03-2024,16:00:00,73,Low,No,Clear,NH
+1817,Udaipur,Goverdhan Vilas,16-03-2024,17:00:00,296,Low,Yes,Rainy,Residential
+1818,Udaipur,Goverdhan Vilas,16-03-2024,18:00:00,99,Low,No,Foggy,Residential
+1819,Udaipur,Surajpole,16-03-2024,19:00:00,71,Medium,No,Rainy,NH
+1820,Udaipur,Goverdhan Vilas,16-03-2024,20:00:00,409,High,No,Clear,City Road
+1821,Udaipur,Goverdhan Vilas,16-03-2024,21:00:00,142,High,Yes,Foggy,City Road
+1822,Udaipur,Surajpole,16-03-2024,22:00:00,99,High,No,Foggy,City Road
+1823,Udaipur,Surajpole,16-03-2024,23:00:00,378,Low,Yes,Clear,Residential
+1824,Udaipur,Goverdhan Vilas,17-03-2024,00:00:00,296,Low,Yes,Rainy,Residential
+1825,Udaipur,Chetak Circle,17-03-2024,01:00:00,473,High,Yes,Foggy,City Road
+1826,Udaipur,Udiapole,17-03-2024,02:00:00,88,Low,Yes,Clear,City Road
+1827,Udaipur,Chetak Circle,17-03-2024,03:00:00,175,Low,Yes,Foggy,City Road
+1828,Udaipur,Chetak Circle,17-03-2024,04:00:00,489,High,Yes,Foggy,City Road
+1829,Udaipur,Fatehpura,17-03-2024,05:00:00,496,Medium,Yes,Clear,Residential
+1830,Udaipur,Chetak Circle,17-03-2024,06:00:00,109,Medium,No,Foggy,City Road
+1831,Udaipur,Surajpole,17-03-2024,07:00:00,370,Low,No,Rainy,Residential
+1832,Udaipur,Fatehpura,17-03-2024,08:00:00,74,High,Yes,Rainy,NH
+1833,Udaipur,Fatehpura,17-03-2024,09:00:00,409,Medium,No,Rainy,Residential
+1834,Udaipur,Udiapole,17-03-2024,10:00:00,66,High,Yes,Clear,Residential
+1835,Udaipur,Fatehpura,17-03-2024,11:00:00,424,Medium,No,Rainy,NH
+1836,Udaipur,Fatehpura,17-03-2024,12:00:00,453,Medium,Yes,Clear,Residential
+1837,Udaipur,Surajpole,17-03-2024,13:00:00,234,Low,No,Clear,Residential
+1838,Udaipur,Udiapole,17-03-2024,14:00:00,117,Medium,No,Clear,NH
+1839,Udaipur,Fatehpura,17-03-2024,15:00:00,271,High,Yes,Clear,City Road
+1840,Udaipur,Goverdhan Vilas,17-03-2024,16:00:00,408,Medium,Yes,Foggy,Residential
+1841,Udaipur,Surajpole,17-03-2024,17:00:00,137,Medium,No,Rainy,City Road
+1842,Udaipur,Fatehpura,17-03-2024,18:00:00,231,High,No,Foggy,City Road
+1843,Udaipur,Goverdhan Vilas,17-03-2024,19:00:00,306,Low,No,Foggy,Residential
+1844,Udaipur,Goverdhan Vilas,17-03-2024,20:00:00,479,High,Yes,Clear,City Road
+1845,Udaipur,Fatehpura,17-03-2024,21:00:00,57,High,No,Foggy,Residential
+1846,Udaipur,Chetak Circle,17-03-2024,22:00:00,340,Medium,Yes,Rainy,Residential
+1847,Udaipur,Chetak Circle,17-03-2024,23:00:00,179,High,No,Rainy,Residential
+1848,Udaipur,Surajpole,18-03-2024,00:00:00,208,Low,Yes,Clear,NH
+1849,Udaipur,Fatehpura,18-03-2024,01:00:00,432,Medium,No,Rainy,NH
+1850,Udaipur,Chetak Circle,18-03-2024,02:00:00,74,Medium,No,Rainy,City Road
+1851,Udaipur,Surajpole,18-03-2024,03:00:00,69,Low,Yes,Clear,NH
+1852,Udaipur,Hiran Magri,18-03-2024,04:00:00,251,High,No,Rainy,Residential
+1853,Udaipur,Surajpole,18-03-2024,05:00:00,253,Medium,No,Rainy,NH
+1854,Udaipur,Surajpole,18-03-2024,06:00:00,236,Low,Yes,Rainy,NH
+1855,Udaipur,Surajpole,18-03-2024,07:00:00,140,Low,No,Clear,NH
+1856,Udaipur,Chetak Circle,18-03-2024,08:00:00,189,Low,Yes,Foggy,City Road
+1857,Udaipur,Hiran Magri,18-03-2024,09:00:00,298,Low,Yes,Rainy,City Road
+1858,Udaipur,Goverdhan Vilas,18-03-2024,10:00:00,446,Low,No,Rainy,NH
+1859,Udaipur,Fatehpura,18-03-2024,11:00:00,404,High,Yes,Rainy,City Road
+1860,Udaipur,Hiran Magri,18-03-2024,12:00:00,164,Medium,No,Clear,NH
+1861,Udaipur,Chetak Circle,18-03-2024,13:00:00,347,Low,No,Rainy,Residential
+1862,Udaipur,Chetak Circle,18-03-2024,14:00:00,478,Medium,No,Foggy,City Road
+1863,Udaipur,Goverdhan Vilas,18-03-2024,15:00:00,198,High,Yes,Clear,City Road
+1864,Udaipur,Fatehpura,18-03-2024,16:00:00,262,Low,No,Foggy,NH
+1865,Udaipur,Surajpole,18-03-2024,17:00:00,273,Low,No,Foggy,City Road
+1866,Udaipur,Surajpole,18-03-2024,18:00:00,73,Low,No,Rainy,Residential
+1867,Udaipur,Fatehpura,18-03-2024,19:00:00,269,Medium,Yes,Clear,City Road
+1868,Udaipur,Goverdhan Vilas,18-03-2024,20:00:00,233,Medium,Yes,Foggy,City Road
+1869,Udaipur,Chetak Circle,18-03-2024,21:00:00,259,High,No,Foggy,Residential
+1870,Udaipur,Fatehpura,18-03-2024,22:00:00,238,Low,Yes,Foggy,Residential
+1871,Udaipur,Surajpole,18-03-2024,23:00:00,151,Low,No,Rainy,Residential
+1872,Udaipur,Fatehpura,19-03-2024,00:00:00,219,High,No,Rainy,NH
+1873,Udaipur,Hiran Magri,19-03-2024,01:00:00,230,High,No,Foggy,Residential
+1874,Udaipur,Hiran Magri,19-03-2024,02:00:00,97,High,Yes,Foggy,City Road
+1875,Udaipur,Udiapole,19-03-2024,03:00:00,454,High,No,Foggy,City Road
+1876,Udaipur,Udiapole,19-03-2024,04:00:00,205,Medium,No,Rainy,Residential
+1877,Udaipur,Chetak Circle,19-03-2024,05:00:00,414,High,Yes,Foggy,Residential
+1878,Udaipur,Udiapole,19-03-2024,06:00:00,164,Medium,No,Rainy,City Road
+1879,Udaipur,Goverdhan Vilas,19-03-2024,07:00:00,331,Medium,No,Foggy,NH
+1880,Udaipur,Surajpole,19-03-2024,08:00:00,159,High,No,Foggy,Residential
+1881,Udaipur,Fatehpura,19-03-2024,09:00:00,391,High,No,Foggy,Residential
+1882,Udaipur,Surajpole,19-03-2024,10:00:00,496,Low,Yes,Foggy,Residential
+1883,Udaipur,Chetak Circle,19-03-2024,11:00:00,182,High,Yes,Rainy,Residential
+1884,Udaipur,Goverdhan Vilas,19-03-2024,12:00:00,138,Medium,No,Clear,City Road
+1885,Udaipur,Hiran Magri,19-03-2024,13:00:00,447,Low,Yes,Rainy,Residential
+1886,Udaipur,Goverdhan Vilas,19-03-2024,14:00:00,419,High,Yes,Rainy,City Road
+1887,Udaipur,Surajpole,19-03-2024,15:00:00,175,Medium,Yes,Clear,City Road
+1888,Udaipur,Goverdhan Vilas,19-03-2024,16:00:00,340,Low,No,Rainy,NH
+1889,Udaipur,Fatehpura,19-03-2024,17:00:00,236,Medium,Yes,Foggy,Residential
+1890,Udaipur,Udiapole,19-03-2024,18:00:00,170,Low,No,Clear,City Road
+1891,Udaipur,Goverdhan Vilas,19-03-2024,19:00:00,375,Low,No,Foggy,Residential
+1892,Udaipur,Hiran Magri,19-03-2024,20:00:00,345,Medium,Yes,Rainy,NH
+1893,Udaipur,Surajpole,19-03-2024,21:00:00,128,Low,Yes,Rainy,Residential
+1894,Udaipur,Udiapole,19-03-2024,22:00:00,484,High,No,Rainy,Residential
+1895,Udaipur,Hiran Magri,19-03-2024,23:00:00,480,Low,No,Rainy,NH
+1896,Udaipur,Hiran Magri,20-03-2024,00:00:00,190,Low,No,Foggy,City Road
+1897,Udaipur,Chetak Circle,20-03-2024,01:00:00,189,Low,Yes,Clear,NH
+1898,Udaipur,Hiran Magri,20-03-2024,02:00:00,354,Low,Yes,Clear,City Road
+1899,Udaipur,Chetak Circle,20-03-2024,03:00:00,81,High,No,Rainy,Residential
+1900,Udaipur,Chetak Circle,20-03-2024,04:00:00,62,Low,Yes,Clear,NH
+1901,Udaipur,Udiapole,20-03-2024,05:00:00,245,Medium,No,Foggy,City Road
+1902,Udaipur,Goverdhan Vilas,20-03-2024,06:00:00,92,Low,Yes,Clear,City Road
+1903,Udaipur,Goverdhan Vilas,20-03-2024,07:00:00,102,High,No,Rainy,Residential
+1904,Udaipur,Surajpole,20-03-2024,08:00:00,157,Medium,Yes,Foggy,City Road
+1905,Udaipur,Udiapole,20-03-2024,09:00:00,292,Low,Yes,Clear,NH
+1906,Udaipur,Goverdhan Vilas,20-03-2024,10:00:00,116,High,Yes,Clear,NH
+1907,Udaipur,Hiran Magri,20-03-2024,11:00:00,294,Medium,No,Rainy,Residential
+1908,Udaipur,Udiapole,20-03-2024,12:00:00,360,High,No,Foggy,NH
+1909,Udaipur,Chetak Circle,20-03-2024,13:00:00,300,High,No,Foggy,NH
+1910,Udaipur,Hiran Magri,20-03-2024,14:00:00,73,High,No,Rainy,Residential
+1911,Udaipur,Surajpole,20-03-2024,15:00:00,286,High,No,Rainy,Residential
+1912,Udaipur,Chetak Circle,20-03-2024,16:00:00,320,Low,No,Rainy,City Road
+1913,Udaipur,Surajpole,20-03-2024,17:00:00,372,Medium,Yes,Foggy,NH
+1914,Udaipur,Udiapole,20-03-2024,18:00:00,281,Low,No,Foggy,City Road
+1915,Udaipur,Hiran Magri,20-03-2024,19:00:00,362,Medium,Yes,Clear,Residential
+1916,Udaipur,Surajpole,20-03-2024,20:00:00,77,Medium,No,Foggy,City Road
+1917,Udaipur,Goverdhan Vilas,20-03-2024,21:00:00,432,Medium,No,Foggy,City Road
+1918,Udaipur,Chetak Circle,20-03-2024,22:00:00,182,Low,No,Rainy,NH
+1919,Udaipur,Fatehpura,20-03-2024,23:00:00,282,High,Yes,Clear,NH
+1920,Udaipur,Fatehpura,21-03-2024,00:00:00,239,High,No,Foggy,Residential
+1921,Udaipur,Surajpole,21-03-2024,01:00:00,447,Low,Yes,Foggy,Residential
+1922,Udaipur,Surajpole,21-03-2024,02:00:00,427,Medium,Yes,Clear,Residential
+1923,Udaipur,Udiapole,21-03-2024,03:00:00,261,Low,Yes,Rainy,NH
+1924,Udaipur,Chetak Circle,21-03-2024,04:00:00,335,High,No,Clear,NH
+1925,Udaipur,Udiapole,21-03-2024,05:00:00,297,Low,Yes,Clear,NH
+1926,Udaipur,Goverdhan Vilas,21-03-2024,06:00:00,454,Medium,Yes,Clear,City Road
+1927,Udaipur,Surajpole,21-03-2024,07:00:00,165,Medium,No,Foggy,City Road
+1928,Udaipur,Hiran Magri,21-03-2024,08:00:00,340,Low,Yes,Clear,NH
+1929,Udaipur,Chetak Circle,21-03-2024,09:00:00,294,Low,No,Rainy,NH
+1930,Udaipur,Udiapole,21-03-2024,10:00:00,444,Low,Yes,Foggy,NH
+1931,Udaipur,Hiran Magri,21-03-2024,11:00:00,417,Low,Yes,Rainy,Residential
+1932,Udaipur,Chetak Circle,21-03-2024,12:00:00,263,High,No,Clear,NH
+1933,Udaipur,Goverdhan Vilas,21-03-2024,13:00:00,100,Low,No,Clear,Residential
+1934,Udaipur,Surajpole,21-03-2024,14:00:00,298,Medium,Yes,Foggy,City Road
+1935,Udaipur,Goverdhan Vilas,21-03-2024,15:00:00,170,High,No,Rainy,City Road
+1936,Udaipur,Fatehpura,21-03-2024,16:00:00,209,Medium,Yes,Rainy,City Road
+1937,Udaipur,Chetak Circle,21-03-2024,17:00:00,417,Medium,Yes,Rainy,City Road
+1938,Udaipur,Goverdhan Vilas,21-03-2024,18:00:00,448,Low,Yes,Clear,NH
+1939,Udaipur,Fatehpura,21-03-2024,19:00:00,127,High,No,Rainy,NH
+1940,Udaipur,Goverdhan Vilas,21-03-2024,20:00:00,252,High,Yes,Rainy,Residential
+1941,Udaipur,Hiran Magri,21-03-2024,21:00:00,148,High,Yes,Foggy,City Road
+1942,Udaipur,Udiapole,21-03-2024,22:00:00,187,Low,Yes,Clear,Residential
+1943,Udaipur,Udiapole,21-03-2024,23:00:00,199,Low,Yes,Clear,Residential
+1944,Udaipur,Surajpole,22-03-2024,00:00:00,119,Low,Yes,Rainy,NH
+1945,Udaipur,Goverdhan Vilas,22-03-2024,01:00:00,453,Low,Yes,Foggy,City Road
+1946,Udaipur,Hiran Magri,22-03-2024,02:00:00,66,High,Yes,Foggy,City Road
+1947,Udaipur,Surajpole,22-03-2024,03:00:00,278,Medium,Yes,Rainy,Residential
+1948,Udaipur,Udiapole,22-03-2024,04:00:00,112,Medium,Yes,Clear,NH
+1949,Udaipur,Chetak Circle,22-03-2024,05:00:00,362,Medium,Yes,Clear,NH
+1950,Udaipur,Fatehpura,22-03-2024,06:00:00,492,Low,No,Foggy,Residential
+1951,Udaipur,Fatehpura,22-03-2024,07:00:00,240,Medium,No,Clear,City Road
+1952,Udaipur,Fatehpura,22-03-2024,08:00:00,342,Low,Yes,Clear,City Road
+1953,Udaipur,Fatehpura,22-03-2024,09:00:00,176,Low,No,Rainy,Residential
+1954,Udaipur,Goverdhan Vilas,22-03-2024,10:00:00,483,High,Yes,Clear,Residential
+1955,Udaipur,Chetak Circle,22-03-2024,11:00:00,126,Low,Yes,Clear,NH
+1956,Udaipur,Hiran Magri,22-03-2024,12:00:00,217,Low,No,Rainy,City Road
+1957,Udaipur,Fatehpura,22-03-2024,13:00:00,134,Medium,No,Rainy,NH
+1958,Udaipur,Chetak Circle,22-03-2024,14:00:00,65,Medium,Yes,Rainy,City Road
+1959,Udaipur,Hiran Magri,22-03-2024,15:00:00,193,Medium,No,Clear,Residential
+1960,Udaipur,Goverdhan Vilas,22-03-2024,16:00:00,207,Medium,No,Clear,Residential
+1961,Udaipur,Surajpole,22-03-2024,17:00:00,355,Low,No,Foggy,NH
+1962,Udaipur,Fatehpura,22-03-2024,18:00:00,134,Medium,Yes,Rainy,Residential
+1963,Udaipur,Fatehpura,22-03-2024,19:00:00,93,High,No,Clear,City Road
+1964,Udaipur,Udiapole,22-03-2024,20:00:00,199,Low,Yes,Clear,Residential
+1965,Udaipur,Hiran Magri,22-03-2024,21:00:00,490,High,No,Rainy,City Road
+1966,Udaipur,Fatehpura,22-03-2024,22:00:00,428,Medium,Yes,Rainy,City Road
+1967,Udaipur,Surajpole,22-03-2024,23:00:00,58,High,No,Clear,NH
+1968,Udaipur,Goverdhan Vilas,23-03-2024,00:00:00,434,Medium,No,Foggy,Residential
+1969,Udaipur,Hiran Magri,23-03-2024,01:00:00,358,High,No,Rainy,NH
+1970,Udaipur,Chetak Circle,23-03-2024,02:00:00,153,High,Yes,Rainy,City Road
+1971,Udaipur,Surajpole,23-03-2024,03:00:00,365,Low,Yes,Clear,NH
+1972,Udaipur,Chetak Circle,23-03-2024,04:00:00,84,Low,Yes,Rainy,NH
+1973,Udaipur,Hiran Magri,23-03-2024,05:00:00,263,Medium,Yes,Foggy,NH
+1974,Udaipur,Udiapole,23-03-2024,06:00:00,53,High,Yes,Clear,NH
+1975,Udaipur,Goverdhan Vilas,23-03-2024,07:00:00,183,High,No,Clear,NH
+1976,Udaipur,Surajpole,23-03-2024,08:00:00,357,Medium,Yes,Clear,City Road
+1977,Udaipur,Chetak Circle,23-03-2024,09:00:00,303,Low,Yes,Clear,Residential
+1978,Udaipur,Chetak Circle,23-03-2024,10:00:00,299,Medium,Yes,Rainy,City Road
+1979,Udaipur,Udiapole,23-03-2024,11:00:00,392,Low,Yes,Foggy,NH
+1980,Udaipur,Fatehpura,23-03-2024,12:00:00,193,Low,No,Foggy,Residential
+1981,Udaipur,Goverdhan Vilas,23-03-2024,13:00:00,129,Low,No,Rainy,NH
+1982,Udaipur,Goverdhan Vilas,23-03-2024,14:00:00,56,Medium,Yes,Rainy,Residential
+1983,Udaipur,Chetak Circle,23-03-2024,15:00:00,374,High,Yes,Foggy,Residential
+1984,Udaipur,Chetak Circle,23-03-2024,16:00:00,241,Low,No,Foggy,NH
+1985,Udaipur,Hiran Magri,23-03-2024,17:00:00,215,Medium,No,Clear,City Road
+1986,Udaipur,Fatehpura,23-03-2024,18:00:00,256,High,No,Foggy,NH
+1987,Udaipur,Fatehpura,23-03-2024,19:00:00,430,Low,No,Rainy,Residential
+1988,Udaipur,Surajpole,23-03-2024,20:00:00,477,Medium,No,Rainy,City Road
+1989,Udaipur,Chetak Circle,23-03-2024,21:00:00,481,Medium,No,Clear,City Road
+1990,Udaipur,Goverdhan Vilas,23-03-2024,22:00:00,393,Medium,Yes,Clear,Residential
+1991,Udaipur,Udiapole,23-03-2024,23:00:00,422,High,Yes,Rainy,NH
+1992,Udaipur,Surajpole,24-03-2024,00:00:00,367,Low,No,Rainy,Residential
+1993,Udaipur,Udiapole,24-03-2024,01:00:00,454,Low,Yes,Rainy,NH
+1994,Udaipur,Surajpole,24-03-2024,02:00:00,447,High,No,Rainy,City Road
+1995,Udaipur,Fatehpura,24-03-2024,03:00:00,224,Medium,No,Clear,NH
+1996,Udaipur,Goverdhan Vilas,24-03-2024,04:00:00,473,Medium,No,Clear,City Road
+1997,Udaipur,Chetak Circle,24-03-2024,05:00:00,404,Low,Yes,Clear,Residential
+1998,Udaipur,Hiran Magri,24-03-2024,06:00:00,357,Low,Yes,Clear,NH
+1999,Udaipur,Surajpole,24-03-2024,07:00:00,428,Low,Yes,Foggy,Residential
+2000,Udaipur,Udiapole,24-03-2024,08:00:00,375,High,Yes,Foggy,NH

@@ -1,0 +1,2001 @@
+Project ID,Use Case Quality Score,Defect Count,Project Duration (months),Client Satisfaction,Remarks
+P0001,sixty,5 defects,8 m,Medium ,"Incomplete UC, rework happened"
+P0002,100 ,eight,14,low,Well defined use cases
+P0003,90%,5 defects,14,High,"Incomplete UC, rework happened"
+P0004,N/A,15 ,9,Medium ,good but unclear alt flows
+P0005,sixty,zero,12months,low,Well defined use cases
+P0006, 45%,5 defects,,low,poorly written
+P0007,sixty,,8 m,LOW , some missing flows
+P0008,100 ,zero,10,low,Well defined use cases
+P0009,100 ,zero,14,LOW ,UC not reviewed
+P0010,100 ,15 ,12months,, some missing flows
+P0011,100 ,,8 m,LOW ,UC not reviewed
+P0012,sixty,eight,9,High,poorly written
+P0013,,,12months,low,poorly written
+P0014,85,15 ,,low, Excellent documentation 
+P0015,N/A,5 defects,10,High,poorly written
+P0016,,15 ,10,Medium , Excellent documentation 
+P0017,100 ,15 ,14,HIGH,Well defined use cases
+P0018, 45%,,10,Medium ,UC not reviewed
+P0019,90%,,,low, Excellent documentation 
+P0020,,,8 m,low, some missing flows
+P0021, 45%,15 ,N/A,LOW , some missing flows
+P0022,sixty,zero,,High,"Incomplete UC, rework happened"
+P0023,,12,10,High,Well defined use cases
+P0024,,12,12months,Medium , Excellent documentation 
+P0025, 70,12,9,low,poorly written
+P0026,85,12,9,LOW , Excellent documentation 
+P0027, 45%,20,10,,UC not reviewed
+P0028,85,,9,HIGH, some missing flows
+P0029,N/A,12,,,"Incomplete UC, rework happened"
+P0030,sixty,20,9,HIGH,"Incomplete UC, rework happened"
+P0031,N/A,zero,,LOW ,good but unclear alt flows
+P0032,90%,15 ,N/A,High,Well defined use cases
+P0033,85,20,N/A,HIGH,
+P0034,100 ,,9,LOW , Excellent documentation 
+P0035,,eight, eleven,Medium ,poorly written
+P0036, 70,12,9,,good but unclear alt flows
+P0037,100 ,eight,12months,, Excellent documentation 
+P0038, 70,12,10,LOW , some missing flows
+P0039,100 ,5 defects,9,low,poorly written
+P0040,90%,eight,10,HIGH,UC not reviewed
+P0041,90%,12,8 m,,
+P0042, 45%,zero,14,Medium , some missing flows
+P0043, 45%,zero,12months,HIGH,UC not reviewed
+P0044,,12,,,"Incomplete UC, rework happened"
+P0045,N/A,15 ,9,,"Incomplete UC, rework happened"
+P0046,N/A,20,9,HIGH,good but unclear alt flows
+P0047, 45%,5 defects,8 m,High,
+P0048,90%,eight,9,Medium ,good but unclear alt flows
+P0049,sixty,5 defects,,low,
+P0050, 45%,20,10,,UC not reviewed
+P0051,,15 ,14,HIGH,good but unclear alt flows
+P0052,85,,N/A,HIGH,good but unclear alt flows
+P0053, 45%,15 ,10,, some missing flows
+P0054,100 ,, eleven,Medium ,Well defined use cases
+P0055,sixty,, eleven,LOW ,poorly written
+P0056,N/A,zero,14,Medium ,UC not reviewed
+P0057,N/A,20,14,LOW ,poorly written
+P0058,,20,14,LOW , Excellent documentation 
+P0059,,eight,10,Medium ,
+P0060,N/A,12,14,,
+P0061,sixty,,N/A,LOW ,"Incomplete UC, rework happened"
+P0062,100 ,5 defects,,low,good but unclear alt flows
+P0063,85,,N/A,High,
+P0064,100 ,,10,High, some missing flows
+P0065, 70,5 defects,14,low,Well defined use cases
+P0066, 70,5 defects,10,High, some missing flows
+P0067,90%,12,,low,Well defined use cases
+P0068,90%,5 defects,12months,, Excellent documentation 
+P0069,sixty,,,,good but unclear alt flows
+P0070,N/A,5 defects,10,Medium ,poorly written
+P0071,sixty,12,12months,low, Excellent documentation 
+P0072,90%,15 ,9,HIGH,Well defined use cases
+P0073,,5 defects,10,Medium ,Well defined use cases
+P0074,90%,zero,14,,"Incomplete UC, rework happened"
+P0075,85,eight,9,High,UC not reviewed
+P0076,sixty,5 defects,,low,UC not reviewed
+P0077, 45%,15 ,N/A,HIGH, Excellent documentation 
+P0078, 70,eight,,High,poorly written
+P0079,85,,N/A,LOW , some missing flows
+P0080,N/A,20,,low, Excellent documentation 
+P0081,,5 defects,N/A,,Well defined use cases
+P0082,sixty,12,12months,,
+P0083,85,15 ,N/A,LOW ,good but unclear alt flows
+P0084,N/A,,,,good but unclear alt flows
+P0085,100 ,zero,10,HIGH,Well defined use cases
+P0086,N/A,5 defects,,, Excellent documentation 
+P0087,90%,15 ,12months,LOW ,poorly written
+P0088,,5 defects,N/A,LOW , Excellent documentation 
+P0089,85,20,14,LOW ,
+P0090,N/A,zero,N/A,low, some missing flows
+P0091,N/A,15 ,14,Medium , some missing flows
+P0092,90%,zero,8 m,LOW ,
+P0093,85,,14,LOW , some missing flows
+P0094,90%,,10,HIGH,
+P0095,sixty,5 defects, eleven,HIGH,"Incomplete UC, rework happened"
+P0096,100 ,,14,LOW ,good but unclear alt flows
+P0097, 70,12,14,Medium ,"Incomplete UC, rework happened"
+P0098,100 ,zero,10,LOW , Excellent documentation 
+P0099,90%,5 defects,9,low,poorly written
+P0100,sixty,eight,8 m,LOW ,poorly written
+P0101,,zero,10,,"Incomplete UC, rework happened"
+P0102, 45%,12,14,High,"Incomplete UC, rework happened"
+P0103,90%,eight,N/A,HIGH,good but unclear alt flows
+P0104, 70,eight, eleven,LOW ,
+P0105,,,N/A,,"Incomplete UC, rework happened"
+P0106, 70,5 defects,,Medium , some missing flows
+P0107,sixty,15 ,N/A,,poorly written
+P0108,85,,10,HIGH,
+P0109,sixty,15 ,,low,UC not reviewed
+P0110,N/A,15 ,N/A,LOW ,"Incomplete UC, rework happened"
+P0111,100 ,,N/A,low,
+P0112,100 ,zero,10,HIGH,Well defined use cases
+P0113, 45%,,,,"Incomplete UC, rework happened"
+P0114,100 ,zero,12months,Medium , Excellent documentation 
+P0115,85,5 defects,N/A,low,"Incomplete UC, rework happened"
+P0116,85,eight,14,HIGH, Excellent documentation 
+P0117,100 ,5 defects,N/A,Medium ,good but unclear alt flows
+P0118, 45%,,9,low,Well defined use cases
+P0119,,15 ,10,High,
+P0120,,, eleven,low,
+P0121,90%,5 defects,N/A,low,Well defined use cases
+P0122, 45%,12,14,low, Excellent documentation 
+P0123,,,9,LOW ,poorly written
+P0124,100 ,,10,Medium ,"Incomplete UC, rework happened"
+P0125,N/A,12,9,HIGH, some missing flows
+P0126,100 ,5 defects,N/A,HIGH,UC not reviewed
+P0127,90%,20,,Medium ,UC not reviewed
+P0128,100 ,eight,14,Medium , some missing flows
+P0129,100 ,zero,9,High,"Incomplete UC, rework happened"
+P0130, 70,12,10,Medium ,good but unclear alt flows
+P0131,,12,N/A,HIGH,good but unclear alt flows
+P0132,sixty,,12months,HIGH,"Incomplete UC, rework happened"
+P0133,sixty,,12months,HIGH,"Incomplete UC, rework happened"
+P0134,85,5 defects,14,LOW ,good but unclear alt flows
+P0135, 70,5 defects,9,HIGH, Excellent documentation 
+P0136,,eight,12months,High,UC not reviewed
+P0137, 45%,zero,8 m,low,"Incomplete UC, rework happened"
+P0138,,zero,8 m,LOW ,"Incomplete UC, rework happened"
+P0139,90%,20,N/A,Medium ,
+P0140, 70,20,14,LOW ,Well defined use cases
+P0141,90%,,10,HIGH,poorly written
+P0142, 45%,15 ,N/A,High, some missing flows
+P0143,100 ,20,10,,"Incomplete UC, rework happened"
+P0144,,zero,N/A,,poorly written
+P0145,,15 ,9,HIGH,good but unclear alt flows
+P0146,90%,zero,,LOW ,good but unclear alt flows
+P0147,,,9,Medium ,Well defined use cases
+P0148,90%,eight,9,,good but unclear alt flows
+P0149,sixty,eight, eleven,HIGH,"Incomplete UC, rework happened"
+P0150,,, eleven,HIGH, Excellent documentation 
+P0151,N/A,20,,,UC not reviewed
+P0152,90%,eight,8 m,LOW ,good but unclear alt flows
+P0153,sixty,eight,10,High,good but unclear alt flows
+P0154, 45%,eight,10,High,UC not reviewed
+P0155,85,15 ,14,low,Well defined use cases
+P0156,N/A,15 ,14,HIGH,UC not reviewed
+P0157,,,,low,good but unclear alt flows
+P0158,N/A,12,9,LOW , Excellent documentation 
+P0159,100 ,zero,8 m,High,poorly written
+P0160,90%,20, eleven,Medium , some missing flows
+P0161,100 ,,10,LOW ,Well defined use cases
+P0162,,zero,12months,LOW , some missing flows
+P0163,,,14,High,UC not reviewed
+P0164,85,eight,,Medium ,Well defined use cases
+P0165,100 ,eight,14,HIGH,
+P0166, 45%,20,9,High,UC not reviewed
+P0167,,eight,8 m,Medium ,Well defined use cases
+P0168,90%,zero,9,HIGH,poorly written
+P0169,90%,5 defects,8 m,High,poorly written
+P0170, 70,15 ,9,low,"Incomplete UC, rework happened"
+P0171,,zero,14,LOW ,good but unclear alt flows
+P0172,85,12,8 m,Medium ,good but unclear alt flows
+P0173,sixty,20,,Medium , some missing flows
+P0174,90%,,N/A,low,Well defined use cases
+P0175,,15 ,,LOW , Excellent documentation 
+P0176,N/A,, eleven,High,
+P0177,,20,N/A,low,
+P0178, 70,,12months,low,good but unclear alt flows
+P0179,100 ,5 defects,10,HIGH,good but unclear alt flows
+P0180,,,12months,High,Well defined use cases
+P0181,85,20, eleven,LOW ,Well defined use cases
+P0182,85,zero,N/A,HIGH,poorly written
+P0183,100 ,20,12months,Medium ,
+P0184,,20,14,low,UC not reviewed
+P0185, 70,zero, eleven,Medium ,poorly written
+P0186,N/A,12,9,High,UC not reviewed
+P0187,,eight,9,HIGH,Well defined use cases
+P0188,,20,12months,LOW ,"Incomplete UC, rework happened"
+P0189,N/A,,9,LOW ,
+P0190,100 ,,,LOW ,poorly written
+P0191, 70,20,12months,low,UC not reviewed
+P0192,100 ,5 defects,,,
+P0193,sixty,eight,10,,poorly written
+P0194,,,12months,, Excellent documentation 
+P0195,sixty,,,LOW ,good but unclear alt flows
+P0196,85,5 defects, eleven,,Well defined use cases
+P0197, 45%,eight,N/A,High,poorly written
+P0198, 45%,,9,HIGH,Well defined use cases
+P0199,N/A,zero,N/A,Medium , some missing flows
+P0200,,15 ,8 m,low,"Incomplete UC, rework happened"
+P0201,90%,,12months,,UC not reviewed
+P0202,85,,9,Medium , Excellent documentation 
+P0203,,, eleven,High,Well defined use cases
+P0204,90%,20,12months,low, Excellent documentation 
+P0205,85,15 ,12months,,poorly written
+P0206,100 ,20,10,,UC not reviewed
+P0207,N/A,12,N/A,LOW ,poorly written
+P0208,sixty,5 defects,12months,Medium , some missing flows
+P0209, 45%,zero,,High,poorly written
+P0210,N/A,12, eleven,Medium ,UC not reviewed
+P0211,90%,eight,14,LOW ,Well defined use cases
+P0212,85,,14,,
+P0213,,zero,8 m,HIGH,"Incomplete UC, rework happened"
+P0214,,5 defects, eleven,,UC not reviewed
+P0215,N/A,,14,Medium ,
+P0216, 70,zero,10,LOW , some missing flows
+P0217,N/A,zero,10,low,Well defined use cases
+P0218,sixty,5 defects,10,Medium ,
+P0219,,12,14,Medium , some missing flows
+P0220,100 ,,12months,Medium ,good but unclear alt flows
+P0221,90%,5 defects,10,HIGH,
+P0222, 45%,,14,LOW , Excellent documentation 
+P0223, 70,,,High,Well defined use cases
+P0224,,,14,,poorly written
+P0225,,,N/A,High,good but unclear alt flows
+P0226,N/A,12,12months,HIGH,good but unclear alt flows
+P0227,,15 , eleven,low,good but unclear alt flows
+P0228, 70,20,14,HIGH,Well defined use cases
+P0229,,15 ,12months,HIGH, Excellent documentation 
+P0230, 45%,,14,High,
+P0231,85,, eleven,,UC not reviewed
+P0232,sixty,,9,low,
+P0233, 45%,20,10,High, Excellent documentation 
+P0234,,zero,,LOW ,poorly written
+P0235, 70,15 ,14,,"Incomplete UC, rework happened"
+P0236,85,20,9,low, Excellent documentation 
+P0237, 45%,15 ,,low, Excellent documentation 
+P0238,,zero,8 m,low,Well defined use cases
+P0239,N/A,12,14,low, Excellent documentation 
+P0240, 70,zero,,HIGH,poorly written
+P0241, 70,eight,14,,"Incomplete UC, rework happened"
+P0242,N/A,zero,N/A,,Well defined use cases
+P0243,,15 ,12months,LOW ,UC not reviewed
+P0244, 45%,15 ,8 m,low,UC not reviewed
+P0245, 70,12, eleven,LOW ,UC not reviewed
+P0246,,,N/A,HIGH,"Incomplete UC, rework happened"
+P0247,90%,5 defects, eleven,HIGH,"Incomplete UC, rework happened"
+P0248,90%,,9,HIGH,
+P0249,85,, eleven,HIGH,UC not reviewed
+P0250,85,zero,10,low,UC not reviewed
+P0251,90%,, eleven,Medium ,poorly written
+P0252,85,20,12months,,poorly written
+P0253, 70,20,,Medium ,Well defined use cases
+P0254,sixty,20,14,HIGH, Excellent documentation 
+P0255, 45%,,12months,Medium , Excellent documentation 
+P0256,85,,N/A,High,poorly written
+P0257,85,eight,10,low,good but unclear alt flows
+P0258,100 ,20, eleven,High,UC not reviewed
+P0259,100 ,12, eleven,HIGH,Well defined use cases
+P0260,,zero,10,HIGH,"Incomplete UC, rework happened"
+P0261,N/A,5 defects,9,LOW ,Well defined use cases
+P0262, 45%,, eleven,,Well defined use cases
+P0263,,eight,8 m,LOW , Excellent documentation 
+P0264, 70,12, eleven,,"Incomplete UC, rework happened"
+P0265,100 ,,12months,HIGH,"Incomplete UC, rework happened"
+P0266,,,14,Medium , some missing flows
+P0267, 70,20, eleven,High,good but unclear alt flows
+P0268,90%,,N/A,HIGH,UC not reviewed
+P0269,N/A,,14,low,
+P0270,90%,20,14,low,UC not reviewed
+P0271, 70,zero,12months,LOW ,poorly written
+P0272,100 ,,14,LOW ,Well defined use cases
+P0273, 45%,,8 m,High,poorly written
+P0274,90%,20,12months,High,Well defined use cases
+P0275,sixty,,N/A,LOW , some missing flows
+P0276, 70,zero,9,low,good but unclear alt flows
+P0277,sixty,5 defects,8 m,HIGH,UC not reviewed
+P0278,sixty,zero,10,LOW ,UC not reviewed
+P0279,N/A,,N/A,HIGH,UC not reviewed
+P0280, 70,,14,Medium ,"Incomplete UC, rework happened"
+P0281,sixty,,10,Medium ,good but unclear alt flows
+P0282, 70,12,8 m,low,good but unclear alt flows
+P0283,N/A,eight,N/A,LOW ,good but unclear alt flows
+P0284,,zero,10,Medium ,"Incomplete UC, rework happened"
+P0285, 45%,eight,12months,LOW , some missing flows
+P0286,N/A,,12months,High,UC not reviewed
+P0287,90%,5 defects,9,HIGH,poorly written
+P0288,sixty,15 , eleven,HIGH,good but unclear alt flows
+P0289, 45%,5 defects,14,High,"Incomplete UC, rework happened"
+P0290,sixty,,10,HIGH, Excellent documentation 
+P0291, 70,15 ,9,LOW ,UC not reviewed
+P0292, 45%,eight,,High,UC not reviewed
+P0293,N/A,20,14,High,poorly written
+P0294,85,15 ,,,poorly written
+P0295,,12, eleven,low, Excellent documentation 
+P0296,90%,zero,12months,HIGH,poorly written
+P0297,N/A,5 defects,9,Medium ,UC not reviewed
+P0298,,,8 m,HIGH,UC not reviewed
+P0299,90%,eight,9,Medium ,Well defined use cases
+P0300,85,5 defects,8 m,HIGH,poorly written
+P0301,85,15 ,8 m,, Excellent documentation 
+P0302, 45%,,N/A,High,poorly written
+P0303,85,eight,8 m,Medium ,"Incomplete UC, rework happened"
+P0304, 70,eight,N/A,High,
+P0305,100 ,zero, eleven,Medium ,"Incomplete UC, rework happened"
+P0306,,15 ,12months,HIGH,good but unclear alt flows
+P0307, 45%,12,,High,poorly written
+P0308,90%,zero,N/A,low,Well defined use cases
+P0309, 70,eight, eleven,High, Excellent documentation 
+P0310,,,10,LOW ,good but unclear alt flows
+P0311, 70,12,14,LOW ,poorly written
+P0312, 45%,eight,N/A,Medium ,Well defined use cases
+P0313,85,12, eleven,Medium ,poorly written
+P0314, 45%,12,14,Medium ,"Incomplete UC, rework happened"
+P0315,85,12,N/A,HIGH,UC not reviewed
+P0316,N/A,,N/A,High,"Incomplete UC, rework happened"
+P0317,100 ,,9,Medium , some missing flows
+P0318, 70,20,8 m,low,poorly written
+P0319,,20,8 m,LOW , Excellent documentation 
+P0320,sixty,5 defects,8 m,HIGH,poorly written
+P0321, 70,12,9,HIGH,poorly written
+P0322,,,10,Medium , some missing flows
+P0323,sixty,,,High,good but unclear alt flows
+P0324,sixty,eight,9,Medium ,UC not reviewed
+P0325,,12,14,LOW ,
+P0326,85,5 defects,N/A,LOW ,Well defined use cases
+P0327,,zero,14,Medium ,"Incomplete UC, rework happened"
+P0328,85,,9,,good but unclear alt flows
+P0329,,15 ,N/A,Medium , Excellent documentation 
+P0330, 45%,zero,10,LOW ,UC not reviewed
+P0331,,5 defects,8 m,low,poorly written
+P0332,,,N/A,Medium ,poorly written
+P0333,85,,10,LOW ,good but unclear alt flows
+P0334, 70,zero,,HIGH,UC not reviewed
+P0335, 70,zero,8 m,Medium ,UC not reviewed
+P0336,90%,zero, eleven,HIGH, Excellent documentation 
+P0337,,,,,"Incomplete UC, rework happened"
+P0338,100 ,, eleven,HIGH,poorly written
+P0339,90%,20,14,High,Well defined use cases
+P0340,90%,eight,8 m,HIGH,poorly written
+P0341, 45%,zero,8 m,High, some missing flows
+P0342,85,15 ,9,LOW ,
+P0343, 70,20,12months,HIGH, some missing flows
+P0344,N/A,, eleven,low,Well defined use cases
+P0345, 70,,,Medium ,poorly written
+P0346,sixty,5 defects,N/A,HIGH,good but unclear alt flows
+P0347,90%,20,9,low, Excellent documentation 
+P0348, 45%,,N/A,low, Excellent documentation 
+P0349,sixty,12,9,High,
+P0350,100 ,eight, eleven,High,UC not reviewed
+P0351,N/A,eight,14,Medium ,
+P0352,N/A,20,8 m,LOW ,Well defined use cases
+P0353,sixty,12, eleven,LOW ,UC not reviewed
+P0354,100 ,20,14,HIGH, Excellent documentation 
+P0355,,,10,low, Excellent documentation 
+P0356,,12,N/A,LOW , Excellent documentation 
+P0357, 70,eight, eleven,HIGH,poorly written
+P0358,85,15 , eleven,,Well defined use cases
+P0359,,20,N/A,,good but unclear alt flows
+P0360,N/A,15 ,10,low,"Incomplete UC, rework happened"
+P0361,,15 ,12months,,Well defined use cases
+P0362,90%,20,9,,UC not reviewed
+P0363,85,5 defects,9,, Excellent documentation 
+P0364,sixty,12,8 m,low, some missing flows
+P0365, 45%,eight,12months,HIGH,good but unclear alt flows
+P0366,N/A,zero,,Medium , some missing flows
+P0367, 45%,eight,,, Excellent documentation 
+P0368,,12,N/A,High,UC not reviewed
+P0369, 70,,,, Excellent documentation 
+P0370,sixty,zero,8 m,LOW , Excellent documentation 
+P0371,100 ,12,8 m,HIGH,UC not reviewed
+P0372, 45%,20,14,,poorly written
+P0373, 45%,5 defects,10,LOW ,"Incomplete UC, rework happened"
+P0374,,20,14,HIGH, Excellent documentation 
+P0375,85,,,Medium ,"Incomplete UC, rework happened"
+P0376,,20,10,low, Excellent documentation 
+P0377,N/A,15 ,,High,
+P0378,sixty,15 ,N/A,LOW , some missing flows
+P0379,N/A,zero,N/A,LOW ,
+P0380, 45%,15 ,9,LOW ,good but unclear alt flows
+P0381,,eight,8 m,LOW , Excellent documentation 
+P0382,sixty,eight,9,LOW ,
+P0383, 45%,5 defects,8 m,,"Incomplete UC, rework happened"
+P0384,N/A,12,10,Medium ,poorly written
+P0385,100 ,12,8 m,Medium , Excellent documentation 
+P0386,,15 ,8 m,,UC not reviewed
+P0387,100 ,,8 m,,poorly written
+P0388,90%,12,,low,poorly written
+P0389,85,, eleven,Medium ,"Incomplete UC, rework happened"
+P0390,90%,zero,10,Medium ,UC not reviewed
+P0391,N/A,,8 m,HIGH,UC not reviewed
+P0392,90%,, eleven,LOW ,good but unclear alt flows
+P0393, 45%,15 ,8 m,LOW ,Well defined use cases
+P0394,sixty,15 , eleven,low, Excellent documentation 
+P0395,,15 , eleven,low,poorly written
+P0396,85,20,N/A,,
+P0397,N/A,,12months,High,poorly written
+P0398, 70,zero,12months,HIGH,"Incomplete UC, rework happened"
+P0399,100 ,zero,N/A,low, some missing flows
+P0400, 70,eight,14,LOW ,Well defined use cases
+P0401,90%,5 defects,14,, Excellent documentation 
+P0402, 45%,zero,10,LOW ,UC not reviewed
+P0403, 45%,, eleven,HIGH, Excellent documentation 
+P0404, 70,zero,9,Medium ,UC not reviewed
+P0405,90%,5 defects,N/A,High,
+P0406, 45%,,N/A,Medium ,"Incomplete UC, rework happened"
+P0407,,5 defects,,LOW ,poorly written
+P0408,,,N/A,HIGH,
+P0409,,12,,,poorly written
+P0410, 45%,zero,,LOW , some missing flows
+P0411,,12,8 m,,Well defined use cases
+P0412,100 ,zero,N/A,,Well defined use cases
+P0413,N/A,,12months,,poorly written
+P0414,,,12months,,"Incomplete UC, rework happened"
+P0415,,eight,14,LOW ,
+P0416,N/A,zero,12months,,"Incomplete UC, rework happened"
+P0417,85,,8 m,low,poorly written
+P0418, 70,15 ,10,LOW ,UC not reviewed
+P0419,sixty,eight,9,Medium , Excellent documentation 
+P0420,,,12months,LOW ,Well defined use cases
+P0421,,5 defects,9,High,UC not reviewed
+P0422,sixty,,,,poorly written
+P0423,,15 ,N/A,LOW , Excellent documentation 
+P0424, 70,12,N/A,Medium , some missing flows
+P0425,,,8 m,Medium ,poorly written
+P0426,100 ,12,,HIGH, some missing flows
+P0427,85,12,10,Medium , Excellent documentation 
+P0428,90%,15 ,12months,Medium ,Well defined use cases
+P0429,N/A,zero,10,High,good but unclear alt flows
+P0430, 70,eight, eleven,,
+P0431,,,N/A,High, Excellent documentation 
+P0432,N/A,5 defects,9,,poorly written
+P0433,85,20,12months,LOW ,"Incomplete UC, rework happened"
+P0434,85,eight,12months,low,UC not reviewed
+P0435,90%,eight,N/A,LOW ,
+P0436,85,15 ,10,low,"Incomplete UC, rework happened"
+P0437,85,zero,8 m,HIGH,
+P0438, 70,5 defects, eleven,High, some missing flows
+P0439,90%,12,9,,good but unclear alt flows
+P0440,,zero,9,, Excellent documentation 
+P0441, 70,,8 m,LOW ,poorly written
+P0442, 70,12,N/A,HIGH,Well defined use cases
+P0443, 70,12,8 m,HIGH, Excellent documentation 
+P0444,100 ,eight,,low, Excellent documentation 
+P0445,100 ,12,9,,good but unclear alt flows
+P0446,sixty,,8 m,Medium ,Well defined use cases
+P0447,85,20,8 m,low,"Incomplete UC, rework happened"
+P0448, 45%,,N/A,HIGH,UC not reviewed
+P0449, 45%,,8 m,Medium ,poorly written
+P0450,90%,,14,Medium ,"Incomplete UC, rework happened"
+P0451, 45%,20,12months,,Well defined use cases
+P0452, 45%,zero,N/A,,good but unclear alt flows
+P0453,100 ,20,N/A,,UC not reviewed
+P0454,100 ,,N/A,low,
+P0455,100 ,,12months,High,UC not reviewed
+P0456,85,, eleven,LOW ,"Incomplete UC, rework happened"
+P0457,90%,5 defects, eleven,High,"Incomplete UC, rework happened"
+P0458,,eight,12months,HIGH,Well defined use cases
+P0459,,20,10,low,UC not reviewed
+P0460, 45%,eight, eleven,HIGH, some missing flows
+P0461, 45%,20,N/A,low,"Incomplete UC, rework happened"
+P0462,N/A,5 defects,N/A,LOW ,"Incomplete UC, rework happened"
+P0463,,5 defects,8 m,low,"Incomplete UC, rework happened"
+P0464,85,,N/A,low,Well defined use cases
+P0465,,,12months,LOW ,UC not reviewed
+P0466,100 ,eight,8 m,High, Excellent documentation 
+P0467,85,,12months,LOW ,UC not reviewed
+P0468,90%,20, eleven,Medium ,poorly written
+P0469,,12, eleven,,poorly written
+P0470, 45%,5 defects,9,Medium ,Well defined use cases
+P0471,100 ,,,High,"Incomplete UC, rework happened"
+P0472,N/A,5 defects,10,HIGH,UC not reviewed
+P0473,100 ,5 defects,10,, Excellent documentation 
+P0474,,12,,Medium ,Well defined use cases
+P0475, 70,,12months,,poorly written
+P0476, 45%,,,LOW ,poorly written
+P0477,N/A,,12months,High,Well defined use cases
+P0478, 45%,,12months,Medium , some missing flows
+P0479,sixty,,8 m,HIGH,poorly written
+P0480,,zero,9,LOW ,UC not reviewed
+P0481,85,5 defects, eleven,, Excellent documentation 
+P0482, 70,zero,,HIGH, Excellent documentation 
+P0483,,zero,12months,Medium ,poorly written
+P0484,90%,15 ,N/A,Medium ,Well defined use cases
+P0485, 45%,12,14,,UC not reviewed
+P0486,sixty,5 defects,9,High,good but unclear alt flows
+P0487, 45%,5 defects, eleven,LOW ,
+P0488,sixty,5 defects,,LOW ,good but unclear alt flows
+P0489,100 ,12,14,HIGH, some missing flows
+P0490,85,,,low,"Incomplete UC, rework happened"
+P0491,,,9,LOW , some missing flows
+P0492, 45%,12,,LOW , some missing flows
+P0493,90%,zero, eleven,low, Excellent documentation 
+P0494,,eight,10,low,Well defined use cases
+P0495,,zero,8 m,low,UC not reviewed
+P0496, 45%,, eleven,low,Well defined use cases
+P0497,90%,,12months,HIGH,UC not reviewed
+P0498,N/A,,,LOW , Excellent documentation 
+P0499,90%,12,12months,High,Well defined use cases
+P0500,85,5 defects,14,,"Incomplete UC, rework happened"
+P0501,90%,12,8 m,HIGH,Well defined use cases
+P0502, 70,12,9,HIGH,UC not reviewed
+P0503,,,,HIGH,
+P0504,90%,,9,, some missing flows
+P0505,sixty,eight,12months,low,UC not reviewed
+P0506,N/A,,8 m,,good but unclear alt flows
+P0507, 70,,N/A,low,good but unclear alt flows
+P0508, 70,5 defects,14,HIGH, some missing flows
+P0509,85,eight,,Medium ,"Incomplete UC, rework happened"
+P0510,sixty,,10,,poorly written
+P0511,90%,eight,9,low,poorly written
+P0512, 45%,eight,10,HIGH, some missing flows
+P0513,N/A,eight,8 m,low,"Incomplete UC, rework happened"
+P0514,100 ,15 ,N/A,LOW , Excellent documentation 
+P0515, 70,eight,N/A,HIGH,"Incomplete UC, rework happened"
+P0516,,12,14,High,"Incomplete UC, rework happened"
+P0517,85,, eleven,High, Excellent documentation 
+P0518,,12,,,UC not reviewed
+P0519,90%,zero,10,, Excellent documentation 
+P0520, 70,5 defects, eleven,Medium ,poorly written
+P0521,,5 defects,8 m,Medium ,poorly written
+P0522,sixty,zero,9,HIGH, some missing flows
+P0523, 70,,N/A,High,UC not reviewed
+P0524,N/A,zero,12months,High,poorly written
+P0525,N/A,12,12months,High,UC not reviewed
+P0526,N/A,zero,12months,HIGH,poorly written
+P0527, 70,5 defects,10,low, Excellent documentation 
+P0528,100 ,15 ,N/A,High,Well defined use cases
+P0529,,15 ,12months,Medium , Excellent documentation 
+P0530,,,9,Medium ,UC not reviewed
+P0531, 45%,,,High, Excellent documentation 
+P0532,N/A,,8 m,,"Incomplete UC, rework happened"
+P0533, 70,5 defects,8 m,,UC not reviewed
+P0534,,5 defects, eleven,,good but unclear alt flows
+P0535,sixty,20, eleven,low, Excellent documentation 
+P0536, 45%,15 ,8 m,LOW ,UC not reviewed
+P0537,100 ,,8 m,LOW ,good but unclear alt flows
+P0538,90%,15 ,12months,HIGH,Well defined use cases
+P0539,,5 defects,9,,
+P0540,,eight,9,High,good but unclear alt flows
+P0541,,,10,low,poorly written
+P0542,,zero,N/A,low,UC not reviewed
+P0543,N/A,zero, eleven,Medium ,"Incomplete UC, rework happened"
+P0544, 70,eight,14,,good but unclear alt flows
+P0545,sixty,,9,High,good but unclear alt flows
+P0546,85,,N/A,LOW , some missing flows
+P0547,,,10,Medium ,UC not reviewed
+P0548,90%,20,14,low,"Incomplete UC, rework happened"
+P0549,sixty,20, eleven,HIGH,
+P0550,85,15 , eleven,low,
+P0551, 70,5 defects,10,LOW ,poorly written
+P0552,,20,8 m,HIGH,UC not reviewed
+P0553, 45%,5 defects,10,,UC not reviewed
+P0554, 45%,20,14,LOW , Excellent documentation 
+P0555,85,5 defects,12months,HIGH,UC not reviewed
+P0556,,eight,,LOW ,Well defined use cases
+P0557,90%,5 defects,N/A,High,good but unclear alt flows
+P0558,85,eight, eleven,HIGH,poorly written
+P0559,sixty,eight, eleven,Medium , some missing flows
+P0560,N/A,5 defects,14,low,UC not reviewed
+P0561,90%,20,14,LOW ,UC not reviewed
+P0562,90%,15 ,9,low,good but unclear alt flows
+P0563,,,N/A,Medium ,poorly written
+P0564,100 ,12,N/A,High,"Incomplete UC, rework happened"
+P0565,,,9,,"Incomplete UC, rework happened"
+P0566,85,20, eleven,HIGH,
+P0567,85,,9,low, some missing flows
+P0568,,,8 m,High,poorly written
+P0569,sixty,zero,,,good but unclear alt flows
+P0570, 70,,N/A,low, Excellent documentation 
+P0571,90%,12, eleven,High, some missing flows
+P0572,100 ,,,LOW ,"Incomplete UC, rework happened"
+P0573,N/A,,N/A,LOW ,Well defined use cases
+P0574, 70,15 ,9,,
+P0575,,,8 m,,Well defined use cases
+P0576,N/A,5 defects,,Medium ,Well defined use cases
+P0577,90%,5 defects,14,, Excellent documentation 
+P0578,sixty,,14,,"Incomplete UC, rework happened"
+P0579,sixty,, eleven,High,good but unclear alt flows
+P0580, 70,zero,,Medium ,good but unclear alt flows
+P0581,85,,10,,good but unclear alt flows
+P0582,,12,,HIGH,UC not reviewed
+P0583,sixty,5 defects,N/A,High,poorly written
+P0584,N/A,eight,N/A,, Excellent documentation 
+P0585, 45%,12,N/A,High,"Incomplete UC, rework happened"
+P0586,,zero, eleven,,UC not reviewed
+P0587,sixty,,9,low,Well defined use cases
+P0588, 70,12,N/A,HIGH,
+P0589,N/A,12,14,LOW , Excellent documentation 
+P0590,85,,10,low,good but unclear alt flows
+P0591,N/A,12,N/A,LOW ,UC not reviewed
+P0592,90%,,14,,
+P0593,sixty,5 defects,14,High,
+P0594, 70,zero,10,Medium ,Well defined use cases
+P0595,85,eight,14,Medium , some missing flows
+P0596,90%,5 defects,10,HIGH,Well defined use cases
+P0597,,,9,,"Incomplete UC, rework happened"
+P0598,,,12months,LOW ,Well defined use cases
+P0599,85,, eleven,, Excellent documentation 
+P0600,N/A,12,14,LOW ,poorly written
+P0601, 70,, eleven,HIGH,good but unclear alt flows
+P0602,,5 defects,8 m,Medium ,UC not reviewed
+P0603,90%,,14,low, some missing flows
+P0604,,,14,,poorly written
+P0605, 70,5 defects,12months,LOW ,Well defined use cases
+P0606,N/A,5 defects,10,HIGH,poorly written
+P0607,,zero,12months,low, some missing flows
+P0608,sixty,20,10,Medium ,"Incomplete UC, rework happened"
+P0609, 45%,20,N/A,,UC not reviewed
+P0610,sixty,,N/A,low,poorly written
+P0611,,5 defects, eleven,,Well defined use cases
+P0612,90%,20,8 m,Medium ,poorly written
+P0613, 70,20,,,"Incomplete UC, rework happened"
+P0614,,20,8 m,Medium ,Well defined use cases
+P0615,85,20,8 m,Medium ,UC not reviewed
+P0616,N/A,5 defects,N/A,HIGH,good but unclear alt flows
+P0617,90%,zero,9,HIGH,UC not reviewed
+P0618, 70,eight,10,High, Excellent documentation 
+P0619,100 ,12,,HIGH, Excellent documentation 
+P0620,90%,eight,8 m,low,UC not reviewed
+P0621,100 ,zero,10,, Excellent documentation 
+P0622,100 ,20,14,Medium , some missing flows
+P0623,85,,9,Medium ,UC not reviewed
+P0624,,zero,8 m,High,
+P0625,,5 defects,10,HIGH,poorly written
+P0626,90%,20, eleven,Medium ,poorly written
+P0627,sixty,eight,14,HIGH, some missing flows
+P0628, 45%,15 ,8 m,HIGH, some missing flows
+P0629,90%,zero,14,low,UC not reviewed
+P0630,sixty,20, eleven,low,
+P0631,,zero,8 m,HIGH,UC not reviewed
+P0632,90%,12, eleven,low,"Incomplete UC, rework happened"
+P0633,90%,5 defects,14,low,
+P0634,,zero,14,HIGH, some missing flows
+P0635,,,12months,Medium ,"Incomplete UC, rework happened"
+P0636,90%,12,10,High,Well defined use cases
+P0637, 45%,5 defects,9,HIGH,
+P0638,,,,LOW ,UC not reviewed
+P0639,85,zero,8 m,Medium , Excellent documentation 
+P0640,,,10,, some missing flows
+P0641,,12,,High,"Incomplete UC, rework happened"
+P0642,100 ,,12months,HIGH, some missing flows
+P0643,85,eight,12months,LOW ,Well defined use cases
+P0644,100 ,20,N/A,LOW ,poorly written
+P0645,,20,10,HIGH,
+P0646,,,12months,low,
+P0647,90%,zero,9,LOW ,
+P0648,,eight,,Medium ,UC not reviewed
+P0649,sixty,12,10,,good but unclear alt flows
+P0650,,5 defects, eleven,LOW ,
+P0651, 70,,8 m,low,UC not reviewed
+P0652,sixty,zero,9,High,UC not reviewed
+P0653,N/A,15 ,10,low, Excellent documentation 
+P0654,sixty,,8 m,High, Excellent documentation 
+P0655,100 ,eight,9,LOW , some missing flows
+P0656, 70,20, eleven,LOW ,poorly written
+P0657, 70,5 defects,10,HIGH, Excellent documentation 
+P0658,90%,5 defects,14,High, Excellent documentation 
+P0659, 45%,5 defects,8 m,HIGH, Excellent documentation 
+P0660,,zero,14,LOW ,UC not reviewed
+P0661,N/A,15 ,9,High,good but unclear alt flows
+P0662,100 ,15 ,8 m,Medium , some missing flows
+P0663,,5 defects,9,LOW ,Well defined use cases
+P0664,100 ,,10,HIGH,Well defined use cases
+P0665,100 ,12,9,High,poorly written
+P0666,sixty,15 ,10,low,"Incomplete UC, rework happened"
+P0667, 70,5 defects,8 m,Medium ,UC not reviewed
+P0668, 70,5 defects,N/A,,poorly written
+P0669, 45%,zero,10,low, Excellent documentation 
+P0670,90%,12,,LOW , some missing flows
+P0671, 45%,eight,,LOW ,Well defined use cases
+P0672,,12,8 m,HIGH,"Incomplete UC, rework happened"
+P0673,100 ,5 defects,,LOW ,"Incomplete UC, rework happened"
+P0674,,,9,, some missing flows
+P0675,N/A,20,14,low,good but unclear alt flows
+P0676,,,9,low,Well defined use cases
+P0677,N/A,eight, eleven,High,
+P0678,sixty,15 ,9,HIGH, some missing flows
+P0679,90%,eight,9,High,Well defined use cases
+P0680,,zero,10,High,UC not reviewed
+P0681,sixty,15 , eleven,Medium ,poorly written
+P0682,85,5 defects,14,LOW ,good but unclear alt flows
+P0683,,5 defects,8 m,, Excellent documentation 
+P0684,90%,zero,,High, Excellent documentation 
+P0685, 70,15 ,14,LOW ,UC not reviewed
+P0686,90%,,9,LOW , some missing flows
+P0687, 70,,N/A,High,"Incomplete UC, rework happened"
+P0688,N/A,eight, eleven,LOW ,Well defined use cases
+P0689,,,8 m,,Well defined use cases
+P0690,90%,15 ,10,Medium ,"Incomplete UC, rework happened"
+P0691,,20,12months,low, Excellent documentation 
+P0692,100 ,5 defects,,low,poorly written
+P0693,90%,,12months,low,UC not reviewed
+P0694,,,N/A,low, some missing flows
+P0695,,, eleven,High,good but unclear alt flows
+P0696,90%,20,N/A,HIGH,Well defined use cases
+P0697,,zero,8 m,LOW , Excellent documentation 
+P0698,85,zero,12months,LOW ,UC not reviewed
+P0699, 45%,zero,8 m,, Excellent documentation 
+P0700,90%,zero,10,LOW ,good but unclear alt flows
+P0701,,eight,N/A,LOW ,
+P0702,N/A,eight,10,HIGH,good but unclear alt flows
+P0703,90%,5 defects, eleven,Medium ,poorly written
+P0704, 45%,,12months,, some missing flows
+P0705, 45%,15 ,10,Medium ,good but unclear alt flows
+P0706,,,N/A,High, Excellent documentation 
+P0707,sixty,12,14,High,
+P0708,N/A,,N/A,LOW ,poorly written
+P0709,,5 defects,,Medium , Excellent documentation 
+P0710,,,12months,Medium ,poorly written
+P0711,,zero,12months,LOW ,"Incomplete UC, rework happened"
+P0712,N/A,eight,12months,HIGH, some missing flows
+P0713,N/A,,12months,Medium ,poorly written
+P0714, 70,12,9,, Excellent documentation 
+P0715,,12,14,low,UC not reviewed
+P0716,,zero,14,,Well defined use cases
+P0717, 45%,5 defects,,LOW ,Well defined use cases
+P0718,90%,20,N/A,low,UC not reviewed
+P0719,,15 ,14,LOW ,poorly written
+P0720, 45%,20,9,HIGH,UC not reviewed
+P0721, 45%,,N/A,,
+P0722,100 ,eight,,High,Well defined use cases
+P0723,,eight,8 m,low,UC not reviewed
+P0724, 45%,zero,8 m,High,UC not reviewed
+P0725,85,,N/A,High,UC not reviewed
+P0726,100 ,eight,12months,LOW ,Well defined use cases
+P0727,90%,eight,N/A,HIGH,Well defined use cases
+P0728,85,5 defects,N/A,,poorly written
+P0729,,20,14,High,
+P0730,sixty,15 ,10,Medium ,UC not reviewed
+P0731,,,N/A,HIGH,poorly written
+P0732,85,12,8 m,low,"Incomplete UC, rework happened"
+P0733,90%,15 ,10,LOW ,good but unclear alt flows
+P0734, 45%,5 defects, eleven,LOW ,good but unclear alt flows
+P0735,85,15 ,14,HIGH,good but unclear alt flows
+P0736,85,5 defects,8 m,HIGH, some missing flows
+P0737,sixty,5 defects,9,Medium ,good but unclear alt flows
+P0738,,,12months,Medium ,
+P0739,,,10,Medium ,"Incomplete UC, rework happened"
+P0740, 45%,20,10,High, some missing flows
+P0741,,12,12months,HIGH,
+P0742, 45%,, eleven,HIGH, Excellent documentation 
+P0743,85,15 ,9,low,
+P0744,,,14,Medium ,poorly written
+P0745,85,15 ,8 m,low,
+P0746,sixty,,8 m,High,"Incomplete UC, rework happened"
+P0747, 70,,12months,High,good but unclear alt flows
+P0748,85,eight,12months,, Excellent documentation 
+P0749,,,,low, Excellent documentation 
+P0750,,eight,9,,"Incomplete UC, rework happened"
+P0751, 70,12, eleven,HIGH,UC not reviewed
+P0752,,eight,10,High,Well defined use cases
+P0753,85,12,14,High,UC not reviewed
+P0754,85,,8 m,low,
+P0755,,12, eleven,,
+P0756,85,,14,, Excellent documentation 
+P0757,,5 defects,12months,HIGH,poorly written
+P0758, 45%,5 defects,9,LOW ,
+P0759, 45%,zero,12months,Medium , some missing flows
+P0760,N/A,zero, eleven,HIGH, Excellent documentation 
+P0761, 70,20,,Medium , Excellent documentation 
+P0762,90%,15 , eleven,low,UC not reviewed
+P0763,,eight,N/A,,poorly written
+P0764,,eight,14,Medium , Excellent documentation 
+P0765,85,eight,,HIGH,Well defined use cases
+P0766, 70,,14,low,good but unclear alt flows
+P0767,90%,zero,,High,Well defined use cases
+P0768, 70,20,,High,Well defined use cases
+P0769, 45%,20,9,Medium ,
+P0770,sixty,,14,HIGH,good but unclear alt flows
+P0771,,zero,,low,Well defined use cases
+P0772,90%,,8 m,Medium , some missing flows
+P0773,90%,12,12months,High, some missing flows
+P0774,N/A,12,,High,
+P0775,sixty,eight,9,High, Excellent documentation 
+P0776, 45%,eight, eleven,HIGH,UC not reviewed
+P0777,90%,12,8 m,High,Well defined use cases
+P0778,90%,zero,14,HIGH,Well defined use cases
+P0779,,15 ,,HIGH, Excellent documentation 
+P0780, 70,,10,High,poorly written
+P0781, 45%,5 defects,N/A,LOW ,good but unclear alt flows
+P0782, 45%,,N/A,High,UC not reviewed
+P0783,sixty,,9,HIGH,UC not reviewed
+P0784,N/A,zero,,low,good but unclear alt flows
+P0785, 70,,,,poorly written
+P0786,100 ,15 ,9,HIGH,UC not reviewed
+P0787,,20,8 m,LOW ,Well defined use cases
+P0788,90%,,,Medium , Excellent documentation 
+P0789,100 ,20,9,LOW ,
+P0790,100 ,15 ,8 m,High,"Incomplete UC, rework happened"
+P0791, 70,eight,9,High,"Incomplete UC, rework happened"
+P0792, 45%,5 defects,9,High,
+P0793,100 ,5 defects,14,Medium ,"Incomplete UC, rework happened"
+P0794,85,,14,, some missing flows
+P0795, 70,20,8 m,High,
+P0796, 70,zero,10,LOW ,
+P0797,85,12,10,low,UC not reviewed
+P0798,,eight,12months,LOW ,poorly written
+P0799,sixty,20,8 m,Medium ,Well defined use cases
+P0800,,,12months,HIGH,good but unclear alt flows
+P0801, 70,,14,HIGH,UC not reviewed
+P0802,,eight, eleven,, some missing flows
+P0803,N/A,20,9,HIGH, Excellent documentation 
+P0804,N/A,zero,9,High, some missing flows
+P0805,90%,20,8 m,,UC not reviewed
+P0806,,,12months,Medium ,
+P0807,,eight,,LOW , some missing flows
+P0808,90%,5 defects,N/A,Medium ,"Incomplete UC, rework happened"
+P0809,90%,,N/A,HIGH,UC not reviewed
+P0810,,,9,Medium ,UC not reviewed
+P0811,,zero, eleven,Medium , Excellent documentation 
+P0812,100 ,5 defects,10,HIGH,poorly written
+P0813,,,14,Medium ,poorly written
+P0814, 45%,,8 m,LOW , some missing flows
+P0815,100 ,15 ,10,low,poorly written
+P0816,85,15 ,N/A,HIGH, some missing flows
+P0817,,eight, eleven,,Well defined use cases
+P0818, 70,zero,,HIGH, Excellent documentation 
+P0819, 45%,20,N/A,LOW ,good but unclear alt flows
+P0820,N/A,15 ,14,High,poorly written
+P0821, 70,20, eleven,Medium ,
+P0822,N/A,15 , eleven,High,
+P0823,,12,,Medium ,
+P0824,,eight,12months,,Well defined use cases
+P0825, 45%,eight,,LOW , Excellent documentation 
+P0826,,5 defects,9,low, Excellent documentation 
+P0827,,eight,10,HIGH, some missing flows
+P0828,,eight,9,HIGH,good but unclear alt flows
+P0829,,12,12months,HIGH,poorly written
+P0830,90%,,8 m,LOW ,Well defined use cases
+P0831,100 ,,10,High,poorly written
+P0832,,eight, eleven,HIGH, some missing flows
+P0833,100 ,5 defects,8 m,HIGH,Well defined use cases
+P0834,100 ,,12months,HIGH,poorly written
+P0835,N/A,12,,LOW , Excellent documentation 
+P0836,85,15 , eleven,low,poorly written
+P0837,100 ,,10,HIGH,"Incomplete UC, rework happened"
+P0838,90%,eight,N/A,High,"Incomplete UC, rework happened"
+P0839,,zero,N/A,LOW ,Well defined use cases
+P0840, 70,,12months,low,
+P0841,sixty,15 ,N/A,Medium ,good but unclear alt flows
+P0842, 70,12,N/A,,good but unclear alt flows
+P0843,sixty,15 ,N/A,, Excellent documentation 
+P0844,N/A,5 defects, eleven,low, Excellent documentation 
+P0845,,15 ,N/A,low,poorly written
+P0846,,zero,,High,"Incomplete UC, rework happened"
+P0847,90%,,12months,Medium , some missing flows
+P0848,sixty,20,,Medium , some missing flows
+P0849,100 ,15 ,8 m,,good but unclear alt flows
+P0850,,12,,High,good but unclear alt flows
+P0851, 70,15 , eleven,High,good but unclear alt flows
+P0852,100 ,zero, eleven,,poorly written
+P0853,,5 defects, eleven,Medium , some missing flows
+P0854,100 ,,12months,Medium , Excellent documentation 
+P0855,N/A,,10,High,
+P0856,,eight,14,,Well defined use cases
+P0857,N/A,eight,10,High, Excellent documentation 
+P0858,sixty,15 ,N/A,LOW ,poorly written
+P0859, 45%,,10,low,UC not reviewed
+P0860,85,12,12months,HIGH,good but unclear alt flows
+P0861, 70,15 ,8 m,low, some missing flows
+P0862,90%,20,12months,High, Excellent documentation 
+P0863,100 ,20,,HIGH,
+P0864,N/A,,14,HIGH, Excellent documentation 
+P0865, 70,20,9,LOW ,poorly written
+P0866,,12,8 m,,"Incomplete UC, rework happened"
+P0867,N/A,5 defects,,,Well defined use cases
+P0868, 70,,12months,LOW , some missing flows
+P0869, 70,20,14,HIGH,
+P0870,,eight,14,Medium ,good but unclear alt flows
+P0871,,eight, eleven,low,poorly written
+P0872, 45%,5 defects,N/A,,"Incomplete UC, rework happened"
+P0873,,12,N/A,HIGH,"Incomplete UC, rework happened"
+P0874, 70,,N/A,low, some missing flows
+P0875,85,20, eleven,Medium ,poorly written
+P0876,90%,5 defects,N/A,High,
+P0877,N/A,,N/A,LOW ,Well defined use cases
+P0878,90%,zero,12months,High,Well defined use cases
+P0879,sixty,15 ,8 m,HIGH, Excellent documentation 
+P0880,sixty,12,9,, Excellent documentation 
+P0881, 70,eight,14,, some missing flows
+P0882,sixty,,9,HIGH,poorly written
+P0883,N/A,12, eleven,High,Well defined use cases
+P0884,N/A,zero,,HIGH,poorly written
+P0885, 45%,,12months,, Excellent documentation 
+P0886, 45%,5 defects,9,, some missing flows
+P0887, 70,20,N/A,low,good but unclear alt flows
+P0888,sixty,20,10,High,UC not reviewed
+P0889, 45%,5 defects,9,High,UC not reviewed
+P0890,85,15 ,N/A,,poorly written
+P0891,,12, eleven,LOW ,UC not reviewed
+P0892,,12,9,, Excellent documentation 
+P0893,100 ,5 defects, eleven,Medium ,
+P0894,N/A,20,9,LOW ,good but unclear alt flows
+P0895,,zero,14,LOW ,Well defined use cases
+P0896,85,zero,12months,HIGH,poorly written
+P0897,,,9,,poorly written
+P0898,85,,10,Medium , some missing flows
+P0899,100 ,,9,High,Well defined use cases
+P0900,,,9,High, some missing flows
+P0901,,12,12months,low,poorly written
+P0902, 45%,5 defects,N/A,HIGH,poorly written
+P0903,90%,zero,10,Medium , Excellent documentation 
+P0904,sixty,,12months,HIGH, some missing flows
+P0905,,15 ,9,HIGH,"Incomplete UC, rework happened"
+P0906,,15 ,8 m,Medium , Excellent documentation 
+P0907,,20,10,LOW ,Well defined use cases
+P0908,,,12months,High,Well defined use cases
+P0909, 45%,5 defects,8 m,LOW ,Well defined use cases
+P0910,,15 ,,Medium ,"Incomplete UC, rework happened"
+P0911, 70,,12months,low,"Incomplete UC, rework happened"
+P0912,sixty,eight,14,,poorly written
+P0913,100 ,zero,10,low, Excellent documentation 
+P0914,,5 defects, eleven,,"Incomplete UC, rework happened"
+P0915,N/A,20,10,High, Excellent documentation 
+P0916,100 ,eight,N/A,LOW ,good but unclear alt flows
+P0917, 45%,,N/A,LOW ,good but unclear alt flows
+P0918, 45%,5 defects,,HIGH,Well defined use cases
+P0919,,,N/A,Medium ,poorly written
+P0920, 70,eight,9,High,good but unclear alt flows
+P0921,,12, eleven,low,UC not reviewed
+P0922,90%,eight,10,Medium ,
+P0923,85,12, eleven,HIGH,poorly written
+P0924,85,12,14,High,good but unclear alt flows
+P0925,85,eight,12months,High,
+P0926,90%,zero,12months,HIGH,"Incomplete UC, rework happened"
+P0927,,eight,12months,High,
+P0928, 70,,14,High,UC not reviewed
+P0929, 70,, eleven,Medium ,poorly written
+P0930,90%,20,N/A,HIGH,good but unclear alt flows
+P0931,,15 ,14,Medium ,poorly written
+P0932,sixty,15 ,,LOW ,
+P0933,sixty,20,,Medium ,"Incomplete UC, rework happened"
+P0934,sixty,zero,,HIGH,poorly written
+P0935,85,,N/A,Medium ,
+P0936,,12,14,LOW ,good but unclear alt flows
+P0937, 45%,zero,12months,low, Excellent documentation 
+P0938,,,14,High,poorly written
+P0939,,5 defects,12months,Medium ,good but unclear alt flows
+P0940,100 ,,10,LOW ,poorly written
+P0941,85,,,low, Excellent documentation 
+P0942,85,,10,LOW ,UC not reviewed
+P0943, 70,zero,,High,
+P0944, 70,15 ,12months,HIGH,Well defined use cases
+P0945, 70,,9,Medium ,good but unclear alt flows
+P0946,N/A,5 defects,12months,HIGH,
+P0947,,15 ,8 m,LOW ,"Incomplete UC, rework happened"
+P0948,100 ,5 defects,10,LOW ,
+P0949,,,8 m,,
+P0950,N/A,,12months,low, some missing flows
+P0951, 70,5 defects,N/A,LOW ,
+P0952,,20,N/A,HIGH,Well defined use cases
+P0953, 45%,,14,HIGH, some missing flows
+P0954,sixty,15 ,10,Medium , some missing flows
+P0955,90%,,,Medium ,good but unclear alt flows
+P0956, 70,20,14,High, Excellent documentation 
+P0957,85,,,,UC not reviewed
+P0958,85,5 defects,12months,,
+P0959,,eight, eleven,low,good but unclear alt flows
+P0960,N/A,5 defects,14,, Excellent documentation 
+P0961,N/A,eight,N/A,Medium ,
+P0962,,12,12months,low,poorly written
+P0963, 45%,20,14,LOW , some missing flows
+P0964,90%,15 ,14,HIGH,good but unclear alt flows
+P0965,N/A,15 ,10,,poorly written
+P0966,,15 ,,LOW ,
+P0967,N/A,12,9,High,UC not reviewed
+P0968,,eight,12months,Medium ,"Incomplete UC, rework happened"
+P0969,100 ,,N/A,HIGH,
+P0970,90%,5 defects,8 m,Medium ,Well defined use cases
+P0971,,12,8 m,HIGH,UC not reviewed
+P0972,90%,12,9,Medium , some missing flows
+P0973,100 ,15 ,9,HIGH,
+P0974,N/A,eight,,Medium ,poorly written
+P0975,,zero, eleven,HIGH,
+P0976,,,N/A,LOW ,"Incomplete UC, rework happened"
+P0977,90%,eight,10,low, Excellent documentation 
+P0978,90%,eight, eleven,,poorly written
+P0979,100 ,5 defects,12months,Medium ,"Incomplete UC, rework happened"
+P0980,,eight,8 m,High,good but unclear alt flows
+P0981,N/A,eight, eleven,LOW ,"Incomplete UC, rework happened"
+P0982,N/A,15 ,8 m,Medium ,UC not reviewed
+P0983,N/A,20,,High,poorly written
+P0984,,5 defects, eleven,LOW ,
+P0985, 45%,15 ,N/A,HIGH,"Incomplete UC, rework happened"
+P0986,,5 defects, eleven,HIGH, some missing flows
+P0987,,12,8 m,High,
+P0988,85,20,9,LOW , Excellent documentation 
+P0989,sixty,20,,High, some missing flows
+P0990, 45%,12,N/A,Medium ,"Incomplete UC, rework happened"
+P0991, 45%,,12months,,poorly written
+P0992,90%,12,N/A,Medium , some missing flows
+P0993,85,eight,12months,HIGH,poorly written
+P0994, 70,eight,14,, Excellent documentation 
+P0995,90%,eight,14,low,poorly written
+P0996,,,14,low,good but unclear alt flows
+P0997,,,8 m,LOW , Excellent documentation 
+P0998,85,20,12months,High, Excellent documentation 
+P0999,,15 ,12months,High,UC not reviewed
+P1000,85,eight,N/A,low,Well defined use cases
+P1001,85,,14,low, some missing flows
+P1002,,5 defects,,LOW ,
+P1003,,,10,low,poorly written
+P1004,sixty,eight,N/A,HIGH,UC not reviewed
+P1005,sixty,zero, eleven,HIGH,Well defined use cases
+P1006,90%,20,14,LOW , Excellent documentation 
+P1007, 45%,12,,High,"Incomplete UC, rework happened"
+P1008, 45%,12,12months,Medium , Excellent documentation 
+P1009, 45%,15 , eleven,Medium , some missing flows
+P1010,100 ,zero,14,, some missing flows
+P1011,sixty,,N/A,HIGH,Well defined use cases
+P1012,,5 defects,,HIGH,good but unclear alt flows
+P1013,,12,14,,UC not reviewed
+P1014,sixty,12,,Medium ,UC not reviewed
+P1015,,20,8 m,,poorly written
+P1016, 45%,,N/A,,UC not reviewed
+P1017,85,eight,12months,low,UC not reviewed
+P1018,100 ,,14,Medium ,good but unclear alt flows
+P1019, 70,zero,14,, Excellent documentation 
+P1020,85,eight,N/A,High,
+P1021,85,20, eleven,low,Well defined use cases
+P1022,90%,,9,High,
+P1023,sixty,,14,low,poorly written
+P1024, 45%,5 defects,N/A,low,UC not reviewed
+P1025, 70,eight,,Medium , Excellent documentation 
+P1026,85,zero,N/A,High,"Incomplete UC, rework happened"
+P1027,N/A,5 defects,8 m,LOW , some missing flows
+P1028,,,10,Medium ,"Incomplete UC, rework happened"
+P1029,100 ,eight,,High,UC not reviewed
+P1030, 45%,5 defects, eleven,High,"Incomplete UC, rework happened"
+P1031,N/A,eight,,LOW ,Well defined use cases
+P1032,,zero, eleven,LOW ,"Incomplete UC, rework happened"
+P1033,,eight,8 m,, Excellent documentation 
+P1034,sixty,,12months,LOW ,Well defined use cases
+P1035,,zero,14,,Well defined use cases
+P1036,,5 defects,9,,"Incomplete UC, rework happened"
+P1037,sixty,20,10,low, some missing flows
+P1038, 70,eight,N/A,LOW ,"Incomplete UC, rework happened"
+P1039, 70,12,9,,Well defined use cases
+P1040, 45%,15 ,9,Medium ,
+P1041, 70,5 defects,10,low, Excellent documentation 
+P1042,100 ,,8 m,LOW ,"Incomplete UC, rework happened"
+P1043,100 ,20,12months,HIGH,
+P1044,100 ,15 ,10,,
+P1045,,eight, eleven,LOW ,good but unclear alt flows
+P1046,90%,,8 m,low, Excellent documentation 
+P1047,90%,20,12months,High, some missing flows
+P1048,,12, eleven,LOW ,good but unclear alt flows
+P1049,85,20,9,low,good but unclear alt flows
+P1050,90%,,10,Medium ,
+P1051,N/A,20,8 m,LOW ,good but unclear alt flows
+P1052,,5 defects,N/A,High,Well defined use cases
+P1053,100 ,,8 m,low, Excellent documentation 
+P1054,85,,N/A,Medium ,poorly written
+P1055, 70,5 defects,N/A,low,UC not reviewed
+P1056,sixty,zero,14,High,poorly written
+P1057,,15 , eleven,Medium ,Well defined use cases
+P1058,sixty,eight, eleven,low,Well defined use cases
+P1059,,12,14,Medium , some missing flows
+P1060,85,5 defects,12months,HIGH,Well defined use cases
+P1061,sixty,15 ,N/A,High,
+P1062, 70,12,12months,Medium ,UC not reviewed
+P1063,,,8 m,LOW ,UC not reviewed
+P1064,,12,14,HIGH,UC not reviewed
+P1065,sixty,20,9,,"Incomplete UC, rework happened"
+P1066,100 ,15 ,10,low,poorly written
+P1067,,eight,9,HIGH,Well defined use cases
+P1068,90%,zero,9,High,good but unclear alt flows
+P1069,,12,,low,poorly written
+P1070,,15 ,8 m,High,good but unclear alt flows
+P1071,85,5 defects,14,High,poorly written
+P1072,,12,9,LOW ,good but unclear alt flows
+P1073,90%,, eleven,HIGH, Excellent documentation 
+P1074,90%,,N/A,Medium ,good but unclear alt flows
+P1075,90%,5 defects,8 m,low,"Incomplete UC, rework happened"
+P1076,sixty,,N/A,low,"Incomplete UC, rework happened"
+P1077,85,eight,9,Medium , Excellent documentation 
+P1078, 70,zero,,low,
+P1079,,, eleven,HIGH,poorly written
+P1080,,zero, eleven,LOW ,poorly written
+P1081,,5 defects,12months,HIGH, some missing flows
+P1082, 45%,5 defects,8 m,Medium ,"Incomplete UC, rework happened"
+P1083,N/A,,8 m,low,UC not reviewed
+P1084,90%,5 defects,,low,good but unclear alt flows
+P1085,100 ,5 defects,N/A,LOW ,good but unclear alt flows
+P1086,sixty,15 ,,low,
+P1087,,12,,low,poorly written
+P1088,sixty,zero,9,Medium ,good but unclear alt flows
+P1089,100 ,zero,8 m,, Excellent documentation 
+P1090,90%,, eleven,HIGH,good but unclear alt flows
+P1091,,,12months,Medium ,good but unclear alt flows
+P1092,N/A,zero,12months,LOW , Excellent documentation 
+P1093,sixty,12,9,High,Well defined use cases
+P1094,85,12,14,Medium ,
+P1095,90%,15 ,,low,
+P1096,90%,zero,10,Medium , some missing flows
+P1097,,20, eleven,LOW , some missing flows
+P1098,,20,9,,good but unclear alt flows
+P1099,sixty,5 defects,8 m,low, Excellent documentation 
+P1100,N/A,,14,HIGH,UC not reviewed
+P1101,85,zero,12months,HIGH, some missing flows
+P1102,90%,12,,Medium ,Well defined use cases
+P1103, 45%,zero,14,low, some missing flows
+P1104,90%,20,8 m,, Excellent documentation 
+P1105, 70,eight, eleven,Medium ,
+P1106, 45%,15 ,N/A,,poorly written
+P1107,85,20,10,Medium , some missing flows
+P1108, 70,20,9,,good but unclear alt flows
+P1109,100 ,15 ,N/A,HIGH,good but unclear alt flows
+P1110,N/A,eight,N/A,Medium ,"Incomplete UC, rework happened"
+P1111,,12,,High, some missing flows
+P1112,,eight,9,High,poorly written
+P1113,85,20,14,High,good but unclear alt flows
+P1114, 70,5 defects,12months,, Excellent documentation 
+P1115,sixty,,N/A,low,poorly written
+P1116,90%,,12months,Medium ,good but unclear alt flows
+P1117,sixty,5 defects,14,LOW ,
+P1118, 70,15 ,8 m,High,poorly written
+P1119,sixty,,12months,Medium ,"Incomplete UC, rework happened"
+P1120,,15 ,10,LOW ,
+P1121,100 ,12,10,Medium ,"Incomplete UC, rework happened"
+P1122,,20,9,low,UC not reviewed
+P1123,90%,zero,14,Medium ,Well defined use cases
+P1124,,eight, eleven,,good but unclear alt flows
+P1125,90%,20, eleven,LOW ,Well defined use cases
+P1126,85,,10,HIGH,poorly written
+P1127,sixty,zero,N/A,HIGH,"Incomplete UC, rework happened"
+P1128,,20,8 m,, some missing flows
+P1129,N/A,12,12months,Medium ,good but unclear alt flows
+P1130, 45%,20,,LOW ,UC not reviewed
+P1131,100 ,,14,HIGH,UC not reviewed
+P1132,,eight, eleven,Medium ,
+P1133,sixty,zero,9,HIGH,good but unclear alt flows
+P1134, 45%,12,12months,LOW ,Well defined use cases
+P1135, 70,12, eleven,LOW ,UC not reviewed
+P1136,sixty,,9,Medium ,
+P1137, 45%,15 , eleven,low,good but unclear alt flows
+P1138,90%,eight,N/A,,UC not reviewed
+P1139, 70,,9,LOW ,good but unclear alt flows
+P1140,sixty,eight,N/A,,
+P1141,85,,,HIGH,Well defined use cases
+P1142,sixty,zero,,LOW ,poorly written
+P1143, 70,15 , eleven,HIGH,UC not reviewed
+P1144,,15 ,,High, Excellent documentation 
+P1145,N/A,15 ,10,Medium ,UC not reviewed
+P1146,,12,10,, some missing flows
+P1147, 45%,5 defects,N/A,low,poorly written
+P1148, 45%,eight,8 m,HIGH,
+P1149,90%,, eleven,low,good but unclear alt flows
+P1150,100 ,12,14,HIGH,"Incomplete UC, rework happened"
+P1151,,20,10,LOW , Excellent documentation 
+P1152, 70,,N/A,Medium ,
+P1153, 45%,20,10,low,"Incomplete UC, rework happened"
+P1154,100 ,, eleven,High,good but unclear alt flows
+P1155,sixty,20,,LOW ,UC not reviewed
+P1156,90%,eight,9,High,
+P1157,85,5 defects,8 m,HIGH,Well defined use cases
+P1158,90%,20,8 m,High,poorly written
+P1159,N/A,20,,HIGH, some missing flows
+P1160,sixty,zero,12months,LOW , Excellent documentation 
+P1161, 45%,,8 m,HIGH,UC not reviewed
+P1162,sixty,15 ,8 m,High,Well defined use cases
+P1163,sixty,zero,14,HIGH,"Incomplete UC, rework happened"
+P1164,90%,15 ,N/A,low, some missing flows
+P1165, 45%,12, eleven,Medium , Excellent documentation 
+P1166,N/A,15 ,N/A,Medium , some missing flows
+P1167,100 ,,,HIGH, some missing flows
+P1168,sixty,15 ,9,HIGH,Well defined use cases
+P1169,N/A,zero,N/A,Medium ,UC not reviewed
+P1170,,20,10,HIGH,"Incomplete UC, rework happened"
+P1171,sixty,5 defects, eleven,HIGH,UC not reviewed
+P1172,90%,zero,14,low,good but unclear alt flows
+P1173, 70,12,N/A,HIGH,good but unclear alt flows
+P1174,,20,12months,low,UC not reviewed
+P1175,85,eight,N/A,low,good but unclear alt flows
+P1176,,zero,12months,low, Excellent documentation 
+P1177,85,20,N/A,LOW ,
+P1178,85,20,12months,low,Well defined use cases
+P1179,85,15 ,12months,HIGH,good but unclear alt flows
+P1180,90%,15 ,12months,low, Excellent documentation 
+P1181,90%,12,14,High,
+P1182,90%,5 defects,12months,High,poorly written
+P1183,sixty,5 defects, eleven,Medium ,poorly written
+P1184,100 ,15 ,12months,,Well defined use cases
+P1185,100 ,5 defects,14,,UC not reviewed
+P1186,sixty,eight,9,High,good but unclear alt flows
+P1187,90%,eight,10,,UC not reviewed
+P1188,,,10,HIGH, Excellent documentation 
+P1189, 45%,zero,14,,UC not reviewed
+P1190,,20, eleven,High, Excellent documentation 
+P1191,,12,9,Medium ,poorly written
+P1192, 45%,zero,8 m,Medium ,Well defined use cases
+P1193,sixty,,12months,,good but unclear alt flows
+P1194, 70,, eleven,HIGH,good but unclear alt flows
+P1195, 45%,eight,10,High,Well defined use cases
+P1196,,15 ,9,High,
+P1197,90%,20, eleven,low,"Incomplete UC, rework happened"
+P1198,,,,HIGH,poorly written
+P1199,100 ,eight,8 m,LOW ,
+P1200,,zero,10,Medium ,
+P1201, 70,15 ,,High,poorly written
+P1202,,,8 m,,good but unclear alt flows
+P1203,N/A,zero,8 m,,"Incomplete UC, rework happened"
+P1204,85,12, eleven,,poorly written
+P1205,85,,8 m,LOW ,Well defined use cases
+P1206,,eight,8 m,low,Well defined use cases
+P1207,90%,,9,HIGH,
+P1208, 45%,5 defects,12months,LOW , some missing flows
+P1209,85,20,14,Medium ,"Incomplete UC, rework happened"
+P1210, 70,5 defects,N/A,LOW ,"Incomplete UC, rework happened"
+P1211,N/A,12,10,,Well defined use cases
+P1212,100 ,15 ,8 m,low,UC not reviewed
+P1213,N/A,20,8 m,High,"Incomplete UC, rework happened"
+P1214,,15 ,9,LOW , some missing flows
+P1215,,zero,14,,"Incomplete UC, rework happened"
+P1216, 45%,eight,9,LOW ,poorly written
+P1217,100 ,5 defects,14,LOW ,
+P1218,,20,9,LOW , Excellent documentation 
+P1219, 45%,,14,High,Well defined use cases
+P1220,,15 ,N/A,Medium , some missing flows
+P1221, 45%,,N/A,Medium ,UC not reviewed
+P1222, 70,5 defects,10,,UC not reviewed
+P1223,100 ,20, eleven,HIGH,UC not reviewed
+P1224, 45%,zero,8 m,HIGH,good but unclear alt flows
+P1225, 45%,5 defects,9,,UC not reviewed
+P1226,90%,,9,Medium , some missing flows
+P1227,sixty,15 ,12months,Medium , some missing flows
+P1228,,20,14,High,UC not reviewed
+P1229,sixty,5 defects,10,HIGH,
+P1230,90%,5 defects,9,Medium ,
+P1231,sixty,12,,High,good but unclear alt flows
+P1232,85,zero,14,LOW ,
+P1233,sixty,,10,Medium ,poorly written
+P1234,85,zero,N/A,low,UC not reviewed
+P1235,,zero,12months,low,Well defined use cases
+P1236,,12,10,LOW ,good but unclear alt flows
+P1237,,,9,Medium , Excellent documentation 
+P1238,85,5 defects,14,LOW , some missing flows
+P1239,sixty,5 defects,N/A,low,good but unclear alt flows
+P1240,85,15 ,9,HIGH,poorly written
+P1241, 45%,20,N/A,Medium ,"Incomplete UC, rework happened"
+P1242,,12,N/A,LOW ,"Incomplete UC, rework happened"
+P1243,85,eight,12months,low,
+P1244,,5 defects,N/A,High,"Incomplete UC, rework happened"
+P1245,100 ,5 defects, eleven,HIGH,
+P1246,sixty,20,,Medium , some missing flows
+P1247,100 ,5 defects,12months,low,"Incomplete UC, rework happened"
+P1248, 70,eight,10,High, some missing flows
+P1249, 70,,N/A,High, Excellent documentation 
+P1250, 70,15 ,9,low,UC not reviewed
+P1251,,5 defects,,LOW ,good but unclear alt flows
+P1252,sixty,,10,High,poorly written
+P1253,90%,eight,9,High,good but unclear alt flows
+P1254,,12,12months,low,UC not reviewed
+P1255,100 ,5 defects,12months,,
+P1256,N/A,zero,8 m,Medium , some missing flows
+P1257, 70,eight,,,UC not reviewed
+P1258,85,zero,,High,good but unclear alt flows
+P1259,100 ,zero,10,,Well defined use cases
+P1260,N/A,5 defects,10,Medium ,
+P1261,N/A,12,10,,poorly written
+P1262, 70,eight,14,HIGH,"Incomplete UC, rework happened"
+P1263,,20,N/A,High,"Incomplete UC, rework happened"
+P1264,sixty,,,low, some missing flows
+P1265, 45%,15 ,N/A,HIGH,poorly written
+P1266,,zero,9,High, some missing flows
+P1267,,12,12months,Medium , Excellent documentation 
+P1268,,5 defects,14,High,"Incomplete UC, rework happened"
+P1269, 45%,zero,14,, Excellent documentation 
+P1270,N/A,12,N/A,LOW , Excellent documentation 
+P1271,,,12months,low,
+P1272,,5 defects,N/A,High,
+P1273,,15 , eleven,Medium ,"Incomplete UC, rework happened"
+P1274,100 ,,14,low,Well defined use cases
+P1275,100 ,15 ,9,LOW ,good but unclear alt flows
+P1276,,,8 m,LOW , some missing flows
+P1277,85,12,8 m,low, Excellent documentation 
+P1278,100 ,15 ,10,, some missing flows
+P1279,90%,,12months,Medium , some missing flows
+P1280,sixty,eight,14,low,"Incomplete UC, rework happened"
+P1281,sixty,5 defects,9,,UC not reviewed
+P1282,,,10,HIGH, Excellent documentation 
+P1283,100 ,,12months,LOW ,"Incomplete UC, rework happened"
+P1284,,15 ,,low,Well defined use cases
+P1285,100 ,20, eleven,Medium ,"Incomplete UC, rework happened"
+P1286, 45%,20,9,low, some missing flows
+P1287, 70,12,N/A,High,
+P1288,N/A,12,9,, some missing flows
+P1289,N/A,15 ,9,low,Well defined use cases
+P1290,N/A,5 defects, eleven,Medium , some missing flows
+P1291,N/A,5 defects,N/A,Medium ,UC not reviewed
+P1292,100 ,20,8 m,LOW , Excellent documentation 
+P1293,100 ,15 ,10,,good but unclear alt flows
+P1294,sixty,zero,,High,
+P1295,85,5 defects, eleven,HIGH,UC not reviewed
+P1296,85,,12months,,
+P1297,85,zero,14,High,Well defined use cases
+P1298,N/A,,10,, some missing flows
+P1299, 70,20,N/A,low, Excellent documentation 
+P1300, 70,15 ,14,Medium ,
+P1301,,,14,,
+P1302,85,5 defects,8 m,High,good but unclear alt flows
+P1303,,12, eleven,LOW ,UC not reviewed
+P1304,N/A,15 ,9,Medium ,Well defined use cases
+P1305, 70,eight,8 m,LOW ,poorly written
+P1306,sixty,15 ,9,HIGH,good but unclear alt flows
+P1307,90%,5 defects,,Medium , some missing flows
+P1308,,12,8 m,HIGH,UC not reviewed
+P1309, 45%,eight,N/A,,poorly written
+P1310,85,,,High,poorly written
+P1311,,15 , eleven,,good but unclear alt flows
+P1312,N/A,,10,Medium ,good but unclear alt flows
+P1313,,20,12months,low,poorly written
+P1314,,zero,8 m,LOW , Excellent documentation 
+P1315,90%,,,Medium ,Well defined use cases
+P1316,,15 ,10,,"Incomplete UC, rework happened"
+P1317, 45%,5 defects,14,High,
+P1318,,zero,N/A,LOW ,good but unclear alt flows
+P1319,,,12months,,"Incomplete UC, rework happened"
+P1320,N/A,,14,Medium ,good but unclear alt flows
+P1321,N/A,5 defects,10,Medium , some missing flows
+P1322, 45%,20,10,HIGH, Excellent documentation 
+P1323,100 ,20,9,Medium ,
+P1324, 70,20,10,Medium ,Well defined use cases
+P1325,sixty,,9,low,
+P1326,100 ,eight,14,LOW ,poorly written
+P1327,90%,,N/A,HIGH,Well defined use cases
+P1328,100 ,12,,Medium ,poorly written
+P1329,sixty,5 defects,8 m,Medium ,
+P1330,,, eleven,HIGH,good but unclear alt flows
+P1331,N/A,5 defects,9,HIGH,"Incomplete UC, rework happened"
+P1332,,5 defects, eleven,low,good but unclear alt flows
+P1333,,20,10,Medium , Excellent documentation 
+P1334,90%,zero,12months,HIGH, Excellent documentation 
+P1335, 70,,8 m,High,UC not reviewed
+P1336,N/A,5 defects,14,,
+P1337,,zero,12months,,"Incomplete UC, rework happened"
+P1338, 70,eight,12months,HIGH,
+P1339,sixty,12,14,LOW ,
+P1340,90%,15 ,8 m,High, some missing flows
+P1341,,5 defects,9,,good but unclear alt flows
+P1342,100 ,12,14,LOW ,good but unclear alt flows
+P1343,,15 ,8 m,low,
+P1344,N/A,15 , eleven,High,UC not reviewed
+P1345,90%,15 ,12months,LOW ,"Incomplete UC, rework happened"
+P1346, 70,,,,Well defined use cases
+P1347, 45%,,,LOW , Excellent documentation 
+P1348,100 ,5 defects,14,Medium ,"Incomplete UC, rework happened"
+P1349,100 ,, eleven,,UC not reviewed
+P1350,,20,10,High,"Incomplete UC, rework happened"
+P1351,,eight,N/A,, some missing flows
+P1352,100 ,20,N/A,High, Excellent documentation 
+P1353, 45%,5 defects,10,Medium ,UC not reviewed
+P1354,sixty,,N/A,HIGH,
+P1355,sixty,12,8 m,LOW ,good but unclear alt flows
+P1356,,12, eleven,low,"Incomplete UC, rework happened"
+P1357,N/A,12,8 m,low,
+P1358,85,eight, eleven,Medium , Excellent documentation 
+P1359,,12, eleven,HIGH, Excellent documentation 
+P1360, 45%,eight,10,High,"Incomplete UC, rework happened"
+P1361,100 ,15 ,10,High,
+P1362,N/A,,8 m,,UC not reviewed
+P1363,,eight,10,HIGH,poorly written
+P1364,90%,zero,10,High,"Incomplete UC, rework happened"
+P1365,100 ,eight,12months,low,poorly written
+P1366,N/A,,,,"Incomplete UC, rework happened"
+P1367,,12, eleven,Medium ,good but unclear alt flows
+P1368,N/A,zero,9,low,UC not reviewed
+P1369,90%,,10,Medium ,poorly written
+P1370,90%,zero,8 m,,"Incomplete UC, rework happened"
+P1371,90%,zero,14,LOW ,UC not reviewed
+P1372,sixty,,8 m,Medium ,"Incomplete UC, rework happened"
+P1373,,12,9,Medium ,"Incomplete UC, rework happened"
+P1374,N/A,5 defects,9,LOW , Excellent documentation 
+P1375,N/A,5 defects,N/A,low,
+P1376,,15 ,10,LOW , Excellent documentation 
+P1377,sixty,,14,low,"Incomplete UC, rework happened"
+P1378,N/A,,,HIGH, some missing flows
+P1379,100 ,,10,,
+P1380,100 ,eight,14,HIGH,"Incomplete UC, rework happened"
+P1381,85,zero,8 m,low, some missing flows
+P1382,sixty,15 , eleven,low,UC not reviewed
+P1383,100 ,zero, eleven,HIGH,Well defined use cases
+P1384, 45%,12,,LOW ,good but unclear alt flows
+P1385,sixty,,10,HIGH,"Incomplete UC, rework happened"
+P1386,85,5 defects,N/A,High,
+P1387, 45%,15 , eleven,Medium ,Well defined use cases
+P1388,sixty,20,,HIGH, some missing flows
+P1389,N/A,zero,8 m,low,good but unclear alt flows
+P1390,N/A,15 ,N/A,low,poorly written
+P1391,,,N/A,, Excellent documentation 
+P1392,sixty,12,14,Medium ,Well defined use cases
+P1393,90%,15 ,N/A,HIGH,UC not reviewed
+P1394,,eight,8 m,High,
+P1395, 70,zero,14,High,"Incomplete UC, rework happened"
+P1396, 70,5 defects,9,HIGH,UC not reviewed
+P1397, 70,5 defects,8 m,Medium , some missing flows
+P1398,,5 defects,,HIGH,UC not reviewed
+P1399,,15 ,12months,LOW ,Well defined use cases
+P1400,sixty,, eleven,HIGH,UC not reviewed
+P1401,,,N/A,Medium ,good but unclear alt flows
+P1402,90%,,12months,Medium ,
+P1403,90%,5 defects,10,low, Excellent documentation 
+P1404, 70,12,N/A,Medium ,poorly written
+P1405,,12,12months,HIGH, some missing flows
+P1406,sixty,,8 m,Medium ,"Incomplete UC, rework happened"
+P1407,,12,9,LOW ,good but unclear alt flows
+P1408,,15 , eleven,LOW , Excellent documentation 
+P1409, 45%,, eleven,High,"Incomplete UC, rework happened"
+P1410,,,9,,poorly written
+P1411,90%,5 defects,8 m,LOW ,
+P1412, 45%,5 defects,12months,,UC not reviewed
+P1413,N/A,15 ,12months,, some missing flows
+P1414,N/A,5 defects,12months,,"Incomplete UC, rework happened"
+P1415,sixty,5 defects, eleven,,good but unclear alt flows
+P1416,100 ,12,N/A,HIGH, Excellent documentation 
+P1417, 45%,12,,HIGH, Excellent documentation 
+P1418,,,12months,low, some missing flows
+P1419,N/A,5 defects,10,LOW , Excellent documentation 
+P1420,N/A,5 defects,9,HIGH,
+P1421,100 ,,,low,poorly written
+P1422, 70,12,,HIGH, Excellent documentation 
+P1423,N/A,,8 m,HIGH,Well defined use cases
+P1424,,12,10,,Well defined use cases
+P1425, 70,,8 m,High,"Incomplete UC, rework happened"
+P1426,N/A,,8 m,High,Well defined use cases
+P1427, 45%,20,12months,,good but unclear alt flows
+P1428,100 ,zero,8 m,low, some missing flows
+P1429,90%,, eleven,LOW ,
+P1430,100 ,12, eleven,High, some missing flows
+P1431,85,5 defects,N/A,low,UC not reviewed
+P1432, 45%,zero,,HIGH,UC not reviewed
+P1433, 45%,eight, eleven,High, Excellent documentation 
+P1434,90%,, eleven,High,"Incomplete UC, rework happened"
+P1435,N/A,20,8 m,LOW ,
+P1436,N/A,,10,High,"Incomplete UC, rework happened"
+P1437,100 ,12,10,Medium , Excellent documentation 
+P1438,sixty,15 ,14,HIGH,UC not reviewed
+P1439,N/A,,12months,low,good but unclear alt flows
+P1440,100 ,15 ,N/A,Medium ,
+P1441,,eight,,High,
+P1442,sixty,12,8 m,Medium ,Well defined use cases
+P1443,N/A,eight,9,low,Well defined use cases
+P1444,,,14,LOW ,UC not reviewed
+P1445,N/A,20,12months,low,good but unclear alt flows
+P1446,N/A,20,,LOW ,
+P1447,100 ,zero, eleven,HIGH,
+P1448,N/A,12,N/A,low, some missing flows
+P1449,85,zero, eleven,low,
+P1450,,zero,14,low,"Incomplete UC, rework happened"
+P1451, 45%,,N/A,low,UC not reviewed
+P1452,85,,10,LOW ,Well defined use cases
+P1453,sixty,15 ,10,LOW ,"Incomplete UC, rework happened"
+P1454,100 ,,14,HIGH,Well defined use cases
+P1455,,eight,,,good but unclear alt flows
+P1456,100 ,15 ,N/A,low,"Incomplete UC, rework happened"
+P1457,,eight,14,low,
+P1458,85,eight, eleven,HIGH,good but unclear alt flows
+P1459,,,9,low,good but unclear alt flows
+P1460, 45%,15 ,8 m,LOW ,"Incomplete UC, rework happened"
+P1461,100 ,12,N/A,low, some missing flows
+P1462,,zero, eleven,Medium , Excellent documentation 
+P1463,90%,eight,,High,UC not reviewed
+P1464,100 ,20,N/A,HIGH,Well defined use cases
+P1465,sixty,12,14,High,
+P1466, 45%,20, eleven,,
+P1467,85,eight,14,,poorly written
+P1468,90%,15 ,12months,LOW ,"Incomplete UC, rework happened"
+P1469, 45%,,12months,LOW ,"Incomplete UC, rework happened"
+P1470,,zero, eleven,HIGH, Excellent documentation 
+P1471,85,zero,8 m,High,UC not reviewed
+P1472,90%,15 ,8 m,Medium ,"Incomplete UC, rework happened"
+P1473,,,14,LOW , Excellent documentation 
+P1474, 45%,20,10,High, Excellent documentation 
+P1475, 45%,,10,, some missing flows
+P1476, 70,zero, eleven,Medium ,"Incomplete UC, rework happened"
+P1477,85,12,N/A,low, some missing flows
+P1478,,eight,12months,Medium ,Well defined use cases
+P1479,,,10,,good but unclear alt flows
+P1480,N/A,20,N/A,low,UC not reviewed
+P1481,90%,,9,LOW ,UC not reviewed
+P1482,85,15 ,10,LOW ,Well defined use cases
+P1483,sixty,5 defects,N/A,, Excellent documentation 
+P1484,,,N/A,Medium , Excellent documentation 
+P1485, 45%,12, eleven,HIGH,Well defined use cases
+P1486,,,10,HIGH,good but unclear alt flows
+P1487,85,5 defects,,Medium ,poorly written
+P1488, 45%,12,N/A,LOW ,
+P1489,85,12,12months,LOW ,Well defined use cases
+P1490,sixty,12, eleven,Medium ,UC not reviewed
+P1491, 45%,eight,,Medium ,poorly written
+P1492, 45%,zero,N/A,LOW ,UC not reviewed
+P1493,sixty,,12months,LOW ,good but unclear alt flows
+P1494,,zero,9,,Well defined use cases
+P1495,,eight,N/A,HIGH, some missing flows
+P1496, 45%,zero, eleven,,
+P1497,,15 ,12months,High,"Incomplete UC, rework happened"
+P1498,,,14,low, Excellent documentation 
+P1499,N/A,eight,N/A,, Excellent documentation 
+P1500,90%,15 , eleven,low,poorly written
+P1501,,,N/A,low,Well defined use cases
+P1502,85,,N/A,LOW ,good but unclear alt flows
+P1503, 45%,,8 m,High,
+P1504,90%,eight,N/A,, some missing flows
+P1505,100 ,20,14,low,UC not reviewed
+P1506,90%,12,N/A,Medium ,good but unclear alt flows
+P1507,sixty,12,N/A,LOW , Excellent documentation 
+P1508,100 ,20,9,High,
+P1509,,,9,,UC not reviewed
+P1510,,eight,10,,poorly written
+P1511,N/A,20,,HIGH,
+P1512,100 ,,,High, some missing flows
+P1513,,eight, eleven,HIGH,
+P1514, 70,zero,8 m,low,Well defined use cases
+P1515,sixty,15 ,N/A,HIGH,"Incomplete UC, rework happened"
+P1516,,15 ,,High,
+P1517,N/A,20,8 m,low,"Incomplete UC, rework happened"
+P1518,,,12months,, Excellent documentation 
+P1519,sixty,12, eleven,High, Excellent documentation 
+P1520,100 ,15 ,14,,poorly written
+P1521,N/A,,N/A,LOW ,good but unclear alt flows
+P1522,sixty,12,12months,, some missing flows
+P1523,100 ,15 ,9,High,UC not reviewed
+P1524,100 ,5 defects,14,High,good but unclear alt flows
+P1525,100 ,12,9,HIGH,UC not reviewed
+P1526,90%,12,14,High,"Incomplete UC, rework happened"
+P1527,sixty,,12months,,poorly written
+P1528,85,12,8 m,High, some missing flows
+P1529,90%,15 , eleven,LOW , some missing flows
+P1530,,,8 m,low, Excellent documentation 
+P1531,sixty,zero,10,Medium ,poorly written
+P1532,sixty,,9,HIGH,UC not reviewed
+P1533,N/A,5 defects,9,low,UC not reviewed
+P1534, 45%,,12months,Medium , some missing flows
+P1535, 70,zero,9,High, some missing flows
+P1536, 70,,14,LOW ,Well defined use cases
+P1537, 70,5 defects,12months,Medium ,poorly written
+P1538,N/A,eight,9,LOW ,good but unclear alt flows
+P1539,85,eight,10,low, some missing flows
+P1540,100 ,5 defects,9,High,poorly written
+P1541,90%,15 ,N/A,low, some missing flows
+P1542,,eight,N/A,low, Excellent documentation 
+P1543,,,N/A,High,
+P1544, 45%,,8 m,Medium ,
+P1545, 70,5 defects,9,,good but unclear alt flows
+P1546,,eight,14,low, Excellent documentation 
+P1547, 45%,eight,N/A,Medium ,UC not reviewed
+P1548,sixty,20,10,,poorly written
+P1549, 70,,12months,High, some missing flows
+P1550,,,,Medium , Excellent documentation 
+P1551,N/A,eight,9,Medium ,good but unclear alt flows
+P1552,N/A,,12months,Medium ,
+P1553,N/A,zero,,LOW ,
+P1554,100 ,12,10,Medium , some missing flows
+P1555, 70,15 ,12months,Medium ,poorly written
+P1556,90%,,12months,High, some missing flows
+P1557,90%,20,14,, Excellent documentation 
+P1558,100 ,,8 m,LOW ,"Incomplete UC, rework happened"
+P1559, 45%,15 ,14,low, some missing flows
+P1560, 45%,,12months,HIGH, Excellent documentation 
+P1561,,12,8 m,HIGH,UC not reviewed
+P1562,100 ,eight,12months,HIGH,
+P1563,90%,,14,High,UC not reviewed
+P1564,,12,N/A,Medium ,"Incomplete UC, rework happened"
+P1565,,5 defects,8 m,,Well defined use cases
+P1566,85,zero, eleven,LOW , Excellent documentation 
+P1567,,,12months,LOW , Excellent documentation 
+P1568,85,15 ,10,Medium ,Well defined use cases
+P1569, 70,eight,N/A,low,Well defined use cases
+P1570,90%,zero,10,High,Well defined use cases
+P1571, 70,12,12months,HIGH,good but unclear alt flows
+P1572,100 ,zero,14,High,
+P1573,sixty,eight,9,HIGH,Well defined use cases
+P1574,90%,zero,9,HIGH,poorly written
+P1575,N/A,,10,HIGH,"Incomplete UC, rework happened"
+P1576,,15 ,10,High,poorly written
+P1577, 70,,14,LOW ,good but unclear alt flows
+P1578,sixty,,9,HIGH,Well defined use cases
+P1579,100 ,,N/A,High,UC not reviewed
+P1580,90%,5 defects, eleven,low,poorly written
+P1581,sixty,zero,N/A,low,UC not reviewed
+P1582,100 ,zero,,low,"Incomplete UC, rework happened"
+P1583, 45%,,12months,,"Incomplete UC, rework happened"
+P1584,,eight,14,High,UC not reviewed
+P1585,90%,eight, eleven,HIGH, Excellent documentation 
+P1586,,zero,12months,low,
+P1587,,eight,8 m,,UC not reviewed
+P1588, 70,20,9,LOW ,"Incomplete UC, rework happened"
+P1589,N/A,12,8 m,LOW , some missing flows
+P1590,85,20, eleven,,poorly written
+P1591,sixty,12,8 m,High,good but unclear alt flows
+P1592,85,zero,,low,poorly written
+P1593,85,15 ,,LOW ,
+P1594,90%,,8 m,low,
+P1595,90%,,14,low,Well defined use cases
+P1596, 45%,,,,
+P1597, 45%,zero,,LOW ,poorly written
+P1598,85,20, eleven,, Excellent documentation 
+P1599,90%,5 defects,14,Medium ,UC not reviewed
+P1600,,,N/A,High,poorly written
+P1601, 45%,20,8 m,HIGH,poorly written
+P1602,,15 ,N/A,HIGH,"Incomplete UC, rework happened"
+P1603, 45%,eight,8 m,, some missing flows
+P1604,sixty,20,12months,HIGH, some missing flows
+P1605,,12,,LOW ,"Incomplete UC, rework happened"
+P1606,100 ,zero, eleven,LOW ,poorly written
+P1607, 45%,20,12months,low,good but unclear alt flows
+P1608,90%,eight,8 m,,"Incomplete UC, rework happened"
+P1609,sixty,5 defects,N/A,low,Well defined use cases
+P1610,85,zero,,LOW ,good but unclear alt flows
+P1611,sixty,, eleven,Medium , some missing flows
+P1612,,eight,N/A,High,good but unclear alt flows
+P1613,,,12months,,poorly written
+P1614,N/A,zero,,LOW , Excellent documentation 
+P1615,,eight,,low, Excellent documentation 
+P1616,,15 ,9,low,UC not reviewed
+P1617,100 ,15 ,N/A,Medium ,
+P1618,90%,12,10,,Well defined use cases
+P1619,N/A,20,8 m,High,"Incomplete UC, rework happened"
+P1620, 45%,12,12months,HIGH, Excellent documentation 
+P1621, 45%,20,12months,low,UC not reviewed
+P1622, 45%,,,High,good but unclear alt flows
+P1623,,,9,low,Well defined use cases
+P1624,100 ,5 defects,,,
+P1625,,5 defects,N/A,,"Incomplete UC, rework happened"
+P1626, 45%,5 defects,,HIGH,
+P1627, 70,,10,High,poorly written
+P1628,100 ,zero,N/A,HIGH,Well defined use cases
+P1629,90%,12,10,Medium , some missing flows
+P1630,,zero,,Medium ,good but unclear alt flows
+P1631,,5 defects,8 m,Medium , Excellent documentation 
+P1632,N/A,zero, eleven,LOW , Excellent documentation 
+P1633,,,12months,low,poorly written
+P1634,100 ,zero, eleven,,"Incomplete UC, rework happened"
+P1635,N/A,20,,HIGH,
+P1636,N/A,eight,12months,LOW ,good but unclear alt flows
+P1637, 70,,10,LOW ,
+P1638,sixty,15 ,14,low,Well defined use cases
+P1639, 45%,, eleven,,UC not reviewed
+P1640,N/A,,10,High,Well defined use cases
+P1641,sixty,20,,HIGH,
+P1642,100 ,,8 m,LOW ,good but unclear alt flows
+P1643, 45%,5 defects, eleven,High,UC not reviewed
+P1644,sixty,12,8 m,HIGH,good but unclear alt flows
+P1645,90%,12,12months,LOW , some missing flows
+P1646,,5 defects,9,LOW ,good but unclear alt flows
+P1647,sixty,20,8 m,,"Incomplete UC, rework happened"
+P1648,N/A,,10,LOW ,"Incomplete UC, rework happened"
+P1649,N/A,zero,14,HIGH,good but unclear alt flows
+P1650, 70,zero,9,HIGH,UC not reviewed
+P1651,,,8 m,HIGH, some missing flows
+P1652,100 ,5 defects, eleven,LOW ,good but unclear alt flows
+P1653,85,12, eleven,low, Excellent documentation 
+P1654,,15 ,8 m,low, some missing flows
+P1655,,15 , eleven,High,good but unclear alt flows
+P1656,N/A,,9,High,"Incomplete UC, rework happened"
+P1657,,5 defects,8 m,HIGH,UC not reviewed
+P1658,,,N/A,High,good but unclear alt flows
+P1659,,zero,N/A,, Excellent documentation 
+P1660,N/A,12,12months,Medium ,good but unclear alt flows
+P1661,90%,,8 m,low,good but unclear alt flows
+P1662,,,10,High,Well defined use cases
+P1663, 70,12,12months,LOW ,good but unclear alt flows
+P1664, 70,zero,9,HIGH,"Incomplete UC, rework happened"
+P1665,sixty,,9,Medium ,
+P1666, 45%,eight,10,low,UC not reviewed
+P1667,,,10,HIGH,good but unclear alt flows
+P1668,,15 , eleven,low, some missing flows
+P1669,100 ,5 defects,12months,Medium ,UC not reviewed
+P1670,,5 defects,9,LOW ,
+P1671,100 ,eight,,HIGH,Well defined use cases
+P1672,100 ,5 defects,,,good but unclear alt flows
+P1673, 70,,14,,poorly written
+P1674, 45%,5 defects,12months,low,poorly written
+P1675,,15 ,9,Medium , some missing flows
+P1676,N/A,,12months,LOW ,UC not reviewed
+P1677,sixty,20,10,HIGH,Well defined use cases
+P1678,N/A,zero,N/A,Medium ,good but unclear alt flows
+P1679,,, eleven,High,
+P1680,sixty,20,10,LOW ,good but unclear alt flows
+P1681,N/A,15 ,10,Medium , some missing flows
+P1682,85,20,12months,Medium , some missing flows
+P1683, 70,15 ,10,, some missing flows
+P1684,,5 defects,12months,HIGH,poorly written
+P1685,85,eight,,Medium ,good but unclear alt flows
+P1686,100 ,eight,8 m,HIGH,
+P1687, 70,zero,,Medium ,"Incomplete UC, rework happened"
+P1688,,,12months,Medium ,poorly written
+P1689, 70,12,14,low, Excellent documentation 
+P1690, 70,,12months,,poorly written
+P1691, 70,,9,low, Excellent documentation 
+P1692,,, eleven,low,good but unclear alt flows
+P1693,sixty,20,10,,poorly written
+P1694, 70,,10,LOW ,Well defined use cases
+P1695,N/A,20,,,UC not reviewed
+P1696,100 ,,10,low,"Incomplete UC, rework happened"
+P1697,85,15 ,,low,"Incomplete UC, rework happened"
+P1698,N/A,15 , eleven,Medium ,"Incomplete UC, rework happened"
+P1699,,,12months,High,good but unclear alt flows
+P1700,85,zero,9,High,
+P1701,85,20,8 m,HIGH,good but unclear alt flows
+P1702,85,5 defects, eleven,, Excellent documentation 
+P1703,90%,12,12months,low, some missing flows
+P1704,sixty,15 ,8 m,HIGH,
+P1705,100 ,,14,,poorly written
+P1706,sixty,,14,High,poorly written
+P1707,90%,15 ,14,High,UC not reviewed
+P1708,N/A,, eleven,,Well defined use cases
+P1709,,,14,,
+P1710, 45%,15 ,9,,poorly written
+P1711,N/A,20,10,,good but unclear alt flows
+P1712,90%,12,14,Medium ,Well defined use cases
+P1713,,20,8 m,Medium ,Well defined use cases
+P1714,100 ,12,8 m,High,UC not reviewed
+P1715, 45%,zero,10,, some missing flows
+P1716,85,eight, eleven,low,UC not reviewed
+P1717, 70,15 , eleven,High,UC not reviewed
+P1718, 70,eight,N/A,HIGH, Excellent documentation 
+P1719,100 ,zero, eleven,High,good but unclear alt flows
+P1720,90%,eight,10,HIGH,UC not reviewed
+P1721,100 ,20,9,HIGH,Well defined use cases
+P1722,90%,eight,9,Medium ,good but unclear alt flows
+P1723,90%,12,9,Medium ,poorly written
+P1724,N/A,20,9,HIGH, Excellent documentation 
+P1725,,12,,High,good but unclear alt flows
+P1726,90%,5 defects,N/A,HIGH,UC not reviewed
+P1727,N/A,5 defects,10,low,Well defined use cases
+P1728, 70,20,N/A,low,Well defined use cases
+P1729,90%,, eleven,High,poorly written
+P1730,,eight,10,LOW ,"Incomplete UC, rework happened"
+P1731,,eight,8 m,Medium ,poorly written
+P1732,90%,12,14,LOW ,Well defined use cases
+P1733,,,,,poorly written
+P1734,90%,, eleven,low, some missing flows
+P1735,sixty,5 defects,N/A,low,Well defined use cases
+P1736,N/A,,N/A,High, some missing flows
+P1737,85,15 ,,LOW ,"Incomplete UC, rework happened"
+P1738,100 ,20,12months,High,good but unclear alt flows
+P1739, 70,eight,12months,,"Incomplete UC, rework happened"
+P1740,,15 , eleven,low, some missing flows
+P1741,,zero,8 m,low,good but unclear alt flows
+P1742,100 ,12,14,low, Excellent documentation 
+P1743,85,12,10,LOW ,good but unclear alt flows
+P1744,100 ,zero,N/A,High,UC not reviewed
+P1745,,eight,12months,Medium ,"Incomplete UC, rework happened"
+P1746,sixty,5 defects,10,low, Excellent documentation 
+P1747,90%,5 defects,,low,"Incomplete UC, rework happened"
+P1748,90%,20,,,poorly written
+P1749, 45%,5 defects,9,Medium ,"Incomplete UC, rework happened"
+P1750,sixty,,N/A,LOW ,
+P1751,85,,8 m,LOW ,
+P1752, 45%,12,12months,,"Incomplete UC, rework happened"
+P1753, 45%,zero,8 m,, Excellent documentation 
+P1754, 70,20,,low,poorly written
+P1755,N/A,12,9,LOW ,UC not reviewed
+P1756,N/A,,8 m,low, some missing flows
+P1757,100 ,5 defects, eleven,low,"Incomplete UC, rework happened"
+P1758,,zero, eleven,Medium , some missing flows
+P1759, 70,5 defects,9,,good but unclear alt flows
+P1760, 70,15 ,12months,High,poorly written
+P1761, 45%,5 defects,10,Medium , Excellent documentation 
+P1762,100 ,,N/A,Medium ,
+P1763,sixty,5 defects,,High,"Incomplete UC, rework happened"
+P1764,sixty,20,N/A,High,good but unclear alt flows
+P1765, 70,20,12months,LOW , some missing flows
+P1766,85,5 defects,N/A,low,"Incomplete UC, rework happened"
+P1767,100 ,zero,10,low,good but unclear alt flows
+P1768,90%,zero,8 m,HIGH,good but unclear alt flows
+P1769,,,10,High,good but unclear alt flows
+P1770,90%,15 ,9,low,
+P1771,100 ,12,,low,"Incomplete UC, rework happened"
+P1772,85,,9,LOW ,poorly written
+P1773,,5 defects,9,HIGH,good but unclear alt flows
+P1774,100 ,5 defects,N/A,,"Incomplete UC, rework happened"
+P1775,sixty,eight,9,LOW ,"Incomplete UC, rework happened"
+P1776, 70,eight,9,LOW ,UC not reviewed
+P1777,sixty,,N/A,low,"Incomplete UC, rework happened"
+P1778, 45%,5 defects,10,Medium ,Well defined use cases
+P1779,90%,20,10,Medium ,
+P1780,sixty,,N/A,HIGH, Excellent documentation 
+P1781, 45%,,9,HIGH, Excellent documentation 
+P1782,sixty,15 ,N/A,,UC not reviewed
+P1783, 70,,14,Medium ,
+P1784,N/A,,14,low,poorly written
+P1785,100 ,15 ,8 m,,poorly written
+P1786,85,,12months,Medium ,UC not reviewed
+P1787,90%,15 ,N/A,High, Excellent documentation 
+P1788,,zero,10,High,"Incomplete UC, rework happened"
+P1789,,5 defects,10,Medium ,UC not reviewed
+P1790,sixty,zero,N/A,LOW , Excellent documentation 
+P1791,,5 defects,8 m,Medium , some missing flows
+P1792,90%,12, eleven,low,
+P1793,,20,8 m,low,Well defined use cases
+P1794, 45%,12,9,Medium ,"Incomplete UC, rework happened"
+P1795,N/A,12,,LOW ,
+P1796, 45%,zero,14,Medium , Excellent documentation 
+P1797,85,,12months,LOW ,poorly written
+P1798,85,20,12months,High,Well defined use cases
+P1799,sixty,15 ,12months,Medium ,Well defined use cases
+P1800, 45%,,9,HIGH,
+P1801, 45%,5 defects,9,HIGH,poorly written
+P1802,sixty,zero,10,LOW ,
+P1803,sixty,20,14,Medium ,UC not reviewed
+P1804,sixty,eight,N/A,Medium ,good but unclear alt flows
+P1805,90%,,,LOW ,good but unclear alt flows
+P1806,100 ,,9,low,
+P1807,N/A,20,9,LOW , Excellent documentation 
+P1808, 45%,15 ,N/A,low,"Incomplete UC, rework happened"
+P1809, 70,zero,14,, some missing flows
+P1810,100 ,,8 m,Medium ,Well defined use cases
+P1811, 45%,,,low, Excellent documentation 
+P1812, 45%,5 defects,N/A,High,
+P1813, 70,,N/A,low, Excellent documentation 
+P1814,N/A,5 defects,N/A,High,UC not reviewed
+P1815,,,14,,"Incomplete UC, rework happened"
+P1816,90%,12,N/A,High,good but unclear alt flows
+P1817,sixty,20,10,, some missing flows
+P1818,sixty,15 ,10,LOW ,"Incomplete UC, rework happened"
+P1819,100 ,,8 m,LOW ,poorly written
+P1820, 70,20,8 m,low,Well defined use cases
+P1821,85,,N/A,LOW , Excellent documentation 
+P1822, 45%,zero,12months,LOW , Excellent documentation 
+P1823,sixty,15 ,12months,,poorly written
+P1824,85,12,12months,HIGH, some missing flows
+P1825,100 ,20,12months,Medium ,poorly written
+P1826,,, eleven,HIGH, Excellent documentation 
+P1827,90%,zero, eleven,High,poorly written
+P1828,85,eight,10,High, some missing flows
+P1829, 45%,eight,14,LOW ,
+P1830, 45%,,10,Medium ,
+P1831, 70,,10,High,good but unclear alt flows
+P1832, 45%,15 ,N/A,,good but unclear alt flows
+P1833,sixty,zero,14,HIGH,"Incomplete UC, rework happened"
+P1834,sixty,15 ,14,,poorly written
+P1835,sixty,,9,, some missing flows
+P1836,90%,15 ,,Medium ,poorly written
+P1837,N/A,zero,10,Medium , Excellent documentation 
+P1838,N/A,zero,10,Medium ,
+P1839,,zero,N/A,low,good but unclear alt flows
+P1840, 45%,15 ,14,low,"Incomplete UC, rework happened"
+P1841,,eight,14,,UC not reviewed
+P1842, 70,12,8 m,low,Well defined use cases
+P1843,90%,,14,low,poorly written
+P1844,sixty,zero,14,Medium ,
+P1845,,20,,HIGH,poorly written
+P1846,sixty,15 , eleven,High,Well defined use cases
+P1847,N/A,eight,12months,High,Well defined use cases
+P1848, 45%,20, eleven,low,"Incomplete UC, rework happened"
+P1849,,5 defects,N/A,, Excellent documentation 
+P1850, 70,12, eleven,, Excellent documentation 
+P1851,90%,zero,14,Medium ,UC not reviewed
+P1852,sixty,5 defects,N/A,High,Well defined use cases
+P1853, 70,eight,10,High,Well defined use cases
+P1854,sixty,eight,N/A,Medium , some missing flows
+P1855,,15 ,N/A,High,poorly written
+P1856,sixty,eight, eleven,low, Excellent documentation 
+P1857,,,12months,HIGH,
+P1858,,5 defects,N/A,High,Well defined use cases
+P1859,,,N/A,, Excellent documentation 
+P1860, 70,20,14,low,UC not reviewed
+P1861,N/A,,N/A,HIGH,good but unclear alt flows
+P1862,,15 ,14,High,"Incomplete UC, rework happened"
+P1863,,20, eleven,Medium ,poorly written
+P1864, 45%,,12months,LOW , some missing flows
+P1865,N/A,,12months,low,poorly written
+P1866,85,12,10,,
+P1867,85,20, eleven,, some missing flows
+P1868,sixty,,,low,
+P1869, 70,20,12months,LOW , Excellent documentation 
+P1870, 45%,,12months,low,poorly written
+P1871,,12,14,low,Well defined use cases
+P1872,,,N/A,LOW ,UC not reviewed
+P1873, 45%,12, eleven,Medium ,good but unclear alt flows
+P1874, 70,5 defects,12months,HIGH,good but unclear alt flows
+P1875,90%,eight, eleven,, some missing flows
+P1876,,zero,12months,LOW ,Well defined use cases
+P1877,sixty,zero,9,low,"Incomplete UC, rework happened"
+P1878,,15 ,8 m,HIGH,UC not reviewed
+P1879,sixty,,,LOW , some missing flows
+P1880, 70,,N/A,HIGH,
+P1881, 70,,10,Medium ,poorly written
+P1882, 70,20, eleven,,poorly written
+P1883, 45%,,14,Medium ,Well defined use cases
+P1884, 45%,15 ,14,low, Excellent documentation 
+P1885,sixty,,8 m,low,Well defined use cases
+P1886,sixty,,,,"Incomplete UC, rework happened"
+P1887,85,,,HIGH, Excellent documentation 
+P1888,85,,14,Medium ,UC not reviewed
+P1889,,zero,10,,good but unclear alt flows
+P1890,,12,8 m,, some missing flows
+P1891,,,12months,Medium ,"Incomplete UC, rework happened"
+P1892, 45%,15 ,10,Medium , Excellent documentation 
+P1893,,15 ,N/A,High, Excellent documentation 
+P1894,100 ,,14,low, some missing flows
+P1895,,,10,HIGH,Well defined use cases
+P1896,N/A,,10,,"Incomplete UC, rework happened"
+P1897,90%,15 , eleven,Medium , some missing flows
+P1898, 45%,,9,low,Well defined use cases
+P1899,sixty,12,12months,LOW , some missing flows
+P1900,sixty,,,low,poorly written
+P1901,,20, eleven,High,good but unclear alt flows
+P1902,N/A,zero,10,Medium ,Well defined use cases
+P1903,sixty,15 ,14,LOW ,good but unclear alt flows
+P1904,85,12,14,Medium , Excellent documentation 
+P1905, 45%,15 ,9,HIGH,poorly written
+P1906,,eight,12months,Medium ,UC not reviewed
+P1907,85,5 defects, eleven,low, Excellent documentation 
+P1908,,,10,LOW ,poorly written
+P1909,,15 , eleven,LOW ,UC not reviewed
+P1910,N/A,12,10,HIGH,good but unclear alt flows
+P1911,100 ,20,N/A,, some missing flows
+P1912,90%,5 defects,9,low,Well defined use cases
+P1913,,12,9,LOW ,
+P1914,,20,,, some missing flows
+P1915,90%,12,8 m,HIGH,UC not reviewed
+P1916,N/A,12,14,, some missing flows
+P1917,,15 ,9,,Well defined use cases
+P1918, 70,12,10,HIGH,good but unclear alt flows
+P1919, 45%,20, eleven,Medium ,Well defined use cases
+P1920,,zero,10,HIGH,UC not reviewed
+P1921,,15 ,10,,
+P1922,100 ,eight,10,High,
+P1923,100 ,20, eleven,low,UC not reviewed
+P1924,85,,12months,High,poorly written
+P1925,85,12,,,UC not reviewed
+P1926, 70,zero,10,LOW ,
+P1927,N/A,20,12months,LOW , some missing flows
+P1928, 70,12,12months,Medium ,good but unclear alt flows
+P1929,,,,,poorly written
+P1930, 45%,,9,High, Excellent documentation 
+P1931,,zero,8 m,High, some missing flows
+P1932,,,12months,Medium ,Well defined use cases
+P1933, 70,,10,High, Excellent documentation 
+P1934, 70,12,12months,High,poorly written
+P1935, 70,12,12months,High, Excellent documentation 
+P1936,,15 ,14,HIGH, Excellent documentation 
+P1937,85,20,10,low, some missing flows
+P1938,sixty,,,low, Excellent documentation 
+P1939,sixty,zero,9,HIGH, Excellent documentation 
+P1940,,zero,12months,LOW ,"Incomplete UC, rework happened"
+P1941,,15 ,14,HIGH,UC not reviewed
+P1942, 70,5 defects, eleven,High,poorly written
+P1943,sixty,20, eleven,High,UC not reviewed
+P1944,90%,20,9,,"Incomplete UC, rework happened"
+P1945,,5 defects,14,High,UC not reviewed
+P1946,,20,14,High,Well defined use cases
+P1947,90%,15 ,10,low,poorly written
+P1948, 45%,15 ,N/A,Medium , some missing flows
+P1949,90%,15 ,10,LOW ,good but unclear alt flows
+P1950,N/A,15 , eleven,High,poorly written
+P1951, 45%,,12months,low,UC not reviewed
+P1952,100 ,,10,,UC not reviewed
+P1953,85,5 defects,9,low,poorly written
+P1954, 45%,,10,low,good but unclear alt flows
+P1955,90%,12,N/A,,
+P1956,sixty,,,low,Well defined use cases
+P1957,100 ,15 ,12months,, some missing flows
+P1958, 45%,12,14,,poorly written
+P1959,100 ,5 defects,14,HIGH,poorly written
+P1960,,,9,, Excellent documentation 
+P1961, 45%,,9,HIGH,"Incomplete UC, rework happened"
+P1962,100 ,20,8 m,low,UC not reviewed
+P1963,,5 defects,9,HIGH, Excellent documentation 
+P1964, 70,zero,10,,
+P1965,N/A,15 ,,HIGH,"Incomplete UC, rework happened"
+P1966,85,5 defects,N/A,,
+P1967,N/A,15 ,N/A,High,Well defined use cases
+P1968,85,zero,,,good but unclear alt flows
+P1969, 45%,,14,,Well defined use cases
+P1970,90%,zero,,low, Excellent documentation 
+P1971,85,,10,Medium , some missing flows
+P1972,90%,eight,8 m,High,good but unclear alt flows
+P1973, 70,eight,8 m,,UC not reviewed
+P1974, 70,,,HIGH,good but unclear alt flows
+P1975,,,14,,UC not reviewed
+P1976,85,15 ,10,LOW ,UC not reviewed
+P1977,85,eight,9,LOW ,"Incomplete UC, rework happened"
+P1978,,zero,,LOW ,
+P1979,,,N/A,,Well defined use cases
+P1980, 45%,zero,N/A,HIGH, some missing flows
+P1981,,,,High,poorly written
+P1982,sixty,20,8 m,LOW ,UC not reviewed
+P1983, 45%,15 ,N/A,, Excellent documentation 
+P1984,sixty,eight,,,Well defined use cases
+P1985,N/A,,14,LOW ,good but unclear alt flows
+P1986, 70,5 defects,12months,Medium ,good but unclear alt flows
+P1987,85,5 defects,8 m,Medium ,poorly written
+P1988,N/A,20,10,HIGH,Well defined use cases
+P1989, 45%,eight,9,low,UC not reviewed
+P1990,100 ,,,Medium , some missing flows
+P1991,N/A,5 defects,9,HIGH,"Incomplete UC, rework happened"
+P1992,,zero,8 m,Medium ,"Incomplete UC, rework happened"
+P1993,,,9,, Excellent documentation 
+P1994,sixty,,10,low,Well defined use cases
+P1995,90%,5 defects,,HIGH,good but unclear alt flows
+P1996, 45%,15 ,12months,low, some missing flows
+P1997,N/A,15 , eleven,High, Excellent documentation 
+P1998,90%,eight,10,High,poorly written
+P1999,90%,20,N/A,low,good but unclear alt flows
+P2000, 70,5 defects,,low,good but unclear alt flows
